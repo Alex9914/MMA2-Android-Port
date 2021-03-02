@@ -1,0 +1,4570 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_131 (Oracle Corporation)
+
+Name: assets/www/img/pictures/harpy belly.png
+SHA-256-Digest: zOsbgzBuwy1I23PnsjOySOjvkCBfTsVxTSioHvImw8k=
+
+Name: assets/www/img/pictures/whore owner.png
+SHA-256-Digest: Wv2k7v3L7gwrqUK9Jo4yoFJB7pIUYCklZmKpgj+EjpA=
+
+Name: assets/www/img/pictures/11 swall.png
+SHA-256-Digest: IvvT0uYa7PvtctYbB+k8KJn0pPLfiYb8J1moLAvQB5I=
+
+Name: assets/www/img/animations/Recovery4.png
+SHA-256-Digest: pI3wgLG1RAz2TUO89NAiVtEjTr/FO9+mRhG0t569BGA=
+
+Name: assets/www/img/pictures/dvora belly.png
+SHA-256-Digest: 6LAs4YGR+9Kda+PjEoOKpaSJ0h9L2bb8r/50o7kXkQ4=
+
+Name: assets/www/data/Actors.json
+SHA-256-Digest: K6pxk0qNhhBmwe0tCjm4PHURoRiOsBbct86lq6OPX2w=
+
+Name: assets/www/img/pictures/girl pink belly bump.png
+SHA-256-Digest: pWRxSRSIsTitkZfn3XSvkbNaYp1cMmZ6nBlNChF0hWA=
+
+Name: assets/www/img/pictures/ta158b inb.png
+SHA-256-Digest: vEi4yPwlCxFAbHpZJEcHnxc+tYBibgvQJIW5o+narrA=
+
+Name: res/drawable-xxxhdpi/abc_ic_star_black_36dp.png
+SHA-256-Digest: yEjqovwOw4BuCPftwtdeeVQVyHAngalArU6teQMktB0=
+
+Name: assets/www/data/Map071.json
+SHA-256-Digest: 3QQQi1xb4YiXJs4lUK/g0oN6kOK/xbBdCn9UYpg1doA=
+
+Name: assets/www/data/Map037.json
+SHA-256-Digest: en2Rr/RKHkO2VMX0363iwybRK8//0gQxU2mCmyrq8n8=
+
+Name: assets/www/img/pictures/sali g av arm.png
+SHA-256-Digest: jRcJ42qsRV4117AKBHwADIkFsuSjGlRY7bjYesag7X8=
+
+Name: res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: Dvez2fnYkKSOT8zA2wcxW9b8ynBJRS4gonppvSIIBBU=
+
+Name: assets/www/img/pictures/mysti small b nev1.png
+SHA-256-Digest: ezaaJeqoOQr4aHhETf1aTitX+y0e335vDiKbEZiZHpo=
+
+Name: assets/www/img/pictures/girl pink squat.png
+SHA-256-Digest: /jJ2GnLMFXDYtozF56nsCQYxPy+2CHAe0UpsJDGBgSE=
+
+Name: res/drawable-xhdpi/abc_text_select_handle_middle_mtrl_dark.png
+SHA-256-Digest: 6DssCVAw9gQdHJ0AbOnAf5TUJw+w/gjdwiQQXGCflUI=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: JblAu/ZUfBVPYyngAoX44JmXJdZJPvPMkmMN3g9o/xk=
+
+Name: res/drawable-xhdpi/abc_ic_star_black_16dp.png
+SHA-256-Digest: YZqZ8MfcZY3cEQinhRnQ67Nz/S3zjzrG99ot8QzC+cw=
+
+Name: assets/www/movies/zebrataur.webm
+SHA-256-Digest: Tk3BM2rT4GUo2/I4k0IigX15qb87+WLS5pNhfP/Apj0=
+
+Name: res/color-v23/abc_btn_colored_text_material.xml
+SHA-256-Digest: 4yGkOH23XtDFpIVLSsV2qlp2kuF91xDQQhOA7Yd8AkQ=
+
+Name: res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: S7Ti7Gne0+dIomUiuQo9Exh5Vod4c3SgXccR8pJbRGQ=
+
+Name: assets/www/audio/se/0 stomach1.m4a
+SHA-256-Digest: A3OEIejut7SMP+fORpl2OFcM75erYUmZIbJJaCOKSpc=
+
+Name: assets/www/img/pictures/zerowag cv1.png
+SHA-256-Digest: GM7b42IAzyzdlwiMOKN3HynyPuhM9FEtO64t7uMoBuE=
+
+Name: assets/www/audio/se/Fire2.m4a
+SHA-256-Digest: f6Ns/eCF391xu/r6T6W6RZYk0sSxX7PMMYna5TgofZs=
+
+Name: assets/www/img/pictures/sali devi 1.png
+SHA-256-Digest: yoJpNsYeYMREoA9WsxQZbND7s7U+OSlEhKVWUtCBOHM=
+
+Name: assets/www/img/faces/People1.png
+SHA-256-Digest: PwRfrWh+riW99PMJX6cDvpTzTZF0rg9Ic+m2hR3UoYs=
+
+Name: assets/www/img/tilesets/Inside_A5.png
+SHA-256-Digest: fpEKovB0ckgnevPorIJ8FURb7lx+rdNw0SedGSN1adY=
+
+Name: res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: tkTM403uaXbG5o26MkPottqNwV9AqIlRN86Oeca0rao=
+
+Name: res/drawable/notification_bg_low.xml
+SHA-256-Digest: ImuxYPHJal4V/KR5KSmDHLzbmzm5wRcbZ7yYg9NZu5s=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA-256-Digest: uYZa8VuVevYk/0l0IHLOvna9gwcyIMjN4ThXtUtx4R4=
+
+Name: assets/www/img/pictures/11 under.png
+SHA-256-Digest: S6J01MImCLURHen4szv+d5AwfeQwrCZyIbyegKBjg5E=
+
+Name: assets/www/img/pictures/tinkerbell_by_sorah_suhng-dajxhsk stom.p
+ ng
+SHA-256-Digest: ZclKxZoi5/fYmXGtwdUmGUWBrVs/aphNqbXSXEdnkB8=
+
+Name: assets/www/img/tilesets/SF_Outside_D.png
+SHA-256-Digest: x4lTuMFQl6WbFjdv+Qu54oW07W+jTknySG8K3xQDFZE=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA-256-Digest: 5wcPoH1QNe9O/3LVCi5eYrNe9JbLQq8Rcg1Vc8Qc3Ww=
+
+Name: assets/www/img/battlebacks2/Town2.png
+SHA-256-Digest: ith3FIM8cSn7oUBvEGERERh7v7MQ+8s3UP/HwIQCDgU=
+
+Name: assets/www/img/pictures/ali cv in.png
+SHA-256-Digest: h281hdn/XAnwVJ6IkwWt459RJ9MiIToDooAdA3kpgQw=
+
+Name: assets/www/data/Weapons.json
+SHA-256-Digest: fLDISUXJMXbHwChpnKwsZkNS8kbu1vN+WQlprzuw2IM=
+
+Name: assets/www/img/faces/2000_Actor2_1_3.png
+SHA-256-Digest: 7ynv5wTqyXO+PJx2X0bqRM1ZWq/i9c4xH7stoZtEto4=
+
+Name: assets/www/audio/se/Shop1.m4a
+SHA-256-Digest: 2lbkVMIwmOJ80lD0XShbgtvDNF6l6AGfxKdXDImP7ew=
+
+Name: assets/www/audio/se/Damage4.m4a
+SHA-256-Digest: uW5hjL2WmViJxyrYgqNK5v0XUURS8qxHkR5fyXj+8fQ=
+
+Name: assets/www/audio/bgm/03_Dreamy_Daze.m4a
+SHA-256-Digest: TeVhLXfVfHDf21bv50W71I7asushn33n4WIkN0kccZA=
+
+Name: assets/www/char 2.json
+SHA-256-Digest: 6WsMTz+WZti8f473oUfM8aA5lvSl6pLn7mqur618wlE=
+
+Name: assets/www/img/pictures/InBody td.png
+SHA-256-Digest: lyIlgxKN3Ls1dn2d2aNHyrmyhs672xh8lo5VWtZoekk=
+
+Name: res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: jdRTIHr8FT6PFxL7YwVo4FzyaX+iLKF4nlPCR94suWA=
+
+Name: assets/www/img/characters/!Flame.png
+SHA-256-Digest: 86FYt54TQin3gRDMIch2JOzvCmeB8xWlKwMQUiRaITQ=
+
+Name: assets/www/js/rpg_scenes.js
+SHA-256-Digest: 16HMN6aBz8C+nAd345cNEECsboAcZCXM8c9LPxEg8pg=
+
+Name: assets/www/img/tilesets/Dungeon_A2.png
+SHA-256-Digest: 0nLfs9ivRiiM8jqjhNTlRANoR9txTHgv16KkbYsjs2w=
+
+Name: assets/www/img/animations/HitPhoton.png
+SHA-256-Digest: pU39J+TS6Fh6jsKrPgOHfZUgG1VzTdCTKSyrtcN7Buo=
+
+Name: assets/www/img/enemies/warrior 3 batt.png
+SHA-256-Digest: dw0px91DeWVvlrk5wUpGb4Hu3SbRV6MAH8kCZ0G+tWc=
+
+Name: res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: UayJM0ofmZvvXt5BjmJEzh/Ipo0jPkNcxGyw6/Vo9Qg=
+
+Name: assets/www/data/Map021.json
+SHA-256-Digest: 89MC2zVGxz5LJnG+CAHuBsbsQV4jGmOK5hLIZDNT1v4=
+
+Name: assets/www/img/characters/ali.png
+SHA-256-Digest: r7PGWl2thrvO3wKiI5FU9qd22FzvL8FIhvDpPa1ueJQ=
+
+Name: assets/www/img/pictures/dark.png
+SHA-256-Digest: +P6DHKCsItcnNMtn2Alo8zHPY0TDOFI4aHEwxwsvbmE=
+
+Name: res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA-256-Digest: K2g9oDvG4Jj8RQv58cowdckJrxPjkVc1kBsIMr5vh30=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA-256-Digest: pLRilnhHkhTxF/4QFwjhLp8gDEssgn3JS8LIc6JmCEw=
+
+Name: assets/www/audio/bgm/Town7.m4a
+SHA-256-Digest: G7WH0HJymtKvILnR4PTmFpePAeXgNhmZ0gHNcOuhlDM=
+
+Name: assets/www/img/tilesets/World_A2.txt
+SHA-256-Digest: 7ixRDLx8S64PE1xRzjHXQgnwe9zfaA86IeH3M1IgORU=
+
+Name: assets/www/img/pictures/ninjapurp.png
+SHA-256-Digest: vQroMEY2c5SDD1fGU7LNj3V5YJvZso0zFSFdKmnLT+c=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA-256-Digest: QR0iTDDgHKzQmfn8Ztlos4WarRpZA+iZomAgF8aPxHo=
+
+Name: assets/www/img/pictures/aayla.png
+SHA-256-Digest: MT9S56//b4MA/bI4EXBNvBUpXbo3UlkRSrXLStzSWd4=
+
+Name: assets/www/img/pictures/ali ov.png
+SHA-256-Digest: yEZzMoTLpsNoLvSmZJm3BKhqeXpjDjfEMxQe6Kgg3ZY=
+
+Name: assets/www/img/pictures/slime copy 1 pat.png
+SHA-256-Digest: thOVzCpZ0qb3rUN+Vsi4EdacKHiUZsn6Kb9/1y1jt9Q=
+
+Name: res/drawable-xhdpi/notification_bg_normal.9.png
+SHA-256-Digest: VZv3g9dlwCM46XlSvcnGaJx/+ZCQuMmBM2kRjaiwgPA=
+
+Name: assets/www/img/pictures/oni3 avp34.png
+SHA-256-Digest: /toOcLByAJd3yQXj1Qi4HgzOyzs7KhstMxqLqQNczbE=
+
+Name: assets/www/data/Map030.json
+SHA-256-Digest: RbXZt65tHqqOe+ZcJCDEkKElTniBLQ6sTvi8LRwQ8gU=
+
+Name: assets/www/js/plugins/ItemBook.js
+SHA-256-Digest: vQEnv803ZnpjgFbQ8lZgNNsLTL/fNMrhcyALovjM70U=
+
+Name: res/drawable-hdpi/abc_list_longpressed_holo.9.png
+SHA-256-Digest: 1cZEsA7nm9Tx/LeJ67+J55wMb+qHjfvEqMZMO+NLWwM=
+
+Name: assets/www/img/faces/char 2.png
+SHA-256-Digest: CRQdgro8z2wbu1IjB6rUx1JMUGqrNqkjYjz1c44+WmY=
+
+Name: assets/www/audio/se/Explosion2.m4a
+SHA-256-Digest: fKfkHZIfL1P0fU0nS23k4zeZcCUClL4ll9cXYX5h+UA=
+
+Name: res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: TNyvziWeO+sM3PzNlp9rGP2rQhhwk0cVy04CciMKNsg=
+
+Name: assets/www/img/faces/SF_Actor1.png
+SHA-256-Digest: kU2L7UPVjVS40z5nOOfgYGsgUGUAIR/HoYb2UcRd2AQ=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA-256-Digest: 8Mt6LMpY6zh9Asp2jgtMFlE/75PEKMN5FFsnvarcpVI=
+
+Name: assets/www/img/characters/Denias.png
+SHA-256-Digest: sG+sj8Fqx233+j+AKUlqRNw1V2j0NHn8b6KGObsPVHg=
+
+Name: assets/www/img/sv_actors/Actor2_6.png
+SHA-256-Digest: ZIrosSPF9G2LJslJqo3tYVkB/Fs8SCuaffuU2LxzNKg=
+
+Name: assets/www/img/tilesets/Inside_A5.txt
+SHA-256-Digest: NZpqMcwbioxmnJyOWPhbItBABXy60IWZ0NrYaaddwQY=
+
+Name: assets/www/audio/se/Leakage.m4a
+SHA-256-Digest: xOMbQqYDOqXn2ADc1ddxmRaDXN33shJdOtvSLNL4G1c=
+
+Name: assets/www/img/pictures/in stom over.png
+SHA-256-Digest: yMO2BHwYJmGqnAnDD7pSL67rK/+rZbeESI+K4OLaTew=
+
+Name: assets/www/audio/bgm/Dungeon2.m4a
+SHA-256-Digest: gSBC3WByf+AIKx1NQriW4XHRZ3V5t1RTmsQceOnFvhA=
+
+Name: assets/www/audio/bgm/Theme2.m4a
+SHA-256-Digest: 1oEH5L/kpM0DuwGfJwoRtnqBfRr80jE1QBiE+9FKeik=
+
+Name: assets/www/audio/se/Monster5.m4a
+SHA-256-Digest: sL1fcCSuOfwBItF1bSmu4iaNI2pIkmiQ6TSJASEsvLM=
+
+Name: res/anim/abc_popup_exit.xml
+SHA-256-Digest: +Hj6kxf1UqCFIKuKUeXvUaHlLsahjZ7MLIbie7rJRr8=
+
+Name: assets/www/audio/se/Door1.m4a
+SHA-256-Digest: csT3N7w7+OTGUSlr5G04YDNnJBO8jY1FZJ00ZWSHKEk=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: DfbR/le5sousOmorgpQbzdq35hagJSAarL5ekMSMIGg=
+
+Name: assets/www/img/system/States.png
+SHA-256-Digest: 2gBIKq9jGD7PCD/pPkjCtmc/PDLAMt3u0n9QqkaoSlc=
+
+Name: res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: vGvzOE5TM5PmSusw4xaIe24gmY9bBkTF9hOEBNupWGY=
+
+Name: assets/www/img/pictures/aayla6 av1b.png
+SHA-256-Digest: IspywSzSwWGKaQBjWwwvfJNuqT74bBinXytTNdBMx+c=
+
+Name: assets/www/audio/se/021-Dive01.m4a
+SHA-256-Digest: WM9uvSXpgSO7enlg/fGhVXmcatFCSkE+PYxhcKQTnGk=
+
+Name: assets/www/img/tilesets/World_A1.png
+SHA-256-Digest: gOhhYtKnlh+FLs1F+8Sx3bwYZNFVO/mxnkD3/k7wkHA=
+
+Name: assets/www/img/pictures/grass scene 2.png
+SHA-256-Digest: ucSHpbwhTPNnEOYTx6G1jSL275Wl58SEoet/r4P8vaU=
+
+Name: assets/www/img/pictures/inside copy.png
+SHA-256-Digest: JZHOw5i3FXdBL2HBa7iiK5PpnDxepbszu1cLmgNOnDs=
+
+Name: assets/www/img/battlebacks1/Ruins2.png
+SHA-256-Digest: zg9LItiM4Qt432U/b81NMmx82z85tyQHz3/UhLHUlc0=
+
+Name: res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: m+RlYIR7NZahQGvai3qESUd/MxQgbJoZtT5nA2U9tNc=
+
+Name: assets/www/audio/se/Fire1.m4a
+SHA-256-Digest: J81XplpPtTVFCWA5zOwejoiEs1JSs66u+MjUqzybzv0=
+
+Name: assets/www/img/pictures/cent b in.png
+SHA-256-Digest: wNYJceds89SRgbczEWs2evwxZTRY57IzI3ujd7oYCUg=
+
+Name: assets/www/movies/aayla av.webm
+SHA-256-Digest: rXeJWnekmKMn6jIclQjhCfJaEE3VRwTu3R1kyR8rO9Y=
+
+Name: assets/www/audio/se/0 Pleasure_v_short.m4a
+SHA-256-Digest: +Klcfk2XEfHD0cm3sAIkn/hi5El0ohus8FVsFrfmrSw=
+
+Name: assets/www/img/pictures/centaur2 AV intover.png
+SHA-256-Digest: 2TzbGeCu1xEZ9ivFOnBEfDd22aFtkio8Z4dn1VS5fYE=
+
+Name: assets/www/img/pictures/maid lie.png
+SHA-256-Digest: 0x+05587kujOYRjHcdvlUhKNuHqDqJvUCXyiTg67cG8=
+
+Name: assets/www/data/Map063.json
+SHA-256-Digest: B3mApueju7UParcmfG0ZKZ4oVAMwXMY407r3F3aXULU=
+
+Name: assets/www/img/pictures/sample_5d79cab2923ed67c32f933cb20a9bbce4
+ 6b21099.png
+SHA-256-Digest: bg86CT6P4TuDFyYO7cq0YxVARp023bMlf62h1LQT6Eg=
+
+Name: assets/www/audio/se/Liquid.m4a
+SHA-256-Digest: p7lhXa11PW8yZEeh7lvwQQ30MPsDn0ynPJN5wAsxQCo=
+
+Name: res/mipmap-xxxhdpi/app_icon.png
+SHA-256-Digest: sS9hY+Kpjilwii88rq/e4RYgTPA+Kqe2ECgsVzSU+Zo=
+
+Name: res/mipmap-xhdpi/app_icon.png
+SHA-256-Digest: ZRsWVvJhGqeDulgTMldwPVeQNlvC6OPjJKADrTL68Vc=
+
+Name: assets/www/img/characters/grihm.png
+SHA-256-Digest: Itgd50H0mlX02Hz2qS2cG/MvkBYZr6e3W+E6pvKoOyk=
+
+Name: assets/www/img/pictures/couch eat.png
+SHA-256-Digest: lKJIM8BB2sg7haAYdagC11tdi0kaZ5uysR55CIU8fso=
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA-256-Digest: qr/xsAJJ4dL/dQzDPIylH8opozl+lzub5gkIsAg9Y/Q=
+
+Name: res/drawable-xxxhdpi/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: qsQZ99krDc5bR0GOJdJb2YcHQ8ynlXpsm/8tlW1wuwo=
+
+Name: assets/www/img/pictures/the_BIGGEST_sorceress_66 copy.png
+SHA-256-Digest: rPiRU77lQ+QBy7WmR/LCbwwIFmxVzwXzqIC8zHl77Bk=
+
+Name: assets/www/img/animations/Recovery5.png
+SHA-256-Digest: HIRYWvXCtoQTvgL32vwOdGXnNJSEdN+LR5jZnmT6SEI=
+
+Name: assets/www/js/libs/lz-string.js
+SHA-256-Digest: esxa5SRFX7Z97gk3W0JGOGJB99xHCNzfivDnjKgmfec=
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA-256-Digest: wu8FpatL+ErNZEGICezyj9dlK4B2SC7X/tZiUopYhPY=
+
+Name: assets/www/audio/se/Thunder9.m4a
+SHA-256-Digest: FQDucUsduqnjhp1OvRLRcW/cx+cB7lvsXzrg8Ch5iQ4=
+
+Name: assets/www/img/faces/Actor3.png
+SHA-256-Digest: Sl4oAvrZeYXI87jpvboN8Rwn7qqM6gD0pBBzLHhM7bU=
+
+Name: assets/www/img/pictures/oni b blush.png
+SHA-256-Digest: p1nmbzlamHrGuT5LssFJXiJK78HA/GebBcb9yDNTTXQ=
+
+Name: assets/www/img/pictures/ali jerk OSEX.png
+SHA-256-Digest: 98FlypYNtRFZPg71kQPKVpUtO1XOSN2En751U35QGpQ=
+
+Name: assets/www/img/pictures/inside cv in.png
+SHA-256-Digest: YwvzFWksQ8Nm0aluX7c4Rlm1kuQD+pjnWvVfPPGkJAE=
+
+Name: res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: oZrKl/PXOZOEy1VQz+bgKtfEpFmOT2nYZKt9sPdoWi4=
+
+Name: assets/www/img/pictures/Mysti cy b in.png
+SHA-256-Digest: Gv+mzXGrkOag0jHgioeC8NKeRIrXunQIb8RvY6iK+8w=
+
+Name: res/drawable-xhdpi/abc_text_select_handle_right_mtrl_light.png
+SHA-256-Digest: Qak7tldxculSfGiC9PRtpXB9IfSqcy19c2c4VpoKA/E=
+
+Name: assets/www/movies/aayla.webm
+SHA-256-Digest: ErggJA1rTA5CsOwRXIF4sD2NWE+EbB9TyDs4lUGTkx4=
+
+Name: res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: gfu7yTFEGk9tZGgKnS9sZFx5IJAQpXLy6gtzIUMDnnM=
+
+Name: assets/www/js/plugins/EnemyBook.js
+SHA-256-Digest: A/UrMVKnEGDlQsq1UfK76NNnRTnbZwJajf2dMalSHWE=
+
+Name: assets/www/img/tilesets/Dungeon_A4.txt
+SHA-256-Digest: MCRsWqRjTg2uCkbb6eyhFvSHk5acC4zXubTjdk/YPO8=
+
+Name: assets/www/img/pictures/ali jerk bang eye.png
+SHA-256-Digest: qRwMD/hxyJQP7Wmg0rKWwa77VwLMxfWZBbY0lHU6lO8=
+
+Name: assets/www/data/Map045.json
+SHA-256-Digest: OgMS7TI1+wEv3TnnL871RuyCw66ytAdWixzRevtMumM=
+
+Name: res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: 4ZMLsvxUcyPNVrCCWhDZ0jZQLkjqwUKX7Pgt9sQKKSY=
+
+Name: assets/www/img/pictures/oni3 av pop.png
+SHA-256-Digest: fogD7p0A8rBXixYfGHVR4VKcsGrhm6PpgPrTZ5l0Va4=
+
+Name: assets/www/movies/niaav.webm
+SHA-256-Digest: wtYfW3NvXipStbdt/R1enlAWvFnWtBFSPQtR2IHb6EM=
+
+Name: assets/www/audio/se/Battle1.m4a
+SHA-256-Digest: GAnJNNRI7UQNkP6XWfQnDgo/lEv8PFOBgsVkbiLpeIs=
+
+Name: assets/www/js/plugins/YEP_QuestJournal.js
+SHA-256-Digest: MAIMnFuBhOCg27Ts8eqpOPoaUqHacN3xxItspwCYjEY=
+
+Name: assets/www/audio/se/Skill1.m4a
+SHA-256-Digest: EN6DPlUXoWDaYBPEkbbcELgby8xxXdV/3vmE9XXv+wU=
+
+Name: assets/www/img/animations/Howl.png
+SHA-256-Digest: ntuj753nqo9NPraUrSnHUCKOAd0lbs9pMb8V7ByTkK0=
+
+Name: assets/www/img/pictures/dvora face.png
+SHA-256-Digest: phb8WOfPbCLayq2rbSv54EbYysDBKIZlHysps2RY+X4=
+
+Name: assets/www/img/tilesets/Inside_A4.png
+SHA-256-Digest: hfFdfOmt8BR6qrUYf8Izvo7qGwPzeAisQuMMW3vpIA8=
+
+Name: assets/www/img/pictures/2000_Actor2_6 b.png
+SHA-256-Digest: 5S4qimFg8Wt0jy35OgGFI5E+5+4CPg0KOoevTaoZZAg=
+
+Name: assets/www/img/animations/Cure3.png
+SHA-256-Digest: cDfdVD1w2WLffBvj7jQMl58AjthdefHtyc8vqyUfgK0=
+
+Name: assets/www/img/pictures/ali ov hnd.png
+SHA-256-Digest: UmSF3qNHrwZ8Km6it9v1fjpM62YYkxgp2qXsqGMmTMw=
+
+Name: assets/www/img/pictures/dancer ingest.png
+SHA-256-Digest: y22sAl62X6BxgHnfj4AVIDyWDIFem4mWYvSZzkcfZQ8=
+
+Name: assets/www/img/tilesets/SF_Outside_C.png
+SHA-256-Digest: EhGz1dAYlpVEWzH+kzp5G0JU63zPRN4T3a02N0euJM8=
+
+Name: assets/www/img/battlebacks2/Town1.png
+SHA-256-Digest: EplDFOsQbGmMOdgH/W1AjIBm3PigG6Z5mGAVOTiv1+8=
+
+Name: assets/www/img/tilesets/World_A1.txt
+SHA-256-Digest: iAzd5D2UDUxBQF22QZ0EUmjIcsxPUcI0cdUtSwGIUOk=
+
+Name: res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: Al2KEVXSzkdp4weon/fsbBdSgN+Q7FGoxhzqRVGZLO8=
+
+Name: assets/www/img/pictures/3ee033a44cd316b0dda6942c6559155e copy.pn
+ g
+SHA-256-Digest: GWyMQGz2yvDzfBJ1Ck6wsenrLPV6b/seCbkVQnL1WPE=
+
+Name: assets/www/img/characters/!$Gate3.png
+SHA-256-Digest: m0xl43SbrvOlAPS+k3hZrgjq4Go3NuXeJ0zNBNg20hM=
+
+Name: assets/www/img/pictures/naga eat.png
+SHA-256-Digest: Rgo6IUbhyjnYnt5njJ9ycm1xoKK2xk0p03wBGiYPq5E=
+
+Name: assets/www/img/pictures/tinkerbell_by_sorah_suhng-dajxhsk skul.p
+ ng
+SHA-256-Digest: 4TZThen3MRUErynn1WXsWgKOsIdso5sAaQmhYo5Vtvc=
+
+Name: res/anim/abc_popup_enter.xml
+SHA-256-Digest: 89WyZKt7ghO+otV+fRYnyBqCjAi5apzZ3BqNYEB2BqA=
+
+Name: assets/www/audio/bgm/2000_Battle1.m4a
+SHA-256-Digest: WNEs0GsCHBm4RyNDPf60mFPAm7sK21aA9AmMtv88h8E=
+
+Name: assets/www/img/pictures/centaur2 cv.png
+SHA-256-Digest: /4FnRb9JttVq1UjaTxIkAMzO+FtY8x6AkySR8umQrjY=
+
+Name: assets/www/img/tilesets/pretty rooves.png
+SHA-256-Digest: UV3dqzftiOwb1eA3MdeqBMSf/WWoljiOLHsTyc+qNKw=
+
+Name: res/color/abc_tint_switch_track.xml
+SHA-256-Digest: POh853AuqXEpnH74QBx0Uh1cJSEU8PKW7Oa042V7Yo8=
+
+Name: assets/www/audio/se/Equip1.m4a
+SHA-256-Digest: rU/8RuDSvaMoPJZdGNy0tKoj2xej3JnL48C9gMYL67s=
+
+Name: assets/www/js/plugins/TAA_BookMenu.js
+SHA-256-Digest: e4yQhOWC4iEQMdZYmBCSdtBoL+uzvVpXR5/dtnh6WZc=
+
+Name: res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA-256-Digest: Du3FHe6gwPP2daQA1mfrR2VTuSy9Emg7YVTjYwYDHBk=
+
+Name: assets/www/img/pictures/oni3 avp33.png
+SHA-256-Digest: K6nKtOtYIrcuerPxJZrsMOlCaj1TNjro1bsy5yn1xjU=
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA-256-Digest: QuEYALDl8xR8G50DFJPN4XP69oAVT2L8eUxNXBWCjcE=
+
+Name: assets/www/audio/bgm/Battle 1.m4a
+SHA-256-Digest: /wmvOiX8YDNA8cKSZ5Od+6flZR5fHVjDDE+M/pzg2p0=
+
+Name: assets/www/audio/bgm/Dungeon1.m4a
+SHA-256-Digest: +C+HCX8s46lgziemonLihxjcDRxSJbH16w1ua9429W0=
+
+Name: assets/www/audio/se/0 fart.m4a
+SHA-256-Digest: OGsSbvBm3gyiFwH2X7yoyoAs5EorALzfRcpgegnab2I=
+
+Name: assets/www/audio/se/Fall.m4a
+SHA-256-Digest: muiuGSOj66boHWc/jzrZMg6AgvLq28MeMK4E+TYUFnQ=
+
+Name: res/drawable-xxhdpi/abc_ic_star_black_48dp.png
+SHA-256-Digest: yEjqovwOw4BuCPftwtdeeVQVyHAngalArU6teQMktB0=
+
+Name: assets/www/img/pictures/aayla6 av1c.png
+SHA-256-Digest: Py/6ZblJp4yGybAFsK6tIlVYEbOSyD3t5sBZEiqD1Ko=
+
+Name: res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: r+35ZZFPngu3n1f5CDxPRJcvLoxp8mRanhLf5kjyLbU=
+
+Name: assets/www/img/enemies/lisa copy.png
+SHA-256-Digest: s0cdyc1VRj/9MWXQHFN1Zqea388dvQbG4tajgJ2OENk=
+
+Name: assets/www/img/faces/SF_Actor2.png
+SHA-256-Digest: RQLY6kP6f6m2Gtw6MPcEZcMuB+FDzXQRRYZLehOWibM=
+
+Name: assets/www/js/rpg_windows.js
+SHA-256-Digest: sTr0nbsawq0XVKfig4UQ0pfRpH6diRJbOogLbnLT0mQ=
+
+Name: res/layout-v17/abc_dialog_title_material.xml
+SHA-256-Digest: mqe4bNzqhGKG8Ut5kopJh/N0PuEjhMtgLsQlgJUVFBE=
+
+Name: res/drawable/tooltip_frame_light.xml
+SHA-256-Digest: ht2EtXah2mjYNUiVBYwMDpRV5YVb0T/e3ZwrI1QQ8aE=
+
+Name: assets/www/img/pictures/0priscilla_the_crossbreed_by_knighteynig
+ ht-d9djn0m.png
+SHA-256-Digest: GjyRnuG7HI6SmquNGOBvpCa37014rJ3sxZ6AsrKO+Pk=
+
+Name: assets/www/img/pictures/mansion mov.png
+SHA-256-Digest: 2trKf4+PuGe0Hqq/WLD/RJefB1QEotbwmxJBb7CtgUk=
+
+Name: assets/www/js/libs/pixi-picture.js
+SHA-256-Digest: k/2DVeaEfnkfNjcYxACqcIfBUxI86ksxhvMl4rGXYHU=
+
+Name: assets/www/audio/se/Saint2.m4a
+SHA-256-Digest: hinhZqnZOlpnod2ILs0LJS7cCubm5okFTWK/2dKs4gM=
+
+Name: res/drawable-hdpi/abc_list_pressed_holo_dark.9.png
+SHA-256-Digest: JOMXIPd7xEK/1FDYB0epnbLfNnWlNEeikWIgBt9SgVo=
+
+Name: assets/www/img/pictures/inside  ball.png
+SHA-256-Digest: SUahXab5KuzkO4eZGcoaugrAvNnZZEG5uQ+lG574O/A=
+
+Name: assets/www/audio/se/Move5.m4a
+SHA-256-Digest: BKVADL/ColmvFGs5GCeM8XknRz52tOHJWBze2xLBrZ0=
+
+Name: res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: xqQD4u6E9bojD8Gsqlxrh7ne+rJve2eWlqyIW33+SiE=
+
+Name: assets/www/img/pictures/mysti kneel o av2.png
+SHA-256-Digest: fag5AD4LHC/NpQSAFw7Uk84/OfFz3ujVpYZLWRwBxzE=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: rBfpagKkVqgn+ycABi0XBJ2yUsfdZ7y4YhfPgpORrvQ=
+
+Name: assets/www/img/pictures/bike u b.png
+SHA-256-Digest: MV1VGa7ZjWPLNmSAssJNhYnf+cPXTxsd+DOC576Wrlw=
+
+Name: assets/www/img/pictures/2000_Actor1_2_hap copy.png
+SHA-256-Digest: C09sqzIuazq2c0OzkTbIfar7kQQyqV1YEQxIfsvw8aI=
+
+Name: assets/www/img/pictures/tent.png
+SHA-256-Digest: bRTUWw1ww2hkI19rlaVFLcR4TOSxaew+X9m+eVr1jLQ=
+
+Name: res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+SHA-256-Digest: 3qG3GapLZpkz/DV1mSXNiRAcuiBtGLHALihGbYh8jio=
+
+Name: assets/www/img/characters/Centaurs_zpsixod80pc.png
+SHA-256-Digest: 46za4isEUpYj3z2OrFXNRJ23YuNoAbHB8Ha/v9cgQ0k=
+
+Name: assets/www/img/faces/harpy.png
+SHA-256-Digest: Zsw1CnJK0ddlZXuisoRvYU0WhLnbyvCOGtEWeoLe104=
+
+Name: assets/www/img/pictures/nia flt av.png
+SHA-256-Digest: rlDqok/RMJdiYpruYlXshPNL1og72anJgtaUMrsxdbM=
+
+Name: assets/www/img/pictures/samb bk glp.png
+SHA-256-Digest: xwiQXN4GJYiledo38zlmsGXm6VLHUw/i7bBFjinHJ3Y=
+
+Name: assets/www/img/pictures/mana grim.png
+SHA-256-Digest: 9Zt/1+LU1etQ+SnVaUfbG+ja8yxUmJn1zEDYIhB0uEg=
+
+Name: assets/www/img/tilesets/Inside_A4.txt
+SHA-256-Digest: id+ryFxQiVKc/YitbGz7vik86tbmR6E6J6kE/fivuwo=
+
+Name: assets/www/data/Map054.json
+SHA-256-Digest: cEuhuBbUd3xvVewAV6ZQNeqvwHtrGQFYWAwZlB9DNfs=
+
+Name: assets/www/char.json
+SHA-256-Digest: hox+L6rQ8d7tP66lURtii8QjtU54n0tBuC+SSkQdUus=
+
+Name: assets/www/img/pictures/3ee033a44 asex.png
+SHA-256-Digest: 1J8dGvnUKQVsw01hZdXX0RNa79Q0LDB34I9xyBpf54o=
+
+Name: assets/www/img/tilesets/SF_Outside_C.txt
+SHA-256-Digest: j1hJZi5gPDTAOHrHzia+xPL90YvDDt/rnXueSMzTjag=
+
+Name: res/drawable-v21/abc_ratingbar_small_material.xml
+SHA-256-Digest: tFiGkrqr6jGfrS/GKQzeCaXo8fz2CbCmrdJ7j+ASiKw=
+
+Name: assets/www/img/system/ButtonSet.png
+SHA-256-Digest: RsN5eHAt8RajuqQUpH0GCpucBJZwVBtRVsrcqBi1VUk=
+
+Name: assets/www/audio/se/Damage2.m4a
+SHA-256-Digest: DCRR7sEThQ7u9Wa2B/V9ynNT+VC/9hk/DaK+RGBLw2s=
+
+Name: assets/www/img/animations/StatePoison.png
+SHA-256-Digest: K6v/jQHw9sTAdoAPWVH2S9mvegu6O1owx3B02gnYAxc=
+
+Name: assets/www/img/tilesets/SF_Outside_B.png
+SHA-256-Digest: qRqic3grherrvU0Ts/TnCu7Gj5MMV6aN7aFlxUs83Ps=
+
+Name: assets/www/audio/se/Down1.m4a
+SHA-256-Digest: JLMmd78bHY6HQZ5mYl7jkl/v4M+zO0+CIZRy6dgOix8=
+
+Name: assets/www/img/pictures/11 my.png
+SHA-256-Digest: m5ldjs9zu1p24fnVcgyj0quvfqWDTHdWmfw0fiWGawU=
+
+Name: assets/www/js/plugins/AltSaveScreen.js
+SHA-256-Digest: WtSpKoPyiNAhX+pkWmANMhlNo0CFxh1BVBaESWicqb0=
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_left_mtrl_light.png
+SHA-256-Digest: fZjnovbE2ncIFKl8tG+zyCGchPxoIgNLCahFCf/XMKQ=
+
+Name: assets/www/audio/se/Starlight.m4a
+SHA-256-Digest: a05+Cnw1nV/jsGt/bTeKRa5+xQxH4NU6NpSGdJVUgJk=
+
+Name: assets/www/img/faces/Actor2.png
+SHA-256-Digest: cCARhvbkH4P0UnN6Wk5b0ph3q+C8aiPdHctX1K+b9vM=
+
+Name: assets/www/audio/se/Thunder8.m4a
+SHA-256-Digest: gijx4i/CtSShXdMXyZOoCHp3n9NJ7D3CYRz9w9aup/M=
+
+Name: assets/www/img/pictures/oni b OV.png
+SHA-256-Digest: HKz4qgfZtwlha0d3jBijj4yDZdxcYw3gM2pT1yJS3Oc=
+
+Name: assets/www/img/pictures/ta138c bell.png
+SHA-256-Digest: R6Q7EpIrewiaXLVIBMZntqCnTEEjRhXvTgDgOx9aTT4=
+
+Name: res/mipmap-xxhdpi/app_icon.png
+SHA-256-Digest: yL8O6FVRE3DZlJL07GMKYh4yBkARr8Sgi+4cvI169pM=
+
+Name: assets/www/img/tilesets/Dungeon_A1.txt
+SHA-256-Digest: tPeUnbTojpi9PsQgaufPUap8P6M72/CMXCfV9m8XlKc=
+
+Name: assets/www/img/pictures/11 base 2.png
+SHA-256-Digest: ZnvWHjvX5w+RWMmU5rSOoXVZ/tKnlS3JTViYqTNiiPM=
+
+Name: assets/www/data/Map055.json
+SHA-256-Digest: wdQS1tqNaBX6fx4wJh+6FSyYbnKHkcYivpLVL+26rj8=
+
+Name: assets/www/img/pictures/harpy av.png
+SHA-256-Digest: xaAONx0yNtVZ3GKYsqr7AHw0RvWCj7haFdYp3jtrVHA=
+
+Name: assets/www/img/pictures/skinner dp2.png
+SHA-256-Digest: mms+fxczGspeWZPVlF4LS+NSswfbN3SruGZLQgJWsKs=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: Ibm8nKW/Cbc5DcmEg5X4Gson3GpE3XH0SkcY7iaYF2o=
+
+Name: res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+SHA-256-Digest: vThM3bPIVTtREiq86ImpcnVpSpODcZzQxX+oxtn+9RU=
+
+Name: assets/www/img/pictures/inside cv.png
+SHA-256-Digest: JThyfYLkMkvXOvFFK7yMGzVPUSI/WDloKN9TymkQzq4=
+
+Name: res/drawable-mdpi/abc_list_pressed_holo_dark.9.png
+SHA-256-Digest: ULMEnaUnU0JUaBPrYUldYRu4LbIe93GEa5yit9XC0fw=
+
+Name: assets/www/img/pictures/tinkerbell_by_sorah_suhng-dajxhsk.png
+SHA-256-Digest: C74DqZWK/pk+gz28Up5rO7BZx7ebBoy9ORCt64qGaXs=
+
+Name: assets/www/img/pictures/Akiyama ub2.png
+SHA-256-Digest: 3l8QgYavncQxttWoLn1O/EHnBRycsfERkm18pussH08=
+
+Name: res/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: G76NcYNoASAp0UOoT+izn+5O8tud6Hil2ys9BnS2Ub0=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA-256-Digest: E1MFKLVnNaZA/D3xO8zuKg9y9IOXpAy7sRR+RoLdCcQ=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: wc6WW2riTPNePWjXpHuJ778Ub7ZidMrYOKUvPr9Nzw8=
+
+Name: res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: OVxeVoBkeNhutPrlVwFjlivGhFlx2tkuopNWaQUR7FY=
+
+Name: assets/www/audio/bgs/137254_xenognosis_egg-pulp.m4a
+SHA-256-Digest: yAhlnl9WZ+tfyzEM87Ww8tTm8S4qKpD8XLqMEmLOCys=
+
+Name: assets/www/img/pictures/Mysti MOUTHFUL.png
+SHA-256-Digest: m2DLcrwB8/D69aur6AErp6I+n2nJDAxiS0cZOa9+J8Q=
+
+Name: assets/www/data/Map069.json
+SHA-256-Digest: CMWv5jSjnqC4z4gJRzCpEc6bgYK92JtnfbJ1BvxNABU=
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA-256-Digest: a6kK4EU+Z0/Jmpr51hc/Lo5HZa9krXS+DKFB6NVX9ts=
+
+Name: assets/www/img/pictures/slime copy.png
+SHA-256-Digest: U1uQ2c0JOsMElCXsIhHEXMe4R4QUUsvsQ+5M6QQdAPw=
+
+Name: assets/www/img/pictures/dvorah up.png
+SHA-256-Digest: t59XfChR+WI+p4aYa2xHqAN6cphA1gOMAhNmgkoRHxQ=
+
+Name: assets/www/js/rpg_managers.js
+SHA-256-Digest: jkVyDqmqBNjNw1w5ZeafR0uPBj4xCxyoE8S35C52jfQ=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: YHxl8bvSTlThzbb5g/MB2QB+GnFJqmIn51IF99/KWsM=
+
+Name: assets/www/img/pictures/Anna_digital-fan-art-iphone-wallpaper IR
+ RECT over.png
+SHA-256-Digest: znorCVBG5YKcZhsq7CLQY6pqttb0NVT0XI2NXjUFPL4=
+
+Name: assets/www/data/Map012.json
+SHA-256-Digest: MMgDWv4EPOL0kade5hCzmOo7e5gShmtw9miZjr3d6rM=
+
+Name: assets/www/img/characters/!Other2.png
+SHA-256-Digest: aqApQOX1rdNLKQlH7IE09E4bFROKYgpo/YSd/wZ0QKA=
+
+Name: assets/www/audio/se/Collapse2.m4a
+SHA-256-Digest: IBMIT54MLfy3RiU6PtIy94YcYsTs552P7RosPcAYG5U=
+
+Name: res/drawable-xxhdpi/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: dNOQDwnKHrvfo7u5Bz8FJG0CQ/GLxOaKVciJLVmiwGk=
+
+Name: assets/www/img/pictures/ali jerk bang ub.png
+SHA-256-Digest: ZCa78/oiHz86kaf5ublLmPxBVJUv93xYD8MNWCMTwt8=
+
+Name: assets/www/img/system/Loading.png
+SHA-256-Digest: m63fOX0HUXlOYCTOC0w46CgghG769wIq/1Ea6Z5zGAE=
+
+Name: assets/www/img/tilesets/Outside_A1.png
+SHA-256-Digest: giI6JUmLsogTHX/cxqshGW3gRgt2jQGwZVlkuW7vsh0=
+
+Name: assets/www/img/pictures/girl pink hand.png
+SHA-256-Digest: C580CXb6R1VYVLTsLQMu7K7izTiuf7+Q3KZqfV/CkBo=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA-256-Digest: WZkpXNUy9H3+kYQ80oLyA8znXfjODsBSvB3haT/iwP0=
+
+Name: assets/www/img/pictures/Anna_digital-fan-art-iphone-wallpaper IR
+ RECT.png
+SHA-256-Digest: HvENOB200VzptPRFe79w++Xi1pcqMS0qwTzxhW/xTNE=
+
+Name: assets/www/img/pictures/123_fairy swallow.png
+SHA-256-Digest: CNkds2fdV1AV06lutzEWAyqldDPDDLaa+Kubl0RmnOY=
+
+Name: assets/www/img/faces/SF_Actor3.png
+SHA-256-Digest: B16u+HM2SDbWq4KuwHN+Bp9aPnOyP5NBTtPSOyjrFuU=
+
+Name: assets/www/audio/se/Door3.m4a
+SHA-256-Digest: MRYzAXisjvRgYFG3QOm7ZZKH6kvCFcviQbGBOtsdShQ=
+
+Name: assets/www/img/tilesets/SF_Outside_B.txt
+SHA-256-Digest: 2WsOMsMcUuTQRFg/W3hxXGBMQ1Aq58z1warIGNLl/vk=
+
+Name: assets/www/img/characters/David.png
+SHA-256-Digest: P4o524BBy8w8g7j6qQzmUq/FBTqfnqgjxVT33qIddrI=
+
+Name: res/drawable-xxhdpi/abc_list_focused_holo.9.png
+SHA-256-Digest: eMr58pTGfWM0VWe+V4YpinulZ9HdujmtSsKyAbpqbeM=
+
+Name: assets/www/audio/bgs/Storm2.m4a
+SHA-256-Digest: +u8bfTvtY5p0tQI0d8RF+01Wvm5u8oWtiMy+VdG7vQ4=
+
+Name: assets/www/img/pictures/nia av close.png
+SHA-256-Digest: uiM8i7sjDO8i4izSCeS0CZBxB/EMaxdcjPPGQg+Nfu0=
+
+Name: assets/www/img/pictures/xenoswallow.png
+SHA-256-Digest: 3Ey5AyxFYwoNM/ejuL69ARChtKV4UyaWK+5sdLEMZLE=
+
+Name: assets/www/img/pictures/girl pink mia swal.png
+SHA-256-Digest: +o9QYxvBsUObIt3qOe2RLnGdR2c6s+Bkhs87If9Cr98=
+
+Name: assets/www/img/pictures/david maw.png
+SHA-256-Digest: MdbwWC6BdLw+xS55Zv6lWE+66pWDU1jnTbe/MlAYciU=
+
+Name: res/color/abc_tint_default.xml
+SHA-256-Digest: dAYvOJfhvwnXpQSOkFsYLRxQcVUbcnIvjYK7+PzOPys=
+
+Name: res/drawable-hdpi/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: fhL8vQxh4DfNHK/lEMMHtAdNFWrawAItkfPc3K5pKBg=
+
+Name: assets/www/img/faces/2000_Actor1.png
+SHA-256-Digest: o1hFoPlhVjnoe2Ct8p/1vF0ugd4hZMGDZ4yzM1OpZgk=
+
+Name: assets/www/img/pictures/mysti kneel b.png
+SHA-256-Digest: qkmfZSR4chdom/LoJdNqrfVjdFckXQhOss3rtw/Fn0U=
+
+Name: assets/www/img/characters/2000_Damage1.png
+SHA-256-Digest: LLHcbrpb6n9DXsSgmv0T6PS8YbY+9IOFP8ZFUqbQwpA=
+
+Name: assets/www/img/pictures/mosta copy.png
+SHA-256-Digest: sTAmvVDVqb2AY6S0Pc6LqFWwkj5PdbEGFvsxaCZR5q8=
+
+Name: assets/www/data/MapInfos.json
+SHA-256-Digest: 8FTWWSkZJnZBcyH4CW14huUxdhcKRWArqSnwRr/q7F0=
+
+Name: assets/www/movies/whored.webm
+SHA-256-Digest: glJNDY+MQB8cdM+qW6FKu9JaOVd/mt/bRppf3KsGeng=
+
+Name: assets/www/audio/me/Defeat1.m4a
+SHA-256-Digest: SylFOvfNKmO7Vj9sZKWopZHDGvxlnRLrWc/C5FLWkfs=
+
+Name: assets/www/img/pictures/118 big ov 2.png
+SHA-256-Digest: af9dNcSZg0z98xDb+mKbbRMRq2ck0Rrima2l7qlge9o=
+
+Name: assets/www/audio/se/Ice5.m4a
+SHA-256-Digest: dTt/9ZL8zDzizSNFrVtAod+Lr7UbaT2cGJ+a0c7UszA=
+
+Name: assets/www/img/pictures/oni 6 gulp.png
+SHA-256-Digest: bzAhgYU3CttSQYKJ9CWwtibr+ozbAs4WbiCb13EPua4=
+
+Name: assets/www/audio/se/Move4.m4a
+SHA-256-Digest: gJ7whBhsaGQao/A/1mxjmOi4zsufaeSFz/RFeyw0Z44=
+
+Name: res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: zy0Qlu3ZnAmhhdMwqKICo1sNIewTBd9K59NZvPAXm00=
+
+Name: assets/www/demon.json
+SHA-256-Digest: WdeibV/umarrC+53zLNlcWBVYPHWeA3AEq9WQd67k6k=
+
+Name: assets/www/img/characters/catgirl.png
+SHA-256-Digest: KvVNxMOjpcRm8ajyD942cQXbN6EHA+tPdd2brgRx3BY=
+
+Name: res/layout-v17/select_dialog_multichoice_material.xml
+SHA-256-Digest: ty5YmTljt0MkGGUusVXUN/l8DNcr2f6mturl14mPbPs=
+
+Name: assets/www/img/characters/SF_Actor3.png
+SHA-256-Digest: EMnxndJHz4NE/oJIfUKdzJRSmHyA07aejtzGC+RJCNA=
+
+Name: assets/www/img/pictures/059 copy.png
+SHA-256-Digest: gWlwbLETXUpvRdqkEnUw65+IpGQjhOipnyVM2Vi8XB4=
+
+Name: assets/www/img/pictures/zerowag cv2.png
+SHA-256-Digest: tcjC57xd6y43EyBAdP8mvzHuWYcippbEOBWoAqbxd5o=
+
+Name: assets/www/img/pictures/jewel_of_maramba_by_aikurisu-d33v892 cop
+ y.png
+SHA-256-Digest: T4BaeJS3sPwCMfaxgKXfNKKGHHYacayawKaXzDM8eFQ=
+
+Name: assets/www/img/pictures/oni b close.png
+SHA-256-Digest: xrCo4Tz/409kc6HtJey7o1PpyVVeF58tk+aEtupmhl0=
+
+Name: assets/www/audio/se/0 stomach3.m4a
+SHA-256-Digest: s33OP2KliHRDT10g8KorP+mFWlWbwYKAmYf436OrZmo=
+
+Name: assets/www/img/pictures/mysti small b nev 1d.png
+SHA-256-Digest: +P+uAC5dLuk2kyyTHXrVNeoXTNPlg7bFdQZDMNzAR8U=
+
+Name: assets/www/img/animations/Thunder2.png
+SHA-256-Digest: OM95yptQuX13XJztEbLnRqIJuJHe/QMFW4TXU/fDLyQ=
+
+Name: assets/www/img/pictures/3ee033a44cd316b0dda6942c6559155e.png
+SHA-256-Digest: sLi3fIWoT6Au6bUflA/3LzteQCyUm1RuJk+vUvQieBY=
+
+Name: assets/www/img/pictures/mrs_junkie___45_1776009254 2.png
+SHA-256-Digest: /xQ/Efqhz6j/3n4VGLM/tKFR7bk226spFBAVIdXF7Y0=
+
+Name: assets/www/img/pictures/Mana.png
+SHA-256-Digest: /dOTRDZp1u7GwPcWE88z5EFK1HES2hXXxIcl1OxvX1g=
+
+Name: assets/www/img/tilesets/Outside_A1.txt
+SHA-256-Digest: g6BWYg5L7bZBeBRwecoohCDdQtkqA8j9yWxQ8bClXDM=
+
+Name: res/drawable-mdpi/abc_list_focused_holo.9.png
+SHA-256-Digest: v+ae0SRzTRimK+EPCkJucpYVVKXOVVhjV7e+gM2Z7gU=
+
+Name: res/drawable-xhdpi/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: Jw7CyUvgAdYsln5fW+vRgOJMSMEM/XwQj9ZnN4z8lak=
+
+Name: assets/www/img/pictures/oni3 avp32.png
+SHA-256-Digest: QnD6/OESffW0i0PR0Fmwqd6OvSkP2gjO3czcSLRsjBU=
+
+Name: assets/www/data/Map062.json
+SHA-256-Digest: W0J0fsympwES1x5fc8ELSZDV0abOafcRtyflLvGnT+w=
+
+Name: assets/www/img/pictures/skinner dp3.png
+SHA-256-Digest: +c97TwnRfYCLTSv8K2VEsHTu8ggAP6DSEdXgvQ42DI8=
+
+Name: assets/www/img/pictures/118 big ov1.png
+SHA-256-Digest: 9+uyQfxLPFHiIqPdeymOPC0tIsw9LfkB3hdfJgaucYw=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: 9C8FVhrU1H9VzeD+VnlVCZCleMJBvBGWGrsFOb8LXNU=
+
+Name: assets/www/img/faces/People2.png
+SHA-256-Digest: Jtg4sZ+MwBTOqEwjUnT6gxsugi9NUVIBxe3SGtp5Yk8=
+
+Name: res/drawable-xxhdpi/abc_ic_star_black_36dp.png
+SHA-256-Digest: 6vmUi5Tl2yEXIDXckORfI6xkrO5jcE2Jg0bF6OcDqaI=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA-256-Digest: mQhFzLFcgGyIRU8YhCUvC9iSzj2nMHvSSrW6f/OMzAk=
+
+Name: res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: Dvez2fnYkKSOT8zA2wcxW9b8ynBJRS4gonppvSIIBBU=
+
+Name: res/layout/notification_template_custom_big.xml
+SHA-256-Digest: HGHGBkmx0W/Fu5bQIg4epldEcY9Xv460eiQ1m6kkrFc=
+
+Name: res/drawable-hdpi/abc_text_select_handle_right_mtrl_light.png
+SHA-256-Digest: /NeEhKRQm4NUSkUgibSpQpscLFmStZ/GwVAXg+z6reU=
+
+Name: assets/www/data/Map029.json
+SHA-256-Digest: EsWT2ignfVnbr3ZBbQpJWQ2ZwxbnoR8FrE3K+qm7gI4=
+
+Name: assets/www/img/animations/HitSpecial1.png
+SHA-256-Digest: FWnoLEdm2kEMVCJGBV0WlHFM3Hc2ZClg9SnLkwkTW8w=
+
+Name: assets/www/img/pictures/Cyrille oral eat.png
+SHA-256-Digest: xXMXMCB0BGCwO9UUbA9RVXOxtJvmvxULJRLTZdlj6l0=
+
+Name: assets/www/img/tilesets/Inside_A2.png
+SHA-256-Digest: Q4ksTZYgmtzfTyyq6KEbk2GujmP7NdOk5N5FKMkipA0=
+
+Name: assets/www/audio/se/Damage3.m4a
+SHA-256-Digest: s7qHw4blKY+r4qhTpJJyi6OJTg7R/F9NZiB0ttDaWUg=
+
+Name: assets/www/img/tilesets/Dungeon_A2.txt
+SHA-256-Digest: 1LzGhV4cRzA1mEcWcmS4MkzqzqUw6BZZRsxCW60NpRo=
+
+Name: assets/www/audio/se/Collapse1.m4a
+SHA-256-Digest: 19XhsbFRw9g/Ikl88Nj4Bfe2ctHCp1KKFXUhLJyhRFc=
+
+Name: assets/www/img/pictures/harpy av 2.png
+SHA-256-Digest: gmQ8GDDcErCjGxrsL28LdhH5ArXgVE7I1TT1IqDnKEk=
+
+Name: assets/www/img/characters/Evil.png
+SHA-256-Digest: pA7IVe7le5wMhQhruKlGb3J4V+Esppc6EI+f/EUjRHg=
+
+Name: assets/www/img/battlebacks2/Ship.png
+SHA-256-Digest: VVUZFOZOSvYDfToz2LwWV9b+8fPMajIQcZNScxVNSog=
+
+Name: assets/www/img/pictures/zerowag cv0.png
+SHA-256-Digest: aOeOWfPCy7N/ZchnABI3STD85CHJE0P46pR8XUPzo6Y=
+
+Name: assets/www/js/rpg_sprites.js
+SHA-256-Digest: wG/3wRmn6YcNpXpYHveYJi7C09PqUJCk6WW1rER/CbU=
+
+Name: assets/www/audio/se/0 laugh_short_closed.m4a
+SHA-256-Digest: DAXIpQYPj5p6wug7BICrZHklcsB6l8ejo9IZmlI9dpI=
+
+Name: assets/www/img/faces/2000_Actor2_5_8.png
+SHA-256-Digest: oeJoUTclWzdvybJY/CW0akqU0vmPW3Pl2s0DlGvNlhk=
+
+Name: assets/www/movies/pinkb.webm
+SHA-256-Digest: tiegrDqsv9BtjRJOiXOykJbPsBbtgyaMnIqxBSQbdwA=
+
+Name: assets/www/img/pictures/girl pink bell.png
+SHA-256-Digest: VDoi6825yIbNaHLZ1ZV51w8oZFQnBMIza9lCWWdRZDQ=
+
+Name: assets/www/data/Map014.json
+SHA-256-Digest: mu+TBX+DvuVVeJmwhOvqb/E6720XVxouDDVTCE6oJVY=
+
+Name: res/color/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: SIKhkuV1F3sMazVNFj8GFfeNcxr+TdpNuXDRI5+HXDs=
+
+Name: res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: UV12eyW1/hQPiUTGo/pZ4itTin+2IOfvM520Yahs0Wo=
+
+Name: res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: hFW/wiFaG0F9Ltguzpx7ysAPUcU/B/dWKANh15lOUDE=
+
+Name: assets/www/audio/me/Victory2.m4a
+SHA-256-Digest: E/z/DvLzp/WCIzG+Z5EAQr+mVzGCcpy8MjvLo1qxCEA=
+
+Name: assets/www/img/pictures/wasp cumstan.png
+SHA-256-Digest: UiYCB6qmznIyWMwIBN3O+ika9zWY3ETJuxfMo7xZxYQ=
+
+Name: res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: 6+N7TMtmmkG1SAFKw7+mVY0ajDbYk3WBJj0eaYiveIU=
+
+Name: assets/www/audio/se/Reflection.m4a
+SHA-256-Digest: PbxV2LQ7AbmeGE6aRnCHwsaFwOf7tLY7D0oEsp88L4E=
+
+Name: assets/www/img/characters/!Door2.png
+SHA-256-Digest: OPDo/jZ61E+NZ60FN52O73yV1TAIrXu1XstB4R6YLxg=
+
+Name: assets/www/img/pictures/dragon girl blk.png
+SHA-256-Digest: nIElyfN9dU25kB1XqM4Eu6rn0+fDAh7HixZpfwommvw=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA-256-Digest: c8CMtSs92zoN82XdGw/xZDgOLru0Pruz76+bXt7tqWg=
+
+Name: assets/www/img/pictures/girl pink squat av hnd.png
+SHA-256-Digest: aOevmN7sA7wuI1pgbql43FuT2Ph0Lf/J3m/Nni4S3IM=
+
+Name: assets/www/data/Map047.json
+SHA-256-Digest: jJOp3mjZ4Mi7kBVi2OUNgwvQLkSSzRXV4iCz8e4TFg8=
+
+Name: res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: rM3qPxBpWm3haForvyFtYm2CKJVY59F65iVavY2fuZI=
+
+Name: assets/www/img/pictures/succubus futa dancer.png
+SHA-256-Digest: /xFwmVB7DFwhdTqFzKanJbtDK4FF7xoCkBM6rbZhjes=
+
+Name: assets/www/img/pictures/deertaur rb mini big.png
+SHA-256-Digest: r2DlYzNFdzrEyexPgHLCfqiCoxljCiJSuySB9Bh8jU4=
+
+Name: res/drawable-mdpi/abc_text_select_handle_left_mtrl_light.png
+SHA-256-Digest: jRRMX5etEtUhFuuDNtna/OqKY9qGXDGTfMVA1aq1al0=
+
+Name: res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: z2JXii1LhXQlgAzJz/rRy7ckuWXSN3dtmfVqe0cvDJU=
+
+Name: assets/www/img/pictures/059 copy hot.png
+SHA-256-Digest: akmt59SfkKBcWEsxOoy+Ifn+Tw1xd128IRfjsfX0zMM=
+
+Name: assets/www/img/animations/StateDown1.png
+SHA-256-Digest: 4i3H8iMIGHh1zpu9vl3+09OsGClfWn5+dEjxzEvUino=
+
+Name: res/drawable-hdpi/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: 6APc4kCypANwGkW+SDzC3D4Zin0+fPckswBa64cdGRg=
+
+Name: assets/www/img/pictures/girl pink scene bb.png
+SHA-256-Digest: iQYvxPncpwv17NQlIjoIm0RcjLnNRREa+7KHfFDAAOM=
+
+Name: assets/www/img/pictures/AkiyamaMio dangle.png
+SHA-256-Digest: Bh/H9sFZM2W4BmWL9ZKjKrQHu/H8VXnpce7uL+/Zimw=
+
+Name: assets/www/Grihm.json
+SHA-256-Digest: 4xfoucl6Qurcq1i03S4qJdDBxunlaKFdZcpIlSoFUvQ=
+
+Name: assets/www/img/pictures/slime jail.png
+SHA-256-Digest: ZLniJeWzAJE1R+jopfuUrwvTQMj9KXYkxURL7r+0kQ0=
+
+Name: assets/www/data/Items.json
+SHA-256-Digest: 8wQaVCAq42k33EqHgDzsBbviM9Pzn0IGT4V5lZrvKBk=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: /iHwlqsY+JR6J2JK6VLoa+T/jWRa5xS2U9OY9k+OOe4=
+
+Name: assets/www/audio/se/Explosion1.m4a
+SHA-256-Digest: vx68NR1Iyd0Zd2bbC4WgwVkI00YB+Zp4Nfs6jMcFCYM=
+
+Name: assets/www/img/pictures/Anna_digital-fan-art-iphone-wallpaper or
+ al.png
+SHA-256-Digest: HPgwOvYX+PZHs/2VSbgcZ4Ezmvijl0ONc9Fct/eoeT0=
+
+Name: assets/www/img/pictures/zerowag bc.png
+SHA-256-Digest: W7v7IoNh9ZTlNwHD9NtuhhrRMwfFRYrei+zpR+ft7ps=
+
+Name: assets/www/data/Map004.json
+SHA-256-Digest: DDBUhdJHAwGzmqFrCq0NYVmWxHJvdRQJOUJRRCi/Gtc=
+
+Name: assets/www/img/pictures/dvorah eat 2.png
+SHA-256-Digest: NoKrgBk+epNAOHbWSkGS4Br5YTOr8xk+bA85iViguXc=
+
+Name: res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: kRGEXLAq7P5EfYG0tj0sBypI6ym3ZIWjRKU1RQMa2gk=
+
+Name: assets/www/img/pictures/girl pink sb.png
+SHA-256-Digest: wZWcBTuWv3AxRTu75yl2IcTKPqtbsAl8FPeE/FFgW2w=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA-256-Digest: XfzFet1LBmTRqnl3CjnTXenqwkOJznv6SnmxrOswqlk=
+
+Name: assets/www/img/tilesets/Inside_A2.txt
+SHA-256-Digest: K4SvxrWdCgN7q71+3RVW1thBceXNpk4EPnRKdnO2rrk=
+
+Name: res/drawable-xxxhdpi/abc_text_select_handle_left_mtrl_light.png
+SHA-256-Digest: EHiBopa03iRLlIxmzYTee0pkEpMDFxP4k+5W25KZ78o=
+
+Name: assets/www/img/sv_actors/Actor2_7.png
+SHA-256-Digest: xwdH2Q7gmwlEYQpUbLF+oNel37k9DucOh52xI/OTWyQ=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: t9GZ0cAum34+Ch2qBEw7nkBmdcJb5ByzjIEOaDocSz4=
+
+Name: assets/www/img/tilesets/Dungeon_A1.png
+SHA-256-Digest: o1xqMiElbEIUkwklGx8yTykup3e3xh28OZBFDhBEp1k=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA-256-Digest: h1XagV+3TOPCpDz7P+A0Gj1yqqjLsAHcsq4Si7oWSaU=
+
+Name: res/layout-v17/abc_alert_dialog_title_material.xml
+SHA-256-Digest: cUS+mDAZZfDDkr8rJa7MJ8Va1Jbeeq5IIJuf/FMRiQ0=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA-256-Digest: ubVE+kEs5e/aCwWfSe0c+o7e6jTCgJcAK1igtpYNUeg=
+
+Name: assets/www/img/characters/SF_Monster.png
+SHA-256-Digest: Py2Em+TuyzPblrLMsbvAnfDv6aqIXJwVRzJ/NiNkGAo=
+
+Name: res/drawable-hdpi/notify_panel_notification_icon_bg.png
+SHA-256-Digest: o9a6YXYeOVfvFBEKT7JvotAlVgWs9JbnEzCT4BOSoGk=
+
+Name: assets/www/img/pictures/bike nevi dig.png
+SHA-256-Digest: Jw5Ty1cbM1fOaRLOh+fnQOqgkBiwwVUXVSrC3AXbHg8=
+
+Name: assets/www/img/pictures/tent blush.png
+SHA-256-Digest: /A6vUiHDM7om875Aux/zr+HzqQ9bdSSR3Ygh4qghsbY=
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA-256-Digest: lxeCuIqu9iumvQOx70V60KYUXtpZuUweMNmYiEb879g=
+
+Name: assets/www/data/Map022.json
+SHA-256-Digest: kmSPXoWCS+ZenwzyUVUhKb6T8/X6b+774+xrNwkTRZY=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA-256-Digest: uBvFYPhvRnJ5rDhUdE2UTNQateow4D2SMjIttzcH4ws=
+
+Name: assets/www/img/pictures/deetaur fb.png
+SHA-256-Digest: VS337dVa/QOCQXcguE+rxQLAF3aS2eL7B471A24gJJo=
+
+Name: assets/www/img/pictures/harpy small belly.png
+SHA-256-Digest: 6B3Vfd/bilnsTs9KqqYcm9cLGwqvQDUcnDyFu3ehplo=
+
+Name: res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+SHA-256-Digest: egR13olsmBRI7pXrES7k2xfqS6cypMKXcjKWN0+yDdA=
+
+Name: assets/www/img/characters/SF_Actor2.png
+SHA-256-Digest: cOHiOJIKC17ckCXy2WcI8JM4xhbHhov+hMi1FhqrtxM=
+
+Name: assets/www/js/plugins/PKD_VPlayer.js
+SHA-256-Digest: pGdtW0Gx1P6AEz4We/vtEcCJo+blOhvJI8l/HK0kEHA=
+
+Name: assets/www/audio/se/Fire3.m4a
+SHA-256-Digest: 9P23p3wGaaql26Jq8dYP7yiZsr1dKU+m1N4o3bPyZUk=
+
+Name: res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: f/ov/vjVUnX+4y5b9MRijME3VM9BRN2jyQFqfqBA34U=
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA-256-Digest: G5rcYrhnzbszsIw7OKZJYS/kpMXExdJ3Jb1F5OoHURs=
+
+Name: assets/www/audio/se/0 stomach2.m4a
+SHA-256-Digest: FHci9+Al7lnLTBh3r3BGYRVTdCcUppNnJqnaiNvnahg=
+
+Name: assets/www/audio/se/Ice4.m4a
+SHA-256-Digest: u9nkhIktdDOIMzzFh0xisMMXYPj9stU93T3e1j4RVdI=
+
+Name: assets/www/img/pictures/oni3 avp31.png
+SHA-256-Digest: OVBp3/1lzLZOZ+SNlNnLiTwKZehg9z9MLiSA73k81MI=
+
+Name: assets/www/movies/rachelb.webm
+SHA-256-Digest: VJGjfvzDJFdqF14022HU6LYIOfXzqXQ1S4GZPDddfh0=
+
+Name: assets/www/audio/se/Down2.m4a
+SHA-256-Digest: +AmqgCz/NMElQZxJ0HvWnznCFWYsiSDfoZazr4lVTsM=
+
+Name: assets/www/audio/se/Run.m4a
+SHA-256-Digest: qU/LuYlXahSMHWEDuMquHN+/KvbojW13dW5PeFbX5BI=
+
+Name: assets/www/img/faces/People3.png
+SHA-256-Digest: LjCU1t7h1AX1RE79cHc+nHEmiBd1WYGcETM+0ykUNUA=
+
+Name: assets/www/img/pictures/Akiyama Mio.png
+SHA-256-Digest: Ss6EysXMLQ2xkLecFfDt7JoLJAV//9qLCQvbjH6ZXYE=
+
+Name: assets/www/img/pictures/oni b blsh.png
+SHA-256-Digest: 2rApH3PZjxjmXr3E+b4fkuLNFVSTTZTD3f+5jTOnfW0=
+
+Name: assets/www/data/Map019.json
+SHA-256-Digest: Axmr5kCA6MU+zTYnmx8qh69kiAuo/Azbs0BJup13Gf0=
+
+Name: assets/www/img/tilesets/World_A2.png
+SHA-256-Digest: vq/19fz0fPYftFQDNFaEAXjuEXvw/Mea5Wb0cCJS7u0=
+
+Name: assets/www/fonts/gamefont.css
+SHA-256-Digest: deTnV3uDeu+8lZ7GNVMB4WORD9YjZyF80jcx/A1bh5I=
+
+Name: assets/www/img/pictures/zeena AV1.png
+SHA-256-Digest: rg/54dqHSD+fjGoWbtInH7+wUkzYt2Mgw3R7vZF9fnY=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA-256-Digest: FkLq+1pRLai8C4aOhdp1uDTcUHb7P3UZllQ5U47ZvQc=
+
+Name: assets/www/movies/mysti b 2.webm
+SHA-256-Digest: uBlZo5ufVcve2WeYAyVXR69nlFXoMOtZ1FzLGlGxu5w=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA-256-Digest: FN0brrnbLrZqw7pu4+230Wtde1g70ppbrRja8aCRJAI=
+
+Name: assets/www/data/Map070.json
+SHA-256-Digest: b7Zq4ZVsKJZ4uRAINqE2W7ASX7pCpv8Dp/bQBMEtYKk=
+
+Name: assets/www/img/pictures/oni3 avp2b.png
+SHA-256-Digest: 2yntS1YQ6xliie9PaEwQszCgr7cyoSxzcZOBHYDVt0k=
+
+Name: res/layout/notification_action.xml
+SHA-256-Digest: g0MOTKKNSIOj249GCZAPoeqC09mbUBbV862D7j1xEpk=
+
+Name: assets/www/data/Map040.json
+SHA-256-Digest: iLFWip2IW6yD7H6khLtfe8T7q8sfDgqclSHNSVY5jzo=
+
+Name: assets/www/img/pictures/11 cent.png
+SHA-256-Digest: mbaWRS3uHBy85PRjEHsSfjDwVTI0AqMCu9pQUSFu4jo=
+
+Name: assets/www/img/pictures/girl pink sex.png
+SHA-256-Digest: SFOXTqGaIYiG67uITDzy0zcpzbn5IRc9SJB1M6pfsF4=
+
+Name: assets/www/img/pictures/intest.png
+SHA-256-Digest: DAcEHHhFKqku/Kg/oiL1YzrtK3bKBOdPGnwqmKAvsuE=
+
+Name: assets/www/img/animations/Thunder1.png
+SHA-256-Digest: uORNz5YzOyZh9BzrEb6qkjaqygKbcai1wA8GwbinsvQ=
+
+Name: assets/www/img/pictures/succubus oral.png
+SHA-256-Digest: MHJD5C9Kjf9oUzegmq7VTTExUtsAeFcKlRdYUh2njfo=
+
+Name: assets/www/img/characters/jim.png
+SHA-256-Digest: xCMlWdXKoEljdx6mvTXhv0+W9kjuHYvvniFy+WsrYtY=
+
+Name: assets/www/img/pictures/0priscilla_the_crossbreed_ av.png
+SHA-256-Digest: qk6lAwSTClNPxBY8eyfrknK0rzLAyzRBlSP/1nXWWI8=
+
+Name: assets/www/audio/se/Miss.m4a
+SHA-256-Digest: KDprp6T05ywSf+gfeHKpBblU/y8lBpjIn6B/wMahumg=
+
+Name: res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: gou2To1kq/ciq/g10EpSatICdujJKftan81roUtRU1M=
+
+Name: assets/www/img/pictures/AkiyamaMiofull in mouth.png
+SHA-256-Digest: RrF1G3zLNvsCY91bNG46VkX1ZyerVv8eN9kOSeepeTM=
+
+Name: assets/www/img/pictures/game_cg av.png
+SHA-256-Digest: Mll/Wtej220e9z+EYCOqighhBU/p+9O7TIt9r99Vvbo=
+
+Name: assets/www/img/pictures/skinner dp.png
+SHA-256-Digest: 9LK4xq5gaYVaRLjXiYwb1PxPeV03ecs5pmaRwrqOHhQ=
+
+Name: assets/www/audio/se/Blow1.m4a
+SHA-256-Digest: SwnUbECZvP103OCUDyerP4z7czh4t2FoNm5vhXiJTS0=
+
+Name: assets/www/movies/samb2.webm
+SHA-256-Digest: qRaUxs832inK/NqrL171sJkklXan/Rud4HKpMBYygng=
+
+Name: assets/www/audio/se/Thunder6.m4a
+SHA-256-Digest: DU3aI1gX6BIdPi4hIL+akqi4w0lRnU5e+ZdIr7m8sP4=
+
+Name: assets/www/data/Map006.json
+SHA-256-Digest: 7hVET7xK1OMXnkFNOcwh0pa1wpJScMbWZMH9J7VjA/w=
+
+Name: assets/www/img/tilesets/TileE-InnerTown.png
+SHA-256-Digest: 6MhyLKQ+uZ20rAAjPb2gGPAWK6GoyLZr/X7JOeQpNGY=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: 69HhQytqVMxhYdp/aYN+j6Re2V6xlrQh1pP/+wQL574=
+
+Name: assets/www/audio/se/Up3.m4a
+SHA-256-Digest: 9U4UWJVIoAN4trIqY70qQ7MNoZ2UpQmlMUe/igotLTA=
+
+Name: assets/www/img/pictures/samb bk.png
+SHA-256-Digest: 45lSnAkTlHYzAhX4aRRzratRyynxzujYpmYB6ULjcuU=
+
+Name: assets/www/img/pictures/AkiyamaMiofull shrk.png
+SHA-256-Digest: 3ZEr93Ezyi9C7KYjVfCNOr95QSh8gPaPeQWaqEB9yOI=
+
+Name: assets/www/img/tilesets/Outside_A3.txt
+SHA-256-Digest: YxOjz0iY1/s3Dser6RqDbjTftZSr9YtGdgRUBZbq3+E=
+
+Name: assets/www/audio/se/Open4.m4a
+SHA-256-Digest: PvBOgLE4AJU+h0jyjEHJUXgennQzJJEA6BcoiQlWxvg=
+
+Name: assets/www/img/pictures/horse girl bulge copy.png
+SHA-256-Digest: RtNaIRzJWhtfwSMhzyOSvfhQCZT9XQbRD1ZPedZJ7lE=
+
+Name: assets/www/img/pictures/zebrataur.png
+SHA-256-Digest: +YWztGVBByzTqX+CmeAo7MTjc66UUpWaNbVaThHSSa8=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.pn
+ g
+SHA-256-Digest: gSf9YjxjM0qrDe00Lbfe21dJ24u5fgc4Ug8rYC5mPZc=
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA-256-Digest: YD++GrcGTWk0ZaOA367Wqhri1KitgmHJRsSdGxZImwk=
+
+Name: res/layout-v17/notification_action.xml
+SHA-256-Digest: GGquFCE2vp87CYyMYUzWZc49GMPDb9CGiXfv7SC/jho=
+
+Name: assets/www/img/pictures/admin 2 glum.png
+SHA-256-Digest: feMddjtQoyPmu7HncwnCRGZJFj077zZAKUZAnfHiA/A=
+
+Name: assets/www/data/Map039.json
+SHA-256-Digest: gzjz5ZBcWEQsEdFeh9/pf5NWaEyqX9rfEriZAHiRvOc=
+
+Name: assets/www/img/pictures/Mio cv1.png
+SHA-256-Digest: 5cVsLf2m1J6gDuqbGjwPhaaCr05o9fev8jJt5HBi5Ic=
+
+Name: assets/www/img/pictures/dancer ub.png
+SHA-256-Digest: Z71K9pBjZlxJdlhAnODFQaV/H6k0/Z+mUb8PD5s2C/o=
+
+Name: assets/www/img/pictures/girl pink lil belly.png
+SHA-256-Digest: KGMz0GpwirW3oTZRJV9UpQvpmeqt8Wh7Lml8EksL/zM=
+
+Name: assets/www/data/Map056.json
+SHA-256-Digest: V7EJb45J0Uyi5GOaSZuRHE90WNeYBeqdzXfx4esumG0=
+
+Name: assets/www/img/pictures/00083 copy.png
+SHA-256-Digest: iUto3G/FF5Lj3Q3hnhnJVz3dTJ+7mm+5la5HvaYchBg=
+
+Name: assets/www/img/pictures/oni 3 av3.png
+SHA-256-Digest: mXSEsGS2Y9Vave3y317VCo2t7eqmp3on6zY4vkLoaXA=
+
+Name: assets/www/movies/sambb.webm
+SHA-256-Digest: 80zJC2sxrzSP9uA9oDzE5LWXUBQcnLff3XNASOB+PGQ=
+
+Name: res/drawable-xhdpi/abc_text_select_handle_left_mtrl_light.png
+SHA-256-Digest: nY3+gyMNhMKvALVkxB3WphFUEFwW0MN1RAabyIqKDH8=
+
+Name: assets/www/img/animations/Breath.png
+SHA-256-Digest: refMvPl+IMmOzmCLhLkAg05ySZa3v5w8osCPLrTLF5s=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA-256-Digest: OIDAcCrMhhJfzYDoQoSA0a5o2mvC+25o90f+sJaQMXs=
+
+Name: assets/www/img/faces/Package2.png
+SHA-256-Digest: uv6nlYjUo/R2KMkICWU2HkG4rqw2+P3tgdttDdavJlc=
+
+Name: assets/www/movies/nagap.webm
+SHA-256-Digest: /sqfeG3zNSBV5m8/++7Ij6bhqZgRgQwuRjTTIPQoROk=
+
+Name: assets/www/audio/se/Monster1.m4a
+SHA-256-Digest: eRvxRG0CYkiSk3iaUxnR2TO9JYW5qlauuQ6+AQyhLWw=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: SG3vwR2u780YkrLkDozm+gOk4swXCTL7CIPcoTII8gY=
+
+Name: assets/www/data/Map023.json
+SHA-256-Digest: W9VYzCeSzHPbZM84vmmHzqB+cdjlaGR4qtw0MfLDU9Y=
+
+Name: assets/www/img/characters/Monster.png
+SHA-256-Digest: xMnmmlzXU71OGVe0tb7htp7CzHe8slxKkWJFz5JSkVo=
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_right_mtrl_light.png
+SHA-256-Digest: +1GGFhWggx4y6N9zPgxCwnRn0NtwvhgacqHsHNBXXRs=
+
+Name: assets/www/img/faces/2000_Actor2.png
+SHA-256-Digest: 7QNobnbxVgpqezACFGWe8TLXkjx3waZd7jQQ/H3pSXA=
+
+Name: assets/www/audio/se/Door4.m4a
+SHA-256-Digest: tILUPsCLwkzIG6yM5quhD104HydvjT6eG/2oHKpvK4I=
+
+Name: assets/www/img/pictures/ali jerk ball.png
+SHA-256-Digest: NoGTBIv3+bZsI2qRii91sKr6psjIE/c9MGYI1wzSu4I=
+
+Name: assets/www/audio/se/Recovery.m4a
+SHA-256-Digest: OKUQ71g/wD2WkJ/pdsnQWkbEGRL87dNH0wQoA6idTYM=
+
+Name: assets/www/img/characters/dvorah.png
+SHA-256-Digest: D051/VFTTZnA2w/5E7i6k5AVMWthZxiFR3q74F7X/t0=
+
+Name: assets/www/img/pictures/in stom leg l1.png
+SHA-256-Digest: j+Q4jQo+bDDUKb9qo4byblZKSvbqMlkuZG25jrkjoEw=
+
+Name: assets/www/img/pictures/oni 6 belly in2.png
+SHA-256-Digest: JcEQJOFS1t1w2l4ttukK/JdMYgaRSkVDDH7h2CyWxCo=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: NQo+/iw5iIbeXGqN4Fp2thw+PVGmcTd9JHzz4SiZU6M=
+
+Name: res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: MbHiGbpLpdt3yHI1AQwpmJb5s5P2fXvFmb7SK2V9XZA=
+
+Name: res/layout-v17/abc_popup_menu_header_item_layout.xml
+SHA-256-Digest: vQpUDgD2auSgVnpZ2+7flg6MzDi6ZuVUPxul+bK7AsE=
+
+Name: assets/www/img/system/Balloon.png
+SHA-256-Digest: J2Ccol2Y2PmV/maJH4z8Gg1CEfz1bkXf0io984oelhE=
+
+Name: assets/www/img/pictures/ali sad.png
+SHA-256-Digest: gtAbZMEtkS0T7GFQXo+kz0+AgKRua/C4WEbP8nzM+TE=
+
+Name: assets/www/img/pictures/InBody d1.png
+SHA-256-Digest: vXydaYbEi1GhnICtE8TAzyIJsJuVp685uxZxPmx3XQk=
+
+Name: assets/www/img/pictures/Akiyama torso.png
+SHA-256-Digest: zrMngUmT+PJpEABzsbACA8u8/VhpCIawDK6wEGpvbFs=
+
+Name: assets/www/img/pictures/oni 3 copy 2.png
+SHA-256-Digest: i/JGTHDuCpj3Svet0tFusfAqJ4pqwKRxTiqfQQcQD28=
+
+Name: assets/www/img/pictures/horse girl med belly.png
+SHA-256-Digest: VchbuXCPMXFXPnaWcjL+u7icUuzFTFqP4eNpHLx6UaM=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA-256-Digest: 2N3NMAG8mlfmmdIp037nyvuJZi+P+0g0ncK227Xp9tk=
+
+Name: res/drawable-hdpi/notification_bg_normal.9.png
+SHA-256-Digest: DGMox7JCBXCn7DizvrO6yaKdiVrBq3I5MVq6cmZBhZM=
+
+Name: assets/www/js/plugins/AltMenuScreen.js
+SHA-256-Digest: bhA7kpw98QNQFm20UdZQx18xRiCzhKD3VkwETMlUACc=
+
+Name: assets/www/img/pictures/3ee033a44cd316b0dda6942c6559155e swallow
+ .png
+SHA-256-Digest: 8n1bXUMe/h6ZhmBmhOd6p18xh7Irf3BSwHa1FA+l+UM=
+
+Name: assets/www/data/Map052.json
+SHA-256-Digest: mnmJZIf4G82qD6021Op25er7oRd0ySqGzfe7aqbAhpA=
+
+Name: res/layout-v17/abc_popup_menu_item_layout.xml
+SHA-256-Digest: ONkOBE8kyPt0Pom0rgqD/euE+AQG3A2Ih5IvO+rF5LY=
+
+Name: assets/www/img/tilesets/Outside_A3.png
+SHA-256-Digest: ucjlbD4Cros/WTFxyEz9sqYe89h7e+6/Je26IBSvZMU=
+
+Name: assets/www/img/pictures/maw mysti in.png
+SHA-256-Digest: BrMqRIPpSeLYvyiaK1gBsibkWj+9Wm8VI3XN3zVt3rU=
+
+Name: assets/www/js/libs/iphone-inline-video.browser.js
+SHA-256-Digest: aNft/FbE/Goh3n1VEH/WozTho/9y6yHBSiVTq5yS7ro=
+
+Name: res/drawable-mdpi/notification_bg_normal_pressed.9.png
+SHA-256-Digest: mcFNaFW4viltWAF9N1G43IScR7bR2Aq2FP+QdQgORhs=
+
+Name: assets/www/img/animations/HitFire.png
+SHA-256-Digest: PZGeidb2gIQuvUXFbMrn+vJcHfaB0HJCghaCmVPB7Yw=
+
+Name: assets/www/img/pictures/11 belly.png
+SHA-256-Digest: EPeWLFaJyOU9DsF1g9P2rXqEKXzrHzt1omaYg5Wcpe0=
+
+Name: assets/www/audio/se/Collapse4.m4a
+SHA-256-Digest: PlZrT15o88S3IpDTn/5UtONKmpIMRWuvwkuWLChikM0=
+
+Name: assets/www/img/pictures/pink drink swal.png
+SHA-256-Digest: niyzxcqKN8lJ2FDjSW4CUyiHi5XQCE9aSs/F/Iz2qRU=
+
+Name: assets/www/audio/se/0 Pleasure_1.m4a
+SHA-256-Digest: hUOlUMq3C0N8RzgsqaFxIDd2dxyiTLYnwo9oRfBf1R0=
+
+Name: assets/www/img/pictures/cent copy.png
+SHA-256-Digest: loC6hU+f657MggmaVg/ym3ZZR6QRemzujobp9hWaliI=
+
+Name: res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: hdVy9hls+EngnUIagHC8AG+Bv9SaZzsBltC3+yML76I=
+
+Name: assets/www/img/pictures/deertaur full.png
+SHA-256-Digest: YVLKNbEcTEyZo9Y48b97E1h10TNUKe4O+2FSmWZXmZk=
+
+Name: res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: dcb2UPeQSTuJxQ1qO8RrzsxncpGhrBUTsGfLTdc6r6Y=
+
+Name: assets/www/img/animations/Magic1.png
+SHA-256-Digest: ConkB/R2TaTOGYmWPYF9yflFSCIUdGPELXshP9zOAYc=
+
+Name: assets/www/img/characters/fairy.png
+SHA-256-Digest: 1IbXft+Ta77w8mUKb3mnywrAfioaptVGlr83F/NUx4U=
+
+Name: assets/www/movies/zebrataur dig.webm
+SHA-256-Digest: NPTKo+hJuaBOpqmodncaIQ2KFHooJTzSvTbpQjoN1ng=
+
+Name: assets/www/img/animations/Recovery1.png
+SHA-256-Digest: a5OFOBk4tRL9TeiuTSuzmedw+63LWhofUmr3r9tcH3Y=
+
+Name: res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+SHA-256-Digest: ppCMnnfodhRdQWx7knAM6ir6e4OXvIfytI84yR0zFvs=
+
+Name: res/drawable-xxxhdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: oCSymrz2qxlnI8DLBrQWZtxt0WreuwL6hwkjjHnbC3w=
+
+Name: assets/www/img/pictures/ta158b.png
+SHA-256-Digest: YDnflJvYwU2TGFWNFgrcdKUeeXBCop0oUhGf52h3a8E=
+
+Name: assets/www/img/animations/Slash.png
+SHA-256-Digest: JN+CxPhFISZvh8rbu4Pg23QgD82CoAZCkjY5I6c4/Q4=
+
+Name: assets/www/img/pictures/Stomach inside dig.png
+SHA-256-Digest: eeUkIeXQPoZINmP5+KkkY9CwOoB1VzzhmWilr2oSMIY=
+
+Name: assets/www/img/faces/4koqbyqe.png
+SHA-256-Digest: +w9GlJUsQiIrTzgUC6AgICPsy2l+UYKKWXSxUC4XJk4=
+
+Name: assets/www/img/characters/alien big.png
+SHA-256-Digest: 5ewjSQIBfWlc7Vi1m+WgCnhIIHCpnPvdCqcaPU3ncXg=
+
+Name: assets/www/img/pictures/samb biglb.png
+SHA-256-Digest: tMLnGfSXxo6yal05JwKnrnBdxWAa8w1O+6yzTGuf2Mo=
+
+Name: assets/www/img/tilesets/Yj1M7pW.png
+SHA-256-Digest: RKlTToBFVaBo45YDzfRSmn1Xsswo6c0AmjcAQUaYzT0=
+
+Name: assets/www/data/CommonEvents.json
+SHA-256-Digest: xMYe5/6fZd/i8O3oGhpFu4/cF8p9sNYa7WNRt4TgveI=
+
+Name: assets/www/img/pictures/mysti ovnevi.png
+SHA-256-Digest: rNotHhdlz3ku2yAkbg22HJ3pqwllBseue86inszO6ZI=
+
+Name: assets/www/img/pictures/admin desk.png
+SHA-256-Digest: Om6S1rZ1pxiqq+3gVujgpBrQtjUYquKIXmvmMReyM7U=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: dpTYoPquK5pyD7zZmJTC3DblpU91CwuBX9c9wZC3Qnc=
+
+Name: assets/www/data/Map027.json
+SHA-256-Digest: 5nM6X+haG/rg6SrCMLTq2urFnIFWMcD5LvfQT08xaBU=
+
+Name: assets/www/img/pictures/devi.png
+SHA-256-Digest: yq9gj/HH9G1olApC38mP3TCV3JIWD9Jo9HWkWXHqr6M=
+
+Name: assets/www/img/pictures/mansion av2.png
+SHA-256-Digest: IQ3sMNrt3+C/GudN7qcT9h/Yi7Q40i6y9of/Skta5D0=
+
+Name: assets/www/audio/se/Up2.m4a
+SHA-256-Digest: lDAzGVI9M4tFvG+UD+RrKJmP4s9l3vmnoe8pV7zTAq8=
+
+Name: assets/www/img/pictures/mansion 2.png
+SHA-256-Digest: +vPTocp4sWbTLgHCXY52Q0YAh6760XI4FT5bnrPSWrY=
+
+Name: assets/www/img/pictures/Mio futa.png
+SHA-256-Digest: FJMB4yV3VEwFSC/BD5kcI+Ktfqir3G9bsmrSYPDv+YA=
+
+Name: assets/www/img/tilesets/Outside_A2.txt
+SHA-256-Digest: xu/hD4PwKXrZ3UQ8FO96MKCjAszeq0LASnQXfIAXfm0=
+
+Name: assets/www/img/pictures/ali jerk bj cum.png
+SHA-256-Digest: TA/fsNzl6JXI4kntfvj0Vpi2F+Yq+rlbmFMWwN9/oIA=
+
+Name: res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: 6BeEzcisODc2IeWG0o1IjVhczy1pV1ntYR2EjSvwTKc=
+
+Name: res/drawable/notification_bg.xml
+SHA-256-Digest: kV4ytwUt6PdeYif9HCKO5UZ2eBHtviRxT0VEra5tnoQ=
+
+Name: assets/www/audio/bgm/140477_jymdavis_mud-squish_mix.m4a
+SHA-256-Digest: FUMTOl4AjakU2EaxbiXi7A3q4i8j1xAveaP9mmE5iqo=
+
+Name: assets/www/img/pictures/118 bell.png
+SHA-256-Digest: DsOjcNzvaz+RFjxfzC6SlSdf4vG+bmKYQJJYi0jVUjg=
+
+Name: res/drawable-xxxhdpi/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: t0g6opkoZhnOJrS+9qkLmXjCkJRB7Q8lLIXiMsjgyxw=
+
+Name: res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: B5hDlmhkv0CZRXy3Lx/r58V7tacL8PVEqRaaB4t6WwE=
+
+Name: assets/www/img/pictures/in stom leg l2.png
+SHA-256-Digest: 3a6prSO1GT4X6HJyKknLpdRwQLCeDrjjSV08gzoJKSE=
+
+Name: assets/www/audio/se/Open5.m4a
+SHA-256-Digest: fgvUKcVwKaIGbd342HLYtNK5x5hjryM9+B8jbpLfLwM=
+
+Name: assets/www/img/battlebacks1/Clouds.png
+SHA-256-Digest: d2bo3zH/fOkvjq5A/7iPapgl+BpVSDwYccOqPqQa6D0=
+
+Name: assets/www/img/pictures/oni b 4.png
+SHA-256-Digest: 55zbIb5mu+o/q44mXfaKNHJF8ZMt9InDU7Fpd3+Mvx4=
+
+Name: assets/www/img/battlebacks1/Grassland.png
+SHA-256-Digest: own23C4NwHGC2rqugBkaDyw5U/aTETnoT0IIMnYuTT4=
+
+Name: assets/www/img/pictures/cent3 b.png
+SHA-256-Digest: 4tj1s8j0IfD3IumLtgECf1dBC6GOqq1IcHe+fZVAkGg=
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA-256-Digest: /PEu5ehMG3vJojVmcVOVCHyuDingD3ONZP/g7O9Q+yw=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA-256-Digest: wW3e3u/qak3MKarmc2JbdlP9sh6/szJ+lyM54PdZXCg=
+
+Name: assets/www/img/characters/Lamias_zps2531xizq.png
+SHA-256-Digest: g/Up4dMXlVRDXdNlC1bW4NkPQ1tdWtNQsXKmdPB0jHE=
+
+Name: assets/www/fonts/mplus-1m-regular.ttf
+SHA-256-Digest: fyCWSV2rSccVDNBgny+NawPr8vp1Yeo0s8yh4J6wuuU=
+
+Name: assets/www/img/pictures/nia_speedpaint 2.png
+SHA-256-Digest: 1WktA3lQ7kFUu4VOgJH2N5asAZxErM6iegZ48QKSt38=
+
+Name: res/anim/tooltip_exit.xml
+SHA-256-Digest: nITMO2IpgiO/UZEX/BoMe+5Zfqrfkqe7N8ZdoMhgeVw=
+
+Name: assets/www/data/Map059.json
+SHA-256-Digest: KXvKv025wZxH8m1y3/G0k9HOVQ546cKV9PAj4qLuPzo=
+
+Name: assets/www/img/pictures/ali jerk 2.png
+SHA-256-Digest: u/uRepnJQ1Cm0ZaKVUP7U0sCvkLhQumCHt5JAfyWCGk=
+
+Name: assets/www/img/pictures/centaur2 back.png
+SHA-256-Digest: o+lQtgSoopbSbTSmGbAxEow5/oy1PaUrtvEub9VBxXo=
+
+Name: assets/www/img/faces/Package1.png
+SHA-256-Digest: gGI6eQD/aG65CkaywIyPVzs1RdoNSGi8gOCac75bIeg=
+
+Name: assets/www/img/pictures/118 ov.png
+SHA-256-Digest: RNuJhFGPRk+2zzU1PYgMVdv3NvvyabZYPnBo1B3YUuY=
+
+Name: assets/www/data/Armors.json
+SHA-256-Digest: wjWL5UMK0o/Q9M/vh/zagH2ux5UzsbwHuz4OLw0xTfg=
+
+Name: assets/www/img/pictures/succ 2.png
+SHA-256-Digest: PqOjU641cznaa/uStHxa0Xw8P4gLBFWbpFTRSmWOQac=
+
+Name: assets/www/audio/se/Thunder5.m4a
+SHA-256-Digest: 9aqcOecZXP3A4NMJrKzR2VL/0mohSpdRyHiDYCIq0Mc=
+
+Name: res/drawable-mdpi/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: elH1265+CP2jAAyRF+LBchLZjsqstwUOuhcrr2sWlWc=
+
+Name: assets/www/js/rpg_objects.js
+SHA-256-Digest: 9S7ccZ0vVc8rO8Yfa79d84EtxEWyWQMF31S6PT0rD4o=
+
+Name: assets/www/audio/se/Save.m4a
+SHA-256-Digest: xO64Y7J5j7Rh8dEumekKjP8IqRu5iOKQIzeVk+IgaM4=
+
+Name: assets/www/audio/se/Collapse3.m4a
+SHA-256-Digest: mZfc6O5O7L7/+CLO8FGuqp7qnlQIYsiOPUvy1N64EKk=
+
+Name: assets/www/img/pictures/mysti small b nev 2d.png
+SHA-256-Digest: DVJ87c6guhd8sVLCZ8M6fIOBNWQ0VY1ppCg0JHvyNOQ=
+
+Name: res/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: F4xlP2/fIgGz62V1g5rzUEmfXDV6D8K3lpqZgkrfiPI=
+
+Name: assets/www/img/parallaxes/BlueSky.png
+SHA-256-Digest: UKmrH0F+DqtSQ+UG+oeK5KB+lEeJo5Wcw2i6ygc84zk=
+
+Name: assets/www/img/pictures/david.png
+SHA-256-Digest: SgQ8uLhraKfcU7YvRDlK02dxaqm/v3/aW5gitYbbNnc=
+
+Name: assets/www/img/battlebacks1/DirtField.png
+SHA-256-Digest: 6va8Eq3S1vMQBXF/RL/5B2Rc7BMT15sGUH68AhZtvBs=
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_middle_mtrl_light.png
+SHA-256-Digest: BJQfdumHH/qYZcOif+4gZH/dt2b5f3ObmJ/u5mgLtPs=
+
+Name: res/drawable-mdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: Kp5193waaUZ1yIYuvolX5sJAVrnfwg+QAgP7Jpm6X4k=
+
+Name: assets/www/audio/se/Dive.m4a
+SHA-256-Digest: zNRZOuxD5jyIRaZlmBvTdF2zMTj2tPh7jTKfFx57pkk=
+
+Name: assets/www/img/battlebacks2/Snowfield.png
+SHA-256-Digest: Ao3fnjqAw/54L8gJ2O7OdEtj48zGC6Dmukz6GoKEfts=
+
+Name: assets/www/img/pictures/centaur no belly.png
+SHA-256-Digest: Xe4auaMhlpRScI7UBYB49zZJk1Ove0SXmjDWPF+5hmE=
+
+Name: assets/www/img/pictures/Centaur grumpy digest 2.png
+SHA-256-Digest: RIC5OQ8pJf3Pvfp8GMYgKk6qgtpV1a8owE8sNy6Ng9k=
+
+Name: assets/www/img/pictures/dark2.png
+SHA-256-Digest: VhE1QXVJmeuhxR4js8GOCXssKIfQ9oC42WWEUFRkLhE=
+
+Name: assets/www/img/pictures/InBody over.png
+SHA-256-Digest: 2gGB0Oda/FIZoRF9/mku71VMQhpoYmfERgt6ABHt0uM=
+
+Name: assets/www/img/pictures/bike bell.png
+SHA-256-Digest: QN2Gtw9D7qhydU6+9QReX81Tr3pMLPpkXDvb/z5GMCs=
+
+Name: assets/www/img/pictures/maid inb.png
+SHA-256-Digest: t3bVMaRfizMMw99grH+/2pdjiJ/o7fniA++lsHoNyas=
+
+Name: assets/www/audio/bgm/Town2.m4a
+SHA-256-Digest: ntdXPfyChuc6Zo4sllCZunSMALVM0AklVP0Xvzf3+Qo=
+
+Name: assets/www/img/characters/cy.png
+SHA-256-Digest: qw2xjLS2qy4BQm4vSnhh3InufUHwfwaTe2GkbZFOQvI=
+
+Name: assets/www/img/pictures/oni 3 av4.png
+SHA-256-Digest: VDH5qyM8ttQ9KVZaRfhucOnVF7RlbCetruIm546fre8=
+
+Name: assets/www/img/pictures/Akiyama ub1.png
+SHA-256-Digest: p0Qm1R9RL0n6/MtD/IhbONJtKWrf/5GQDKC1msgIPpA=
+
+Name: assets/www/img/pictures/nia av frt.png
+SHA-256-Digest: Rwl4bEjOjy3vmHN9ZLnTSYjaiTxiya0PiFictupd7B8=
+
+Name: res/drawable-xxxhdpi/abc_ic_star_black_48dp.png
+SHA-256-Digest: CWkoZhptXixu9/entsJ4dtPLmhIkZ5QVgK7zUa61qCQ=
+
+Name: assets/www/data/Map020.json
+SHA-256-Digest: BKAt50G1ZteOWpz9BPn3AElyGpw0KDs2kVfa1KJkZMM=
+
+Name: assets/www/img/faces/delegate.png
+SHA-256-Digest: 4V5YpR08aJvGzZ4L/+gKXVkvrJ34kiDDjVKCH55LGWw=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: LC1rr9Xy6zhgTmdech+v5ku/MuCsICGzG+RSGJ7BwQc=
+
+Name: assets/www/img/pictures/bastet 6.png
+SHA-256-Digest: wKnVkrCcewdpsQqaztEvFiKjCdwojTh9FNiUazm46cU=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA-256-Digest: PHCxL8OB0pIHZEq/F71c5hdpp9P5Iu+ZOICiOgjQUJ8=
+
+Name: assets/www/img/pictures/118 open.png
+SHA-256-Digest: KqHAkuxRV9W5HGaTD3BgvIWFKchMeE62Z0ix2+GPaFQ=
+
+Name: assets/www/js/plugins/WeaponSkill.js
+SHA-256-Digest: ibmYVMTbCfa+GJgyM41Fl0f5anXful1QCtQfrf37iKw=
+
+Name: assets/www/img/tilesets/SF_Inside_C.png
+SHA-256-Digest: RmgcgTk4wOkYzjLeWGcL88xHajTwMgs1sATp27shxDI=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA-256-Digest: SinLTz1WcXnyXk1QWjyWnyOvUXu9kqNG+ldWRKDcyb4=
+
+Name: assets/www/audio/se/Monster2.m4a
+SHA-256-Digest: 51ULQGdHwxJsX5dvDRzVK0zD1JH+atyFIskymtGOMRE=
+
+Name: assets/www/img/pictures/Scouting_by_fishcapades ov.png
+SHA-256-Digest: wgvFrurxmIUphNWFKPJVzbXamn03QBotBV4VO30z6Hk=
+
+Name: res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: IIDExXlm8ebtS96dYMuhaUl0p2gW+aze09mXVyCTdgo=
+
+Name: assets/www/data/Map026.json
+SHA-256-Digest: LyhjL7L6aSS99/Ff+HH4V5ckc3rE068bOV0q69b23Gk=
+
+Name: assets/www/audio/se/0 Pleasure_2.m4a
+SHA-256-Digest: tkYPAc5rNtUGTWmrUB3VHbw/yfz/Bm0Ncn59hMBTqZ4=
+
+Name: res/drawable-hdpi/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: 6CBhB+Uj2bix+E2cEEfAzyyd50I8yzTcRFqT+JyulUU=
+
+Name: assets/www/img/pictures/mysti kneel neviav2.png
+SHA-256-Digest: j1zKN/C2L2n5Fix0mpRheMviaHXpgv1SbuswkvOmDho=
+
+Name: assets/www/img/pictures/dvorah fall.png
+SHA-256-Digest: VJY2fnWH57zT2Tj/r8qsQu4LsWJKNaNQW3r68QZU43s=
+
+Name: assets/www/img/tilesets/Outside_A2.png
+SHA-256-Digest: OCkQaA4hlTsf1s2V7mpTeApVlR5wwauq6sjGLfWS320=
+
+Name: res/drawable-hdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA-256-Digest: +Y/9JoiwcfdBfRrDaUIWedQD93xFptfGHN6s4sO6Lb4=
+
+Name: assets/www/movies/devi.webm
+SHA-256-Digest: z7mzOgN0Azi0v+X9Ktvhe6u/Lj4CovknvzClpvhpZoQ=
+
+Name: assets/www/img/battlebacks2/Wasteland.png
+SHA-256-Digest: bZHNtUjKx5ngkcAxbxCdKZ3VpBh0JpsyWPPVNaD8u/Y=
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA-256-Digest: EHAQXVf4HJGDR+q8UHduOvEll+p2tKzbBaalDf0TNHg=
+
+Name: res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+SHA-256-Digest: 7gg8gx2zvUE86irzChieaHQaDgOBss4r+Xiz+sYXyA0=
+
+Name: assets/www/img/characters/ogre.png
+SHA-256-Digest: JsG4R78sibmU3DU/1yxeDKqLU9q2DlarkQphihyG8aE=
+
+Name: assets/www/audio/se/Heal3.m4a
+SHA-256-Digest: hmUN1Spz4by6F8QSk7BlJgUYtH9pSIaAM5RCxm6LORw=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: jQk0pTw2qtYccdNhaB8Z1RE+LoDMDbhPSW1FSSr+jjI=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA-256-Digest: VrtUqrrVj/6GzUtZssXiUkvb8FOltUiuUvZGREKDpCQ=
+
+Name: assets/www/audio/se/Laser1.m4a
+SHA-256-Digest: fXAVN5fvV2Dpy2VMLZTdops5YclbFTKgmbRZeYTHc7M=
+
+Name: assets/www/movies/zeenab.webm
+SHA-256-Digest: Xk+a7PdODfHj8hPPu/dJiQKaSYlpyw022nxKgT5Tt0E=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA-256-Digest: 1hepLS63ue7stXrIVqnkYE+wAaWojH0HBoNCjSahhWY=
+
+Name: assets/www/audio/se/Blow2.m4a
+SHA-256-Digest: LmY13mMZOD3W6OL4gdZLfU+JKPuQe/IMCMKkBJaoirA=
+
+Name: assets/www/img/animations/Fire1.png
+SHA-256-Digest: OCpPoQ/p30hqfnfHdyOYF2Yg9/KI4qmqehLCvon/oao=
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_middle_mtrl_dark.png
+SHA-256-Digest: EYdN+S9U2YXvcD8q/nANo7nwLhrAYY3v5ts4j3op1cU=
+
+Name: assets/www/img/pictures/sali mas b.png
+SHA-256-Digest: +pJF2pI/7pZtsHRS/Ur05PTZZLQ8OzC0yc5rfVCy/Hs=
+
+Name: res/drawable-mdpi/notification_bg_low_pressed.9.png
+SHA-256-Digest: 4Xdh7SgO3ZPXFBvVBLcPnp4VqGUiiNnmMzv0zpZO+EQ=
+
+Name: assets/www/img/pictures/nia av c2.png
+SHA-256-Digest: aOA42aZpqLpyOqc2XZjUIQFppi+/aK/h7o8tnoc53Fs=
+
+Name: assets/www/img/pictures/sali mas.png
+SHA-256-Digest: tWcRkDIiPhx5E0hobdFvzXgChGMtx4W6msRabcXbVjc=
+
+Name: res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: J8InytefqDFiFVi4rYCOKMk5+229+gQK5XE2tLUPGdQ=
+
+Name: res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: X9/7P6RNWtY2WZTkHSkEIXqCXpUAfsPdP8BWnLfFBaU=
+
+Name: assets/www/audio/bgm/137254_xenognosis_egg-pulp.m4a
+SHA-256-Digest: 4VsWlmoj9Jo3phWoU5qK0CG9XRCR00qIwIZFQJH3vCU=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA-256-Digest: sxYd2IP+VYEZbrzzqvS/hsCJ7jX6VoU3jweTcfjZIfg=
+
+Name: assets/www/img/pictures/couch 11 inb.png
+SHA-256-Digest: J7CIL9AtCeWY8hUJ0R22of1UGyyatvv0XYrPnsx4yWk=
+
+Name: assets/www/img/pictures/oni3 avp12.png
+SHA-256-Digest: Nr9ccZ83yxjvQHuDYbeHPpteiYkHXjijSeXr7iiKAjQ=
+
+Name: assets/www/audio/se/Load.m4a
+SHA-256-Digest: VUKMEdYDX5fUqLDkGzzfhh+zfG6DuJV+ylpM3Ns4RyU=
+
+Name: assets/www/img/pictures/Mysti swallow.png
+SHA-256-Digest: qlvW8DKxbOLcfSHu8JHpEZGDWyZNcGLuCxbtXlAHc/o=
+
+Name: assets/www/data/Skills.json
+SHA-256-Digest: 8XJ436yEbZHHVn0yU3ebKb2isKIe3xkHi4HsYdhkyAg=
+
+Name: assets/www/img/pictures/oni 3 av5.png
+SHA-256-Digest: ugJo5zyvd7/FJgVYOpvYVrIYNBHggDyR/BPtypncoTc=
+
+Name: res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: VLdXztEnjXiEbAcK4oAspl+IwXZXI25P1y5G4josmiI=
+
+Name: res/xml/app_backup.xml
+SHA-256-Digest: fnhawpIDXjVcTIGyyIBpajEg9lsi2lb2BU/9r5xgxWI=
+
+Name: assets/www/img/pictures/deertaur.png
+SHA-256-Digest: D9CDTn6JtBqaWQrZzN8LfnDjzo09am+P4NC5fabdoYs=
+
+Name: res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: SZAwc6sjq/wRpV4TM+spBcdD4bOCAGwnwVQ0/XbgIHw=
+
+Name: assets/www/img/characters/People3.png
+SHA-256-Digest: CEM2d8aKVSM5VT5MrmrjObuGFrraO9xdBWBf6squu58=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA-256-Digest: 8FCIZhFbJQ7zPGPx/XUg5fAQOh1eqBW7sOtyvLGWY6I=
+
+Name: res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: DR9aPjbQIxFkAZD9do7o0mB766epC0Eb53pIo2Qny3c=
+
+Name: res/drawable-hdpi/abc_text_select_handle_middle_mtrl_dark.png
+SHA-256-Digest: R9OQojYdIbUBoZNZE3zOJhDU7i1pmv7hP1wzKVbjmco=
+
+Name: assets/www/img/pictures/Cyrille oral.png
+SHA-256-Digest: ueJyWXTwncyvytdDyhEZYrRWIBQIWYk3ARm0P+F+Zcg=
+
+Name: assets/www/img/pictures/2000_Actor2_6.png
+SHA-256-Digest: B7HU/2EcOoi826qw4HA64I83Me6WC13b79OIzJq8fok=
+
+Name: assets/www/img/pictures/lisa mk2 ub.png
+SHA-256-Digest: vnpBU07dZV7HyDiZehx/0nPLskEDsCubzwzBp7H3EtU=
+
+Name: assets/www/img/tilesets/Outside_A5.txt
+SHA-256-Digest: PMdjcIlVf0t6viHXSAZP52qdM2ocHgRsLD7quBZ4EG0=
+
+Name: res/drawable-mdpi/abc_text_select_handle_right_mtrl_light.png
+SHA-256-Digest: ICR5pMgARWM9aTplFBAuC7PEwlM52+y8Sy6dcjT+8a8=
+
+Name: assets/www/data/Map036.json
+SHA-256-Digest: BA5CsyxOxZJGHeXgx2/0wyGbe3WxRV/E5CL555JPInw=
+
+Name: assets/www/img/tilesets/Dungeon_A5.txt
+SHA-256-Digest: SeRp5hGkezQk7lxxmCiILIAAfnEPKS8a5ZOWuTnB+k4=
+
+Name: res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: e+9VJ/3gEnnqDr7lMk/dSJuX5rbUSBLjXI26mjNsjlw=
+
+Name: assets/www/img/tilesets/Outside_B.png
+SHA-256-Digest: RUUsDOGNdI058VPLai472KDz4JqXsHNiSz2NBC1IAwA=
+
+Name: assets/www/img/pictures/naga 4 copy bell.png
+SHA-256-Digest: 0ZYrh5g5Zu3j0jFyqH9JPnNwWRs5D/XjqnLXeVSs5Gw=
+
+Name: assets/www/audio/bgm/Town1.m4a
+SHA-256-Digest: mBYvTD4rqOA7EX3Isq2uJAM3IL0pNCBjzi1xFNZt/ds=
+
+Name: assets/www/data/Map053.json
+SHA-256-Digest: 7K3AqpHYo5wqaZTILPaiZrRKjAX4SNeiUTjZmLidMiA=
+
+Name: assets/www/img/faces/keegan.png
+SHA-256-Digest: p52Puj80f+6GoRW0bZTuZJIQj0j+fmHA6wkTEMXy0+o=
+
+Name: assets/www/img/pictures/bunny.png
+SHA-256-Digest: eYTiIsI9iiIPxw+0Tz01e6bxLc+VkP3Ae+gXvyYJ7RU=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA-256-Digest: 8nqD9LJJvzNRTrzKuQaZYmw0Io7icHLfSLE4vmRlE1I=
+
+Name: res/drawable-xxhdpi/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: t0g6opkoZhnOJrS+9qkLmXjCkJRB7Q8lLIXiMsjgyxw=
+
+Name: assets/www/img/enemies/Minotaur.png
+SHA-256-Digest: +x4JvS5q/hIFyHkV2sZYsrqLyJfDPq4xJ2kqNNjbzug=
+
+Name: assets/www/img/pictures/mysti kneel.png
+SHA-256-Digest: w8tgNxBzYUrfoV7sy6UDkBN5lMTX6EimIcoCVhdB1wM=
+
+Name: assets/www/img/pictures/059 copy 2.png
+SHA-256-Digest: KsrR1MGC5tarqtVsUMtnekj9sIk/Gw4a0RmM7IYzh9k=
+
+Name: assets/www/img/tilesets/mfqccxxl.png
+SHA-256-Digest: W2s6cWY3UUr+tB1kpajSg433hr0ZpEjcKR2KLE3vRiE=
+
+Name: res/drawable-v21/abc_ratingbar_indicator_material.xml
+SHA-256-Digest: n71Co6ko6/UepCskTiMORgcGr4yeB61qmzItGdjRRsY=
+
+Name: assets/www/img/pictures/couch 11.png
+SHA-256-Digest: eOUiNVARR2Uj+TMPgvnduREBWg+pCELduedEU3oGPnA=
+
+Name: assets/www/audio/se/Earth4.m4a
+SHA-256-Digest: LR61iaNuulB0U+/DYhnd4QOlpLG3V0GwfhmUpafefV4=
+
+Name: assets/www/img/pictures/InBody d2.png
+SHA-256-Digest: Me9GzOz0b05jwG4g2U7BRhTF/YB3GJ4q6rgBpWdbJLc=
+
+Name: res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: e3PJFMRZk43DJX+hFRxzZgnrN7tDfuQgcbgetIYL3AQ=
+
+Name: assets/www/img/pictures/bee2 bell.png
+SHA-256-Digest: /+H0rrn6glBTx1DholvbFsI0pSnMcniqY9QeHNR66/o=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA-256-Digest: syp5SeoFOW6w6M4QYm/hz8uMiLX2Kckg5+cc7OF86KA=
+
+Name: res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: FqBPCG03SwC6dZEkxKNy3ljLG06wcNsSHKdHBz/vR0U=
+
+Name: res/drawable-xhdpi/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: 6APc4kCypANwGkW+SDzC3D4Zin0+fPckswBa64cdGRg=
+
+Name: res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: QK5FnbNUisQvuUnWns1dPEUoZtsPz00bEIHdZ2qUMew=
+
+Name: assets/www/data/Map043.json
+SHA-256-Digest: VRixY3D2Kk5b1n9hF/nKFb2ZHoyfcqpRbKfHjm7zj3A=
+
+Name: assets/www/audio/se/0 burp_fem.m4a
+SHA-256-Digest: otikbqjCSmO0hCKUUmAJuQFK2n0yGkyhlsm0POA3BKg=
+
+Name: assets/www/img/faces/demoness.png
+SHA-256-Digest: dTDCdkHTjZu4XwXTNA7fv0RlDMe5lbv1ZaRTIBovxy4=
+
+Name: res/drawable-hdpi/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: FSEAk9aIy19Sxcp5G/Cwkb6AbKSA2ESpH/yeNJ/ea3k=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA-256-Digest: 9C4ZNtrlGHYU9ffZihCeU5ZvC/LXwuoFr2kwz2+7mSI=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA-256-Digest: mN8Otno4ly5V9NnSBz5n0cw4hqGABDE3Nao+OikfSVE=
+
+Name: assets/www/img/pictures/11 dig.png
+SHA-256-Digest: WTova+cXh6NIkNaUkjYmtxupiIn+tz3imHwSMwWMWRo=
+
+Name: assets/www/img/pictures/118 big.png
+SHA-256-Digest: 5neBr/tPnrNCq+2Or7HnUXaGzSyySAFPrJRMXPW5tyY=
+
+Name: assets/www/img/pictures/jewel_of_maramba_by_aikurisu-d33v892 b.p
+ ng
+SHA-256-Digest: 5wAcjxzc5f1r3YDgnAoo3+MFKuPpERaxxaKsZtjGEHw=
+
+Name: assets/www/img/battlebacks2/Lava.png
+SHA-256-Digest: fsPfnRTmaRja3sINjfm76ossYHO8gaIGxwuIrAAoY+Y=
+
+Name: assets/www/img/pictures/lep 4 eat.png
+SHA-256-Digest: Jxa9NhZ9ns7GDlwzWAGMX99U19WIXt/SedHcM5KWtTM=
+
+Name: assets/www/audio/se/Slash1.m4a
+SHA-256-Digest: wGckp6r9WDJu/ZvdnQw9Y7PyQlC5qxbnrk0DudteSxA=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: 5PNWeDPGsRKzvSRofm4RI8dLGzKuqI2ZWWq6/bKUBrE=
+
+Name: assets/www/img/pictures/ta138c.png
+SHA-256-Digest: jYXvQd+xRa95UBM39DGWWRuFQEptZ3X+Dl8DvqKAR84=
+
+Name: assets/www/img/enemies/Slime.png
+SHA-256-Digest: eTsXmGItlZdNgRLW9DB0DGtFmax9MjlFPmQvZklkv8o=
+
+Name: res/color-v23/abc_tint_default.xml
+SHA-256-Digest: RvhNJZqTuOcSgia7zlRVC8Yrh6NGEIdmLYCer+wtNhU=
+
+Name: res/drawable-xhdpi/notification_bg_low_pressed.9.png
+SHA-256-Digest: IDQyIvn3ndVlw6IkhJTUUucIIKwcQ3Fzw4ut1F+WKv0=
+
+Name: assets/www/img/pictures/ali jerk bang ub2.png
+SHA-256-Digest: c28GHeO1gsPmRE5k+w6lMUAz/VWkkTt1TR9clFvydOQ=
+
+Name: res/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: dLEkTioidtq267FS5kPgZdka/Ltf8veVICVHAjqWD1A=
+
+Name: assets/www/audio/se/Thunder1.m4a
+SHA-256-Digest: CgBXqS6ny1oh1ceMMANI0boDP52HZ/5F1fE4qk1vxy0=
+
+Name: assets/www/img/pictures/tinkerbell_by_sorah_suhng-dajxhsk ov.png
+SHA-256-Digest: D84mTQCeDnrPQu2dcglqugyTt1D13CGJH0n+ujija9k=
+
+Name: assets/www/img/pictures/grass scene 0.png
+SHA-256-Digest: OlMRgU6VnKSq0BL2klddaSkN21cqLq8fa51abbYg+AQ=
+
+Name: assets/www/img/characters/lep.png
+SHA-256-Digest: 4pB8XMQ0NVn51V8spPauQMxbkaSlIztVWClbxZBhpm0=
+
+Name: assets/www/img/tilesets/Dungeon_A4.png
+SHA-256-Digest: fVSsu4oFOiaLcZjos8MsARrAf+78kgvNV88TjpZlz7E=
+
+Name: assets/www/audio/se/Up4.m4a
+SHA-256-Digest: VjyUvY99OJj7mSBkXHnFpZ8uw8R1lmp5K+Z52NoOiwk=
+
+Name: assets/www/img/pictures/blue_hair_ org.png
+SHA-256-Digest: nTNeyXJv1EWpxk05n06kfm96AO8rbNN5iset9AhHfTQ=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA-256-Digest: JLohmZjwe0T8LcK/XdzczRCLYhqVyxFmLPk33IrFTws=
+
+Name: assets/www/img/characters/mansion.png
+SHA-256-Digest: cN5JD+9MaJIcsnyNx7co7NW7KwSjfTBnNIBkLuam3y8=
+
+Name: res/color-v21/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: Swl9wh+uEaScl+aq4QW0SMHpoY7DRfcPJZTS6/swB8U=
+
+Name: res/drawable-mdpi/notification_bg_normal.9.png
+SHA-256-Digest: qGdqF5OsgxD/sSmGIy32bfCS0pwkKu7cK3NVbAENONw=
+
+Name: assets/www/img/pictures/mysti kneel cg.png
+SHA-256-Digest: JmfrCEUuzsOgSMVghA7/bjvKE+QeQVCALeqG1CbXgyA=
+
+Name: assets/www/img/pictures/ali cv 1.png
+SHA-256-Digest: x7aE96S+0xi0mJWrCO2ZXDLXmQlJaTYm5MPQnAR1TKI=
+
+Name: assets/www/img/tilesets/Outside_B.txt
+SHA-256-Digest: a9l5g9sA7mrEpVi/ssaMZ29XBVjdFUHm2tftgHQ+Kgk=
+
+Name: assets/www/img/pictures/tinkerbell_by_sorah_suhng-dajxhsk angry.
+ png
+SHA-256-Digest: f7Uri3XxSyx0CFwOIqndo/f5lEsXFfOV+9f5KVVvDR8=
+
+Name: assets/www/img/pictures/girl pink button.png
+SHA-256-Digest: yHxX6UYXZKimacQGAnak+ZBVYnexQ1O9Aup1WsU45Gg=
+
+Name: assets/www/img/characters/!$SF_Gate2.png
+SHA-256-Digest: SWZkRxz9w5pLDWqcFs9T/U7eTS80aixcgn4c5E8OPR8=
+
+Name: assets/www/img/animations/Fire2.png
+SHA-256-Digest: OlmQ+iTlJ0l+04niLNECOpiQnYGrzJIGUzZP37n8xbE=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: /j6a+vrMbYXYySvbUDLYRlJDLXWVcJCYR/ppC2fvwTc=
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA-256-Digest: 9KVTqy692AUJq1e7qE6iAJakywDRBetixNetCIikQzA=
+
+Name: assets/www/audio/se/Blow3.m4a
+SHA-256-Digest: ffopagj96NWmupd9SDPJLxY+Di4S05dQk84f0gUKau4=
+
+Name: assets/www/audio/bgm/03_A_Gentle_Breeze.m4a
+SHA-256-Digest: blrE2k/jszSako1KzcP0jO/pvtdqY7fJGIRIK8qjTNk=
+
+Name: assets/www/img/pictures/ponk2 av 2-5.png
+SHA-256-Digest: YYI1rq9c/WixREWcI4zx/oB3VnTugizq/4oryb7BDcw=
+
+Name: assets/www/img/tilesets/Outside_A5.png
+SHA-256-Digest: 2AOcmFvHRendwV1+zNnQm2jc6a2NtYsR2ImvpROiieI=
+
+Name: res/drawable-xxxhdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA-256-Digest: mHcsGw0ox0GEqPDb0EPBlQ+ZVMLPgqoKbgpr9K64des=
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA-256-Digest: +XPDiHZzYTyOGQvfWpeECr6bemuL4/x+2pm9r1uWzxc=
+
+Name: assets/www/data/Map046.json
+SHA-256-Digest: Ptokrz/gCG18rnyMG0WABtzvs3EwA244zD3AWfj849U=
+
+Name: assets/www/img/pictures/girl pink scene bulge.png
+SHA-256-Digest: 3uFzzXMIu2b1x7jtwIc9AtVEox+3Wk53pIAqzbBh4gU=
+
+Name: assets/www/img/pictures/oni2 copy.png
+SHA-256-Digest: 6ao2RwQkFkR29jsZaWTweUGIu6Kl4r52V7QIAwpzV4E=
+
+Name: res/drawable/tooltip_frame_dark.xml
+SHA-256-Digest: qjuUP/f4KID4EudellRaXOaUO9e3uSrs0+huE9+mzGc=
+
+Name: assets/www/data/Troops.json
+SHA-256-Digest: Z0zUrcF05q1M0ozYvT1O6IZgqUhz5gDwmNg0g5PAijo=
+
+Name: assets/www/img/pictures/ali cv 3.png
+SHA-256-Digest: Id5RjJVOgEiWvQDjM3/eaoeoh6kHpAscBls/g2jpet0=
+
+Name: assets/www/img/pictures/Stomach happy.png
+SHA-256-Digest: HOLfHShpfKJIntfcwrqQJ1Pcse2fUxniLzBb55MEEfc=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA-256-Digest: oJ8DKbX9UmVw7FK8DExYdlnIWdp0vH+VnM/D9VagN7I=
+
+Name: assets/www/audio/me/Mystery.m4a
+SHA-256-Digest: B8Op9TzaqwzF7HdkZkb89vzyamC36UdAUicKuxedp8U=
+
+Name: assets/www/img/pictures/sali devi 2.png
+SHA-256-Digest: oHDFuKtJy2/DKuKgc8/EBrsB+L2w5eXe4QWQOnNJ1Qg=
+
+Name: assets/www/img/pictures/girl pink shh.png
+SHA-256-Digest: 4b4sX/jaWF/0GBeHueTxWnoDwaT1k3r8qnsNsBnxIsE=
+
+Name: assets/www/movies/pinkb2.webm
+SHA-256-Digest: cx9h+ph0pZr1YfxMZtnljL+Nx8qzjkRFJcoOLL+LPP8=
+
+Name: res/drawable-mdpi/abc_ic_star_black_36dp.png
+SHA-256-Digest: 1oC/NPdafoTjTHz6cJE8mU8X7TXPb0v0woU10Pb/FfY=
+
+Name: assets/www/img/pictures/ali jerk bang.png
+SHA-256-Digest: 7ewMzfy7UDk+qij/AeEiuMmLQ843b8InPV3oLzeLcoc=
+
+Name: assets/www/img/pictures/couch 5 copy.png
+SHA-256-Digest: HBd3X6zmIzP1+o3/jHZSZFfTuKOHuLPLPnaQP04Pb2Q=
+
+Name: assets/www/img/pictures/11 eat.png
+SHA-256-Digest: SPNZH13LuzPJKH9Fw8j2dwU3IO1m7WJe9tfTlj2Dj9w=
+
+Name: res/drawable-v21/abc_ratingbar_material.xml
+SHA-256-Digest: WWL54ZqeK7rSzXKLYh+02RyQldDj/ZylLtrpP0vTkzA=
+
+Name: res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: rdmrzkcYX9rGKQ+hPMnL9Gz0FIx9v08xR/DnuCHKIj8=
+
+Name: assets/www/data/Map033.json
+SHA-256-Digest: uoLTeXVoCLxf2uH153SSu63Vl3D2X3BuW1V/yZDX7eU=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA-256-Digest: hHxLmycjJN3er5vbkHh4OMQmwQ7DygQye/IZknAuSSc=
+
+Name: assets/www/img/characters/People4.png
+SHA-256-Digest: NbOfu8W4WWwbVmCm/LDrygEEWSYlcbgzrz1UWQmZvn4=
+
+Name: assets/www/audio/bgm/Catacombs.m4a
+SHA-256-Digest: ZW+qyQfXI9k08Dml5p8Yj0l1bcBILCB6eYnXUCHDh58=
+
+Name: assets/www/img/pictures/oni3 avp3b.png
+SHA-256-Digest: tQFhrlf8lU8BaVl1/VI9qGuK2PO70uBNwLLXDXzJDWk=
+
+Name: assets/www/img/pictures/succ 2 tv.png
+SHA-256-Digest: N0B8f9eNUbqd9ER6O0LlmZKIk2d42VO49GJcJJNCzmo=
+
+Name: assets/www/img/pictures/Mysti EAT F.png
+SHA-256-Digest: jVOtJ/kOCYijzaebmz/OrFCM7zMUSgLCF8+mgf4kR5M=
+
+Name: assets/www/img/pictures/ninjagrn - belly.png
+SHA-256-Digest: c1EeZKewRAk9jVl9W0fwibQjIif5RKeObiSLvl8t09w=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA-256-Digest: DFalMRpCdg51ru1A/5xdJIySeRzTbIzFuRvRjTi2b+c=
+
+Name: assets/www/img/pictures/girl pink glum.png
+SHA-256-Digest: iEU0m/1fdffOnLcm4q1ULnHOISYPRBM7K59kVnjUqS4=
+
+Name: res/drawable-mdpi/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: w4x65GRl5e7j5hwE9OZDINN3MN7aYGjv3SL5+tIOk80=
+
+Name: res/drawable-xhdpi/notification_bg_low_normal.9.png
+SHA-256-Digest: PgmvohxFNywDVZjAF8j7QFptZ45suE3IV1gcs7QOSC0=
+
+Name: res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: XXGOnKcRl8XDt9HvtT5lkD9ymJzPpCT7f6g4rlUM9Bo=
+
+Name: assets/www/img/tilesets/Outside_A4.txt
+SHA-256-Digest: JoehTNfoo3vuhPdgv4kCB9t/2KZsBrOCdLuB8VATCHw=
+
+Name: res/layout-v21/notification_action.xml
+SHA-256-Digest: q8PWh1N7hhRySgJAVu833IDOkLFxe2M7vq3+vxQ1gIg=
+
+Name: assets/www/img/pictures/tinkerbell_by_sorah_suhng-dajxhsk down 2
+ .png
+SHA-256-Digest: 1+vVdcfCBccfsU7L9rCIKOgXi3NBNV6d4x+exikPbn8=
+
+Name: assets/www/movies/mysti b 1.webm
+SHA-256-Digest: qpi28d6ug8S+1DnhTvFIdKE1MIzQyu4H6d+Ff3PEZng=
+
+Name: res/drawable-xhdpi/notify_panel_notification_icon_bg.png
+SHA-256-Digest: ZZim4HvYh2kJ64huu3VSm7kfqGd+DlcYrDjrKWKDPaM=
+
+Name: res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: aHLfTy+87DpI02kBC4rdMmqLoxsX0F0m7SbxzjKGvIw=
+
+Name: assets/www/img/tilesets/Outside_C.png
+SHA-256-Digest: MeUOmvPIvg1U7XMb8uj82CqM+j9oSunWRvARZ+TKHsc=
+
+Name: res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: Dvez2fnYkKSOT8zA2wcxW9b8ynBJRS4gonppvSIIBBU=
+
+Name: assets/www/img/characters/pink.png
+SHA-256-Digest: J4GjjHMOUb0Ukex0mKahSOngTm4r7C65ukYrQ9egxVc=
+
+Name: assets/www/audio/se/Thunder3.m4a
+SHA-256-Digest: nKtgUhD6qIZy3ei0lP1BuAHW48jHkB1nrQikPFP0B4s=
+
+Name: assets/www/img/pictures/xeno.png
+SHA-256-Digest: uPn+74kBUXba6SlveJIBn2H+j6L0QawXCRNIs3l5oZA=
+
+Name: res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: rWFxh1N8G8dTsdIK5HR6Ec1aoT0CydqHQyHcCTYf27A=
+
+Name: assets/www/img/titles1/Night copy.png
+SHA-256-Digest: NcWkxflLGwJqzphDEu0X//e3oWjbXyCZCR06jtIv+Y4=
+
+Name: assets/www/img/faces/grihm.png
+SHA-256-Digest: pYrj9HUiYp5sO2X80q/QmPgqkpVYSWI1wvm9Kr8T08E=
+
+Name: res/drawable-mdpi/notification_bg_low_normal.9.png
+SHA-256-Digest: L3+9oLpuU+mkfi/A4k4yxEfGE6WAjC1ihdxlHoOgetc=
+
+Name: res/drawable-xxhdpi/abc_list_longpressed_holo.9.png
+SHA-256-Digest: RMKXZrLYi3inE5Oz46dxyn7vX1UmMMYHTzPWKRJB0Lk=
+
+Name: assets/www/img/battlebacks1/Desert.png
+SHA-256-Digest: wm1t+uBc9QGStH6OvHgLrJtpM8XqrtTFcrxGtzmqcDU=
+
+Name: assets/www/img/characters/Vehicle.psd
+SHA-256-Digest: u0VAtmyo6yzxLE+8Dvj/xD3NLhDsfUChas64qdAinsI=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA-256-Digest: DHF73PbG8Gz/9F7nTFwzCZY6WCPquRpZIoEMZs3zXKE=
+
+Name: assets/www/audio/se/0 burp2.m4a
+SHA-256-Digest: GoNr1oP+nQwnOx0ARb5OyKtGhTNnZ//rFl61KeMRskM=
+
+Name: assets/www/img/pictures/SF bg.png
+SHA-256-Digest: NbfgxHEUn8TwYcd/C5y9k0H33Cqdxpk6J+smXGVa+x4=
+
+Name: res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA-256-Digest: X5l8RuUbNya1elgvE2Y67f7tVeTmH8/m3PmZnq048dQ=
+
+Name: assets/www/data/Map066.json
+SHA-256-Digest: qpCN7jOvW5c/x+QveoyNGFxJxQn0f5EFSuSp3Wxr+Gk=
+
+Name: assets/www/img/pictures/Akiyama calm.png
+SHA-256-Digest: ymbh1VLIL6gtUG5qymGZhq1xTky1sCM+cen7IX56nmU=
+
+Name: assets/www/img/pictures/f av top.png
+SHA-256-Digest: +MnunlQcWxVWsDG3ia/dVuW6xtXm9juRimNCjFttLOE=
+
+Name: assets/www/img/animations/Cure1.png
+SHA-256-Digest: C7ncZPexomV9J1HRAtjIQYp0TmKka3xOMspsTQkjq6k=
+
+Name: assets/www/img/faces/char 3.png
+SHA-256-Digest: fCd7Gy1iNc3nZX0Fx+D7TV+oomu+wY/fB7bk7w5BAQ0=
+
+Name: assets/www/data/Map003.json
+SHA-256-Digest: zX4G5mYm/cWgo/NA9G3jtMcJU2Hy107j+38qhkFlfNY=
+
+Name: assets/www/img/pictures/118 big in b dig.png
+SHA-256-Digest: 0hZeZLKSOmDHYue6AwK5nzrvdDboenkrHxIRzBZkXLw=
+
+Name: assets/www/js/plugins/TitleCommandPosition.js
+SHA-256-Digest: dr+jhflrX9nrsVJFE15v1GcRFkYNJmc2yyFda+g3osg=
+
+Name: assets/www/img/pictures/centaur2 sex.png
+SHA-256-Digest: 9tpG+yldZlkFP51B+km9oeq+0TK5J6xJ5JkXdacZSvg=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA-256-Digest: x42xfQf5BxzCJ9B0ccc8c/QOkt5KJ7a1qEtn1RdGn8Y=
+
+Name: assets/www/img/animations/Stick.png
+SHA-256-Digest: v0vXyK/cgGu8Gi4jF+ck8vSOX61b7kd5kFLkAHPMXsg=
+
+Name: res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: 3Y26s4eVhjemt9eMjWzYjaQ3C4LG8nZ1YrlZ4duVS44=
+
+Name: res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA-256-Digest: nAXib550zm1U4enj0PwdbnNTznUV4RlYQ/xietc0FWs=
+
+Name: assets/www/img/pictures/centaur med belly.png
+SHA-256-Digest: wdHHZpyFTBlS0PGy8GR74BouInQKhxBS/JbOKw1fcJw=
+
+Name: assets/www/img/pictures/11 over 2.png
+SHA-256-Digest: yFq1w8i/HU6qBmxBNl8uG8+q/NiFxDa6jfko35CrCGw=
+
+Name: assets/www/img/tilesets/Dungeon_A5.png
+SHA-256-Digest: X+9huczl6XLf19QCIcaPTn/eUrwTKkgvFcUxKUQjihM=
+
+Name: assets/www/img/tilesets/Outside_A4.png
+SHA-256-Digest: 5Ln33l6IsNehkimZpkBUeS8StaDBmN9SeqvZmzf3GQo=
+
+Name: assets/www/data/Map013.json
+SHA-256-Digest: 1r7xZ1PfAFuFRxthLnlFVipl798xO+ZyV8przM/O8kY=
+
+Name: assets/www/img/pictures/zeena 9.png
+SHA-256-Digest: W7JdQhDAliEbvcntMjA5AFAEi5U/J7GRkMahwCr1eSg=
+
+Name: assets/www/img/pictures/bastet 6 ov.png
+SHA-256-Digest: +1uTK52SxNu4YZ9vGNWmFApfJZEvu7DFLHtHtYhkBLM=
+
+Name: assets/www/img/pictures/2000_Actor1_6.png
+SHA-256-Digest: kAolk6inXEZ23cdvqfhj4o1mQO1CuT1nor1ejAQhYx8=
+
+Name: assets/www/img/pictures/ali fondle.png
+SHA-256-Digest: NE6oC1ak+ePZvLu6yXSxEYU3VA3k/tkDmCQE4NcraNE=
+
+Name: assets/www/img/pictures/in stom leg r.png
+SHA-256-Digest: xZjbcNtr/WVNjgnZWOGL7BYs6okE7hjxXaXufXJruP8=
+
+Name: assets/www/audio/se/Open2.m4a
+SHA-256-Digest: HFp33EppjoWaSZlV0XomjZKs40JaHisEkHxvhjqPspI=
+
+Name: assets/www/img/tilesets/Outside_C.txt
+SHA-256-Digest: 3m//0H4ebVkSQlDApeAuN02iaUGEddI7NfKZC9YPwuc=
+
+Name: assets/www/img/pictures/ali cv 2.png
+SHA-256-Digest: qDRvShXmhytwuf5XHoT0D9RYymfsw+2qM+XPkbDtrAw=
+
+Name: assets/www/img/pictures/oni b hnd up.png
+SHA-256-Digest: csyfIN0w3cZBgSvIzPRzbM4pKm4wvutMFafQ7CCepiw=
+
+Name: classes.dex
+SHA-256-Digest: s7IpBK/9WS2sS5w32BxyCe0TmMAq60AzUi7teb+1u2Q=
+
+Name: assets/www/img/pictures/couch 5 cop av.png
+SHA-256-Digest: kJ3sNveymk/Y7lXcMgoSUMxUQgJWdoMg8iDX24JzQm0=
+
+Name: assets/www/img/pictures/zebrataur eyes.png
+SHA-256-Digest: UOJ0dxEFVUs9pe2v0ZD9GopOmQldldF9lrZiWs65adc=
+
+Name: assets/www/img/pictures/sali g av 0.png
+SHA-256-Digest: 0t9N/IzEnCX7NBSdVeOyv3uBJqaZckmFUPVYAHF+z8Q=
+
+Name: assets/www/audio/se/0 stomach_growl.m4a
+SHA-256-Digest: pXDbwfs1+jF7GU625jzwqBGQz3S1UQ2dHv0Ai8G7bBk=
+
+Name: assets/www/img/pictures/ali jerk bj.png
+SHA-256-Digest: ht6XQaTvnycWeydugRBF7Yj48WI93Om94lJpn6Tri90=
+
+Name: assets/www/img/pictures/girl pink sh.png
+SHA-256-Digest: tygX9nU2FC6wC3CZzVq1ReIHYR4w4/UQg7HDbsGoqhc=
+
+Name: assets/www/img/characters/People1.png
+SHA-256-Digest: C/WF6OicBlAxatvTNxzkXX0KDGVlaqp6qiSsD2x9ySQ=
+
+Name: assets/www/img/characters/Devi.png
+SHA-256-Digest: Q9wN3c68lmcTFLjYl1vEu8vXF6oVwn0vXqLLcItgi1c=
+
+Name: assets/www/img/faces/Evil.png
+SHA-256-Digest: EA3RWqXxDqVa14vxL03qONPkipP++9N30Tj3g0VPkCI=
+
+Name: assets/www/img/pictures/cent3.png
+SHA-256-Digest: rbSk3wfuuQCGboROUrEZQuyd09KztCUp54J2PU25NDU=
+
+Name: assets/www/img/pictures/naga 4  bell 2.png
+SHA-256-Digest: oElBvcxfdIgSkUkOfQuBZLSkS1zjMhUGX/1wlluOqT4=
+
+Name: assets/www/img/pictures/deertaur mini touch.png
+SHA-256-Digest: 4XcGyHEf5o+cDaYQzKjP1WF+KADAGxet8HHIQ6dhPpc=
+
+Name: assets/www/img/pictures/mia 3.png
+SHA-256-Digest: /7oVU9VWydvO/xdrRctEOKGmVu570SV+/e5Gm6fC69k=
+
+Name: assets/www/audio/se/Buzzer1.m4a
+SHA-256-Digest: W0wi5EiOzKtABdV6Vz3YUz3jv8UDogA1LorVn7S/NEo=
+
+Name: assets/www/img/pictures/00083 copy 3.png
+SHA-256-Digest: fKGzDA4q7Jh7q/P0crcjGSb4Ue54E7sojWifcJLM9tk=
+
+Name: assets/www/img/pictures/001 poop.png
+SHA-256-Digest: VVW9Yc907XehkBgU6SxSHwbTYE4u6Z0HJuyXbmIWiJA=
+
+Name: res/layout-v17/select_dialog_singlechoice_material.xml
+SHA-256-Digest: 52ML7sb1ljsRLEt1YoLNEO1kIcClnW5fCou5gBlV3Pk=
+
+Name: assets/www/img/pictures/deertaur mini.png
+SHA-256-Digest: u163/L6jLb9hOhpkz+5TXkaoVhaWNMc+X6N1nABjNFA=
+
+Name: assets/www/img/pictures/succubus.png
+SHA-256-Digest: 85qUVWRGZ532dtmRDfxCl6qOoKbwL5QOZrWQD1L8+ic=
+
+Name: res/drawable-mdpi/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: xhj6+mEHch9rB5IqsG7RkiB0QSx5Y9/MnjTh25ParNU=
+
+Name: assets/www/img/pictures/wasp crotch.png
+SHA-256-Digest: 4X6raY3QHEFroUPys7Bn+Tp/XAnV/KISm/UxsGkKBzM=
+
+Name: assets/www/img/pictures/Stomach digest.png
+SHA-256-Digest: qU4Ypopk1GNlIJSz8KdBYR/zo/XHnxdVtzzfVoAL8Xw=
+
+Name: assets/www/img/pictures/centaur2 AV 43.png
+SHA-256-Digest: Y4k9kmR/6EbrvfM8rAhTSiQ5AygSeYDO8umOsld7LHQ=
+
+Name: assets/www/img/pictures/prin squat.png
+SHA-256-Digest: +KOMB3Gi+zpqWecLa2rZhW26joACF0SuN04zzftnSjI=
+
+Name: assets/www/img/pictures/catgirl blonde copy.png
+SHA-256-Digest: 0IW5EWEfCJx9XEzZIoa7OVFeQVZA6xLb9FJZgOz/30U=
+
+Name: res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA-256-Digest: wOTI/b9P71D4pwM+Upw++NosmUs1Z9Tp2Jz6CZ56wVs=
+
+Name: res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: Mj9/u3kHyN8JyWu0GucevAsQagRs5EYVEK2PZCTtRKY=
+
+Name: assets/www/img/pictures/3ee033a44cd316b0dda6942c6559155e sack.pn
+ g
+SHA-256-Digest: 91omIFO0/vYtb43m/32wnrqYYyiYp9W0T+7vTcPyzj8=
+
+Name: assets/www/img/pictures/couch 5 ov.png
+SHA-256-Digest: h/5MRgUhi7WBRd818T4JmB3m7WVBxdNj0Hry19d4QpQ=
+
+Name: assets/www/js/rpg_core.js
+SHA-256-Digest: LNDudFz6aYdd4js/TCaEG1yZcpfJSzeKvabkU1ohimk=
+
+Name: assets/www/img/pictures/01504.png
+SHA-256-Digest: 1WAUD/OBivNNxxg4WQ0GKOQt6Mk/bmRFYjGoUdMpIgs=
+
+Name: assets/www/img/pictures/centaur2 AV 51.png
+SHA-256-Digest: KF8m6uub3CVROJfFbZOqMBBkAHarQiT9wb5MdE31mx8=
+
+Name: assets/www/img/characters/lep dam.png
+SHA-256-Digest: yPifHACglNdmG2OJ667i5aTy7RXPmqtgT2M+6aUDHYA=
+
+Name: assets/www/icon/icon.png
+SHA-256-Digest: 4Ydc3Ih999QsER/A8BPuuemGcHqGuEEUxaws1rQNbnI=
+
+Name: assets/www/img/pictures/lisa mk2 smoke.png
+SHA-256-Digest: Zap7lADH43dXZRkP6MgIc+q3xtZlyVIwnTjjK66z1tQ=
+
+Name: assets/www/audio/bgm/Dungeon 1.m4a
+SHA-256-Digest: Xk8v5w53XeIB7NeiNakY59ria+HrBpQK5QnGRBvTbR8=
+
+Name: assets/www/img/pictures/centaur2 AV bg2.png
+SHA-256-Digest: aZl3AHMfvxoFovQ7/6Cfyo2zGXBfueIfGrk/2Qf/+Sg=
+
+Name: assets/www/img/pictures/bee 2.png
+SHA-256-Digest: 0cjoT7G1svKqn8VqPdDXOegMirYElE5lW0O3LnUp3vY=
+
+Name: assets/www/data/Map042.json
+SHA-256-Digest: JFujAS/MT92s/i1/CzaLtQxse2AeglkzLRTEh0h35sU=
+
+Name: assets/www/img/pictures/sali hand.png
+SHA-256-Digest: iOIrmnofvTbR8/BNKij9UP27KfAU8iJOM8Vvw2x70s0=
+
+Name: assets/www/img/pictures/bike nevi.png
+SHA-256-Digest: jxPkMtbQPPD7DNnUnK5gC3/ej9mn+OPy2g9bVNpCOk8=
+
+Name: assets/www/img/faces/Sai.png
+SHA-256-Digest: AirnZuNixN8AHf7HUB45Pp0qEye6DWHjK1XtW8cmpqs=
+
+Name: assets/www/img/pictures/horse girl jog no belly.png
+SHA-256-Digest: IjJCe3yAUsKV8rmddnFbCtW0YPK9gz0T9OE3MuVPOhs=
+
+Name: assets/www/img/tilesets/Inside_B.png
+SHA-256-Digest: oRU0a26laf3Dy3FrQfS/ziUoHP8+zqECC1ce+fX66fQ=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: jCFjQgtAbsK5jNtQUstnhfFfiWkONrpeJlSJYAYe9vo=
+
+Name: assets/www/img/pictures/maw mysti.png
+SHA-256-Digest: 3sqTTIsOqK2o7C32l11XMg5lzDYjlVExKZhQXbfu5Po=
+
+Name: assets/www/audio/se/0 Giggle.m4a
+SHA-256-Digest: QPCEm69O/k12AvShgZEamCmu7VCv753ytrIAsG7KY9E=
+
+Name: assets/www/img/pictures/ponk2 av 2.png
+SHA-256-Digest: QYQXL9GL9vQ+IlMoLkNRdMLGixOQ7uld//90BC/fFi0=
+
+Name: assets/www/img/pictures/salig av 3.png
+SHA-256-Digest: Hqd+4AUVMJjOfiE38u3rPWNb6JNIpHQkhCa40J6+kcI=
+
+Name: assets/www/img/pictures/bike.png
+SHA-256-Digest: DjSQwW5OUx1GlBiImC86Y48weQuH+PXU3FBgd87/gJI=
+
+Name: assets/www/audio/se/Magic1.m4a
+SHA-256-Digest: +Bwz8HC5w6yb31WPzuAxQONZk1SEGOkotNj2w/3uERg=
+
+Name: resources.arsc
+SHA-256-Digest: 6qfzCZJ5oWOaYQxjwxmukE1pp6DjfnhdGOzGgfoiHqo=
+
+Name: assets/www/img/pictures/AkiyamaMio b poke.png
+SHA-256-Digest: sfGS2PIvIurt8u75nd6T1W6SyFeJ0bwW26GnxInqRv4=
+
+Name: assets/www/img/enemies/Orc.png
+SHA-256-Digest: X5UB4yZOkSMdRTytwXpwSAsCYd5fgcFmgZ1L8FMk5Tk=
+
+Name: assets/www/img/pictures/tinkerbell_by_sorah_suhng-dajxhsk down 1
+ .png
+SHA-256-Digest: be6S8eCjWx2Ujs9XvkVB84Bk+w72Utu2/0p58hV88Dg=
+
+Name: assets/www/js/plugins/YEP_SaveCore.js
+SHA-256-Digest: x4Zi5sWDi2ijzaEufz5lqxK6PR1pnDolPh2DBiEuieQ=
+
+Name: res/drawable-xhdpi/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: D1vS8BuWidsI5N6XcHjoVkJ7EmZ0r6jr5/Cp/4Cs7qI=
+
+Name: assets/www/movies/mansionav.webm
+SHA-256-Digest: NumzyMjsQmj48YsXxCkVALsZA057NYpJumxj6trXl9Q=
+
+Name: res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png
+SHA-256-Digest: Kuc4e025P47LwB0oi3UtQTc857fYCJafyh47Lp0Ekhk=
+
+Name: assets/www/audio/se/Paralyze3.m4a
+SHA-256-Digest: OATgINwfgcWGB9a2j1ecljyM6+i9EII+JCmWvI0VhDM=
+
+Name: assets/www/img/pictures/Sayuri naked_001.png
+SHA-256-Digest: vy+OTesoAt8mD/PPtKa1iTS90GFD+KSc4rLnvaHMeIc=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA-256-Digest: GmmXyC2EnLLVh+yCftb+bFETf5PkP1Rp/RCcuI3t1gU=
+
+Name: assets/www/img/pictures/Stomach .png
+SHA-256-Digest: xdMIoWMVEVWbrcSn5868f43FetLZ8jOYGWEp0H8RRu4=
+
+Name: res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA-256-Digest: BSdiQitg4WgC3U3NvJmPnC75EQSeCGWSZQ+viV7CvNQ=
+
+Name: res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: 8LxvFDBTIhkusy7dzTZJAlxxL47sPPy1spjX9HCAc/U=
+
+Name: assets/www/audio/se/Flash2.m4a
+SHA-256-Digest: C4nbIP7T/Dy3HdYE2PXmIHcpmEWe2ia0irRLvcFTtm4=
+
+Name: assets/www/img/pictures/naga 4 bell 3.png
+SHA-256-Digest: xYtamgMD78GjrnR+XACh0oECr/gfqCpdUNBtHTcGO2w=
+
+Name: res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png
+SHA-256-Digest: MweR7Dm4WVKYD/D6EZ9DYPbGi+ZG6uP8wuASnEheAXw=
+
+Name: assets/www/audio/se/Absorb2.m4a
+SHA-256-Digest: Qlh97iJ/SFk6LG87i8Br4XTwOLXp2hfnLB9/Yci8fPA=
+
+Name: res/color/abc_tint_spinner.xml
+SHA-256-Digest: gudmeY4tXIzIAHDUqf+V6Mx94ZcHFoQJVHom6zLIRJ8=
+
+Name: assets/www/img/pictures/059 .png
+SHA-256-Digest: EOHj0CtW3K2Zpcqezc32VNPEgc6ZsU72RgSWvD6LmxA=
+
+Name: res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: 3cYTBVlzg75gqOHsGEGTKULJLzwXIMb5SQ2mOghMGl8=
+
+Name: assets/www/img/tilesets/Inside_C.txt
+SHA-256-Digest: GrtlwEbc/CCbTj2kbD3Q77IbawUUt9aCMm3quLA//78=
+
+Name: assets/www/movies/racheld.webm
+SHA-256-Digest: +t9pXAOcSOUv5Owc4fgs5LNipCbZ64wZv7JqsWprXhY=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA-256-Digest: /fZ0ygYP+PGSMasJQA2Njg6TkOnOPV8Ni5HPwuSDtwY=
+
+Name: assets/www/img/pictures/bike sex.png
+SHA-256-Digest: XqoO8bgEsWZG7yK+PST+isF2ZDQKZB8l/1s6nkXnTK4=
+
+Name: assets/www/img/battlebacks2/Sky.png
+SHA-256-Digest: cE1v3cBsbDJZY2RYjf93iqmoxsLf9r30Bcm58w4KVBA=
+
+Name: assets/www/img/pictures/ninjagrn.png
+SHA-256-Digest: LV0p/7SpbH4VR05y4bl1eZZRlAr7EV+UnKsHztl+Duw=
+
+Name: assets/www/img/pictures/3ee033a44cd316b0dda6942c6559155e sex.png
+SHA-256-Digest: lR6fM2X5zpnnWcg9FMkR7Wtk+WwW/xCaMx2vsCJNfQw=
+
+Name: assets/www/img/pictures/tent up 2.png
+SHA-256-Digest: Ho4rCApiPLSgo4HnXlNjoX5Lj2j6PC2liswulQZ2gjA=
+
+Name: assets/www/img/pictures/centaur2 AV int.png
+SHA-256-Digest: rGG/3mTLlT/6xRY35oNp3IWP05qaOf21ehDs6BSToPg=
+
+Name: res/anim/abc_fade_in.xml
+SHA-256-Digest: s5vTb2DrCXEELKfET3TIYyzBPRcwBrisR20fqcKzoL8=
+
+Name: assets/www/img/pictures/game_cg copy.png
+SHA-256-Digest: 5elcSJjnJAushgGSN2+n5Uj2ZOsMnz+0jZH1x2gebxM=
+
+Name: assets/www/data/Map008.json
+SHA-256-Digest: /RkyGLM1H9iicrPCMzdY8urSBwoDfj11GA0J2f5z4l0=
+
+Name: assets/www/img/pictures/pink drink copy.png
+SHA-256-Digest: +ccDYyaBCLIvK3f8e4Z7K6cJpHMuC58gWxB1FYS/7sE=
+
+Name: assets/www/audio/se/Crash.m4a
+SHA-256-Digest: vgVFn669AdAoStDG4j5B33wXvpaZZycHgxkepkOD/uk=
+
+Name: res/color/abc_search_url_text.xml
+SHA-256-Digest: Dkrq9hKlg4jjhEMszzntDPedjMYRfmPkujlZDmv6MTs=
+
+Name: assets/www/img/pictures/001.png
+SHA-256-Digest: XdUGKkkw18wK1ZUI+sDoR8icKNWW5Qsi5WjxSD7Z8VI=
+
+Name: assets/www/img/tilesets/SF_Inside_B.txt
+SHA-256-Digest: h9ieQbk9jzLlJQH5c9biiVXRzu02zGJxedhrDblNUpw=
+
+Name: assets/www/img/battlebacks1/Ship.png
+SHA-256-Digest: 9SQvjchGOQWjMM4EVa6rBLsuV6Xe7IX8OTmQty8hl6w=
+
+Name: assets/www/img/pictures/wasp ub.png
+SHA-256-Digest: aMMa82Z2JkbCC/lkEQDWZWg9YMxSJ/NxnINUdSz2d98=
+
+Name: res/drawable/notification_icon_background.xml
+SHA-256-Digest: /0Mfsjye8xbzsKvlDThigcgMjMcjVl3SG9IndFYApFs=
+
+Name: assets/www/data/Map049.json
+SHA-256-Digest: hhkjPGpa7HdoZz70Ruw/VL/n+JDw3IphChlVFR8wwEo=
+
+Name: assets/www/audio/bgm/Theme 1.m4a
+SHA-256-Digest: G36OID83Bsa1MxeZ5D3F/1aaRnBlxw+MXyehVmPp3Dw=
+
+Name: assets/www/img/characters/char dam.png
+SHA-256-Digest: WLu+m6cW+mByZlCeV5SY6LsxfD8TEDLG5C0RUapzotw=
+
+Name: assets/www/data/Map001.json
+SHA-256-Digest: wZbY7wBD/vUb3P4GVhagP8ixhkFjdHhtOcVgihk97o0=
+
+Name: assets/www/img/pictures/oni3 av pop2.png
+SHA-256-Digest: 2+oHaJgWrwU134EScLqJGxQF0gwPds2SNDzkveyBHiE=
+
+Name: assets/www/img/animations/Laser1.png
+SHA-256-Digest: 1nRVf9Rsks/0H6sM5ynwRh8JRL7H9CwHrYBDVS1AXdo=
+
+Name: assets/www/audio/se/Ice1.m4a
+SHA-256-Digest: BexDqCA022CAYvbOC5Bm8m3MYgQH8+H1J6lRCEajZhs=
+
+Name: assets/www/img/pictures/centaur2 sex2.png
+SHA-256-Digest: ueD+Jug0ywGBY8lTv91hCP8/vRb/6/yZ9bheUwdE8LM=
+
+Name: assets/www/img/pictures/mia 2.png
+SHA-256-Digest: oZsIzR9defWExUjwjbujBiPuwjyjuQpUifMkE64w3QU=
+
+Name: assets/www/img/characters/elise.png
+SHA-256-Digest: 1fZvrDfHdgbNz12K1E9hxpPndpGAG6RAkFquK+48aFc=
+
+Name: assets/www/img/pictures/centaur2 AV 42.png
+SHA-256-Digest: k0LZ2kWEpLw/dsGiFB8tO4Qh87zgfNEsTo6ScfWDGDA=
+
+Name: assets/www/img/pictures/oni3 avp1.png
+SHA-256-Digest: Ghbd2t+C9AMS/sI+WDyhvrXRJktcflZHLGlUgZEld2k=
+
+Name: assets/www/img/characters/People2.png
+SHA-256-Digest: 3Wa1dfUVzxY0zqN2/LNVh04DkGWvTJLto6okbhI6ygU=
+
+Name: assets/www/img/pictures/3ee033a44cd316b0dda6942c6559155e cv.png
+SHA-256-Digest: thvSwcXIIM01JWGcSMqdcdIDWhuyzx20u7PjzQHznZU=
+
+Name: res/drawable-xxhdpi/abc_ic_star_black_16dp.png
+SHA-256-Digest: dZ2rNWxeLpQA8K5rEOXzLFT8FlSMQFBli2L6ZR9abM8=
+
+Name: assets/www/img/faces/naga.png
+SHA-256-Digest: zojb1of/oY7lSPILboyXxfWnMtoHFMm7JFuqkTv/M+w=
+
+Name: assets/www/img/parallaxes/!118devibmap.png
+SHA-256-Digest: MKX0YmZt7gGtbv/P0BLp7CUD77enV1oG8hrx04AJaF4=
+
+Name: assets/www/img/characters/robo.png
+SHA-256-Digest: E9TrVxHW0WRlcHdwGy5X3KYvhAaHeOEYgFOJ2ZLBF+0=
+
+Name: res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: 6WEng3XpvaqfCwQV18RCy69gemVpj9H3BEUoOGsOibk=
+
+Name: assets/www/img/pictures/maid b.png
+SHA-256-Digest: O0ehIPtgkz0/fln+6UERHcoqKgWQSsH5LmVbwyNjdIM=
+
+Name: assets/www/img/system/Damage.png
+SHA-256-Digest: dQUNYlJQybvNKqWjJd3JhlnkSGoKFqJabmnNU0LyZeE=
+
+Name: res/drawable-xhdpi/abc_text_select_handle_middle_mtrl_light.png
+SHA-256-Digest: FnNaX8G76JofyXDFE+mbnyNJVpu+Bhl7n1wA6j/oTmY=
+
+Name: assets/www/img/characters/b.png
+SHA-256-Digest: 25ZkhBbk3eePJv3MqvdF2MKI6D9h7+quOrIZYs5oukg=
+
+Name: assets/www/img/characters/Monster girls.png
+SHA-256-Digest: v1L/8NVxlnaN4qBQe1ZSl5EgRZh20vTGJfGlwvpHRms=
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA-256-Digest: fGALHBi+ojnUs00d0QZEHMR5Bh+8Tqw/d7W3ejNyj8E=
+
+Name: assets/www/audio/se/Water1.m4a
+SHA-256-Digest: quirZE+XwnZ9rr9hL80mpoDywNPrJ6zDnlWc7cgRiME=
+
+Name: assets/www/img/pictures/oni b2.png
+SHA-256-Digest: 6Jz2mmTfDYOtQroTsBExx8ozweS0ohMJQoGGtc88H3U=
+
+Name: assets/www/img/pictures/sali g av 1.png
+SHA-256-Digest: lN6J7N7j+DovGH9Giw+3Q9HwCuxgpkztLygwpEfW5b4=
+
+Name: assets/www/img/enemies/Goddess.png
+SHA-256-Digest: NsPHpihJu5qG0q/0oOC1OfO3Rz86I0CN8qrlgsFQyjE=
+
+Name: assets/www/img/pictures/00083 copy 4.png
+SHA-256-Digest: RPwrcRF0shOm8BsU0LcZ+Kja4/QpuYOyrtZYnbjMmSo=
+
+Name: assets/www/pink haired.json
+SHA-256-Digest: o2gVXr2yFqKp6M/id/J9FLHHztao5rZAEVJbe5jtiSw=
+
+Name: res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: rU1sLRo0PTZ4HhboFHnEpM91gp0botziNEPtIvkJVAw=
+
+Name: assets/www/img/pictures/horse girl copy.png
+SHA-256-Digest: cS/dqZYjbkxGGCePAojiY23BfViZs9Bfgq1Rswr/1EU=
+
+Name: assets/www/img/characters/trenchy.png
+SHA-256-Digest: rORojkd5LoaV6xTKk1sKHdC4QR8uINdNTooWBe5ke4I=
+
+Name: assets/www/movies/whoreb.webm
+SHA-256-Digest: pehX4pysz2J1OUc224Z8BgcaUmM4DcQ9w3GR2MR+2kg=
+
+Name: assets/www/img/faces/Nature.png
+SHA-256-Digest: Gu6DNw95QqXWiDcz0HhIkG0AIYb1n1BdVLNw7a7jAtI=
+
+Name: assets/www/audio/se/Magic2.m4a
+SHA-256-Digest: n28C2OzD0VqAlicHPQzui9gz0EQlisFNFJZ6xWLIL1Q=
+
+Name: assets/www/img/pictures/01505.png
+SHA-256-Digest: IfPrw+OyBPeedLojHixy1WJB0FLO0A0Ee+DM3Q+kIW8=
+
+Name: assets/www/img/pictures/AkiyamaMiofull bb.png
+SHA-256-Digest: c66fb9OuIaWoV/ThjvKDb4MZvC8/x39CiodAK5MzPX8=
+
+Name: assets/www/img/pictures/oni 6 copy.png
+SHA-256-Digest: koBPEVgY+uD9r5llk2jleSecmUsUdKFCcQlnz5rl01s=
+
+Name: assets/www/img/pictures/samb smallb.png
+SHA-256-Digest: tzURscIxa4yrI0OsKucCA1Dzp9ODW2q9wgSdPom31aY=
+
+Name: res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: 6bYNkio8kG1EPiISQI3QePiK5/q9R4bRyB+WGPuWzlY=
+
+Name: assets/www/audio/se/Poison.m4a
+SHA-256-Digest: vE376b+q5qGncWLnzuwY2CMvDtToSRBFoMNbOY0C61s=
+
+Name: assets/www/img/faces/SF_People2.png
+SHA-256-Digest: h5tudQ1P7PYzWBxRffaFwRtEC09oc1PecHdjKf38MDQ=
+
+Name: assets/www/audio/se/Cancel2.m4a
+SHA-256-Digest: TxQEJszJXLVwx5ZFNbMGKxgICWWMN9EaTJ1ioYCT6B0=
+
+Name: assets/www/data/Map034.json
+SHA-256-Digest: GyFbvWm9NvMPV8wUDf2B/xdjdcwgie8D7iKYEz/65+E=
+
+Name: assets/www/img/battlebacks2/Desert.png
+SHA-256-Digest: 2NAz8F4pViXaGxrqiRPzeEJ4Xc61BKU6IWsCrWkoFU8=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA-256-Digest: f+OZvqVI8eHJaFb8gTW+0cQiCInoczcS/Bp2ogxicZo=
+
+Name: res/layout/notification_template_part_time.xml
+SHA-256-Digest: +p1uIRZ8tVAFBi6BvTuJT5pFFAtEv+I6JUOV7T/TZ1o=
+
+Name: assets/www/audio/se/Laugh.m4a
+SHA-256-Digest: /7qBAdBS664YN3JvS3yuMBLvYveUzD+kPs0PTiu89a4=
+
+Name: assets/www/img/pictures/oni3 avp11.png
+SHA-256-Digest: WmGFgOZKsSV0LOys6GcQEVCTNGMQavGCRrTfSHnUck8=
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: yfn3qJe+MxbLZNKRrLP3g9XJWuwvWECn5+ddo6g/AWI=
+
+Name: assets/www/img/pictures/ponk2 av 3.png
+SHA-256-Digest: p21YF03n/qJUgoAaQJ7dKOo3W9/gwX+WWlvIGwCJ2WM=
+
+Name: res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png
+SHA-256-Digest: Udg+EH9zKxO5FeMrGFx45K1w/G0MI9qiAPWtcQ59RSU=
+
+Name: res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: FfqvVYZVluMS8DB5To8flWK7Uj/eleFWfU3Q3v19L3k=
+
+Name: assets/www/img/characters/Vehicle.png
+SHA-256-Digest: YXtClJKab8SucRB0Re7RSXXuqJ7MS20DsiuTeH6OFt0=
+
+Name: assets/www/img/tilesets/SF_Inside_B.png
+SHA-256-Digest: M+o44xAt+QD4fpKxK5Anic9evOO/ub1hFgaEvXtp/wA=
+
+Name: res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.pn
+ g
+SHA-256-Digest: KrDRiqWBmXstNqwZEVEnOZWyEtOsLjeO4kl+iu6Bv6Y=
+
+Name: assets/www/img/pictures/admin 2.png
+SHA-256-Digest: tp0PcTGsUbNVTAqQdmEeJhHuczyNkT8I8ctYCr+eGyE=
+
+Name: res/drawable-xhdpi/abc_ic_star_black_48dp.png
+SHA-256-Digest: oZCwr7uk8o22e2YLI+EPNA/GqCF5YgEMMJlfgtWBC08=
+
+Name: assets/www/img/tilesets/Inside_B.txt
+SHA-256-Digest: nrQM2TF5Z/U4npB31bjJk/8cn4XtUJ0I4FEE9eEgfO8=
+
+Name: assets/www/img/characters/alien.png
+SHA-256-Digest: qHWKdoCX2zhtR515HjJj82i9f8zZv0EZkaiMhzmq9ag=
+
+Name: assets/www/img/characters/sayuri temp.png
+SHA-256-Digest: +pJzC2ujLcdSx6SpznzRBrRLKs+VonHL/XFSiHPm2zA=
+
+Name: assets/www/audio/se/Sound1.m4a
+SHA-256-Digest: EdnK3lVxY4hWL0FiIllgb+EsLYuTmTu1RRblEIF6ht0=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA-256-Digest: hi6S1oIQSCBmLCDwkttTAFpSXLb93XBCVFU0LFA7MRw=
+
+Name: assets/www/img/pictures/ali.png
+SHA-256-Digest: Wzdqy94zZLzYfd5wk/M0gwknbqo5oLamGYNzfuRxmJg=
+
+Name: assets/www/img/characters/ninpurp.png
+SHA-256-Digest: 0H05E18+Fbpxmz3PwHUQQ1oJRs/OUdewDC4zZk9xW18=
+
+Name: assets/www/img/pictures/dancer stom.png
+SHA-256-Digest: KPOXDJLP9/H9GWhlL2mi0duELTsGNyAzpUTNyLt5siE=
+
+Name: assets/www/img/characters/mana.png
+SHA-256-Digest: n+/dxZobXtpDiKDi6nP8KMx2qesqeuYm6fjuC8WyBzw=
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA-256-Digest: nQKT9fPPYSuWdm3TG6mUrRCB+mhkvjCGTppoBnEJH0I=
+
+Name: assets/www/audio/se/Powerup.m4a
+SHA-256-Digest: fZhHevk2PYG22MaygphPH6ADp4DRSHeLEv4BgrtxPYg=
+
+Name: assets/www/img/pictures/jewel_of_maramba_by_aikurisu-d33v892 b m
+ aid.png
+SHA-256-Digest: OZFLmFV1ywwRVIAryHeJ+qLNuFESwl9YCu8YmKeZbRc=
+
+Name: assets/www/img/animations/Revival1.png
+SHA-256-Digest: ParT/ZZMlfG3ZcWWasP6BhP8fNqr9knUIKnUsRt3I+s=
+
+Name: assets/www/audio/bgm/Dungeon 2.m4a
+SHA-256-Digest: 3Z2YJheKJpexyRYgZXWYDB5/soS9BSM+4rhuNslRYDA=
+
+Name: assets/www/audio/se/Darkness1.m4a
+SHA-256-Digest: RdWYoW5Mp5ikYEy1uSVvwwE9qPD0czr4CG5rHQTulSE=
+
+Name: assets/www/img/tilesets/TileE-OutsideTown.png
+SHA-256-Digest: 5HYaobcxAt4RnUjIT19dXS402FXDJ1PzxBgpsWQHPVo=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA-256-Digest: t5JhdmRXGSrX5DWJwKUoTGrmAAeQZCZHeRyN8fDShws=
+
+Name: res/drawable-xhdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA-256-Digest: QgRCo0e4XTx1ym3bygRvxi44p/isO2BKowBPaoQ1pBc=
+
+Name: assets/www/data/Map025.json
+SHA-256-Digest: RAaRYXMniN9xpZBBrOyb683e6kBQqMO8/ChGyS4BY94=
+
+Name: assets/www/img/pictures/ponk2 av fin.png
+SHA-256-Digest: hKs8hleTtSxxf4efLS4SCmUrTG1cWEqVoVzVDYaBa/A=
+
+Name: assets/www/img/characters/dg.png
+SHA-256-Digest: ER7adZ22lvpD4WArRAUAyoBEi4WYu1Yyq8s2rIhUlJA=
+
+Name: assets/www/David.json
+SHA-256-Digest: pt9WoCo4RhuCnjhkhCYNokm+wVeCySXRH+1Ufva0jnA=
+
+Name: assets/www/img/pictures/Sali ub.png
+SHA-256-Digest: 3JoFBCwVKerdDCGyC86tOlHH8kkTQ45IzrJ9ORc465A=
+
+Name: assets/www/img/characters/char.png
+SHA-256-Digest: u4BKO/IhJk7bw8D2KQldSHyTypH/t1haouc9ukeC5/A=
+
+Name: assets/www/img/pictures/11 succ.png
+SHA-256-Digest: t5h9hS65NlbWdb5kCvIY/dTjJMxFyvOrXVwn0yK4RS4=
+
+Name: assets/www/img/pictures/centaur2 AV 52.png
+SHA-256-Digest: ZoKIQgmB5PXszrZxCRHTgbaq5+BV4gI/b76z7qQ+1fM=
+
+Name: assets/www/img/characters/tiny.png
+SHA-256-Digest: p66jGrEPpKVSXIjnNKP9i+54zPlXgz+rhufxVH5rV5w=
+
+Name: res/layout/abc_search_view.xml
+SHA-256-Digest: qjpcdp0y0Qn2Ud9Ko2imOexetdVM1W1uJHkn1vs8hzo=
+
+Name: assets/www/img/pictures/mrs_junkie___46_797201303 copy.png
+SHA-256-Digest: dhlkFYfLRuTzEYM8L3JN6HcS7mrGFEiiO8mvDm93sO8=
+
+Name: assets/www/data/Map016.json
+SHA-256-Digest: wCepIeB/xoV0yrep/8wWAOyZW/+BW4PYYYaVCKUWnG4=
+
+Name: assets/www/img/pictures/oni3 av pop3.png
+SHA-256-Digest: 69FJgsisEwAVmNhGcNFErAUmB+gy+ciWB9Ox+cIElx4=
+
+Name: assets/www/img/tilesets/SF_Outside_A5.png
+SHA-256-Digest: bKsLnOIAqHLeqELzk+WIrh5wNcaI/bkpyIBM18YJavc=
+
+Name: assets/www/img/pictures/girl pink squat av.png
+SHA-256-Digest: dBSfsrZS6rHpgZlfCfXaEs7F9Ic71+iPClHdZ+n1hrM=
+
+Name: assets/www/img/pictures/admin desk hld.png
+SHA-256-Digest: QTvw21FayED+OVLBfLxE6U38db+BN4n2tzBhqXwftN0=
+
+Name: assets/www/img/pictures/ali cv bg.png
+SHA-256-Digest: epNRnSrv01C7PU1ZTxmmhQcQXKDHcq1QSrd4THvOaao=
+
+Name: assets/www/img/pictures/maw.png
+SHA-256-Digest: 53f95EkZH58lyb/8x0DbNlIttKy4Q6W0LTRhKp6m+Dc=
+
+Name: res/drawable-xxxhdpi/abc_text_select_handle_right_mtrl_light.png
+SHA-256-Digest: rlze+qOBTJ1RPUwW1NHnUVb2RSS32L1+SAOTRAvmNpo=
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA-256-Digest: 1O7k+l4dZ93Y7GlwqMdw0cOQFSJVM4s9GG7EGWV9U4Y=
+
+Name: assets/www/img/pictures/oni b bulge.png
+SHA-256-Digest: 36iUh6zOmZU4CshvGfzEx9JnDrPJZjfLJdmrFhBsQL0=
+
+Name: assets/www/data/Map007.json
+SHA-256-Digest: wHZjaJMIdZWnzLtB7VrBmlc9KZNT863sUMc4GzR9BkM=
+
+Name: assets/www/audio/se/Move1.m4a
+SHA-256-Digest: zI+hlBccwH/7ySq1iBsHUFbeLspOEWZZkj0LLlc7gd0=
+
+Name: assets/www/img/tilesets/SF_Inside_C.txt
+SHA-256-Digest: Bo+V0osP3OcvTCOq1q4RfkE6Ci9Xdd+wB8SjDWo8bro=
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: NpCZEKSf+cXTtE42PuJUsF6TtHEd+FEkKN0AAH8zwKM=
+
+Name: assets/www/img/pictures/centaur2 AV 41.png
+SHA-256-Digest: 5R9aDsOokEEB4p9zBslwk9zQz6dn/EN+N21i4jrDQYQ=
+
+Name: res/layout/tooltip.xml
+SHA-256-Digest: lEPxHgNlARSoDwZWqCIeK0MJulmbG5JkJOp3fMwcKEI=
+
+Name: assets/www/img/pictures/Sali mas org.png
+SHA-256-Digest: 7AHTP1/emwPBahfZLEloxaAazpugkxxSfbyU+K0hoFw=
+
+Name: assets/www/img/pictures/ninja bells.png
+SHA-256-Digest: zh/vmfGJUxLP+8XR616Ka71mqhNa8VQCmQlzB79Gh40=
+
+Name: assets/www/audio/se/Ice2.m4a
+SHA-256-Digest: J9/JFHSqzAOjNro6DDsDR1sNsaPRjxR4hVx7FoJEoIQ=
+
+Name: assets/www/img/pictures/Akiyama smile.png
+SHA-256-Digest: EJ+5hQ7ujBJqWx4Or93s6lxpPhe1rIexUYvfEPLXUzw=
+
+Name: assets/www/img/pictures/oni b ins.png
+SHA-256-Digest: ZENOJSddDcyzd1osa9vFHnb7RB7kj7OcR4jsKe2TviY=
+
+Name: assets/www/img/pictures/11 intest.png
+SHA-256-Digest: r+aEK8oqZnbakX+vhtzo76hzEV0XQtW4vLONTe9Gb1A=
+
+Name: assets/www/data/Map010.json
+SHA-256-Digest: Y8SbD5EvIc2igmi83Fg2/wURqattLtwlr+1JcRdrO24=
+
+Name: res/drawable-mdpi/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: dNOQDwnKHrvfo7u5Bz8FJG0CQ/GLxOaKVciJLVmiwGk=
+
+Name: assets/www/img/pictures/Sali.png
+SHA-256-Digest: v/couKrlVJX42MrdjIYcmF380gcMBDghe48JANeZkY8=
+
+Name: res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA-256-Digest: EYa6+sTfejPAkYSWWiFu5O46GvovJwe5LXbqQQ89L9M=
+
+Name: assets/www/img/characters/$BigMonster1.png
+SHA-256-Digest: 9nWWy9U4Wtw4G4DC+DqBpaj5gTyRrUpcuqd6S+BBpSQ=
+
+Name: assets/www/img/pictures/slime skul,png.png
+SHA-256-Digest: eWVB75tv9eRAmEiuysmNB8n8MqtGYEqjXQUTmYMLa7w=
+
+Name: assets/www/audio/se/Applause2.m4a
+SHA-256-Digest: DTmVp8RzvRKz+uVi3auOjZL61MFiR7p4lc1RW+un+XU=
+
+Name: assets/www/audio/bgm/2000_Distress.m4a
+SHA-256-Digest: QBnAejluvmKXN26v5zdcRnW6UpK31Y0YFAjmjB7XMc0=
+
+Name: assets/www/img/pictures/oni b 3.png
+SHA-256-Digest: lQIrgdEHpD39aHD2+d9y12drPNYws1IGt6RT3DabiJo=
+
+Name: res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: /plR+qscxeIku2KoHfZVAyJwQ0C3fKl/N5zmMAbSRVc=
+
+Name: assets/www/data/Map067.json
+SHA-256-Digest: KlOIQWqTh1xOB5q1ERB60+q0mZVGMTcKB/J3NhRFLXk=
+
+Name: assets/www/img/pictures/centaur2 AV 2.png
+SHA-256-Digest: bJGABKVeJGQ9iCl5NtrhHwCbY58HYcIdIbW9HQMkJt0=
+
+Name: assets/www/img/pictures/girl pink ub.png
+SHA-256-Digest: Z+SW8GzzBZ3j7n4S4JgIW4JbG/ynrDeWRTf0rnViU0E=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: ptairU1n3D+w2fvKQ44rOedGqtIRYB3jC95a5S+6b78=
+
+Name: assets/www/img/pictures/sali frnt ub.png
+SHA-256-Digest: N1ex5JBP9POXzn85qc4SLZ1zNZKg0SfB+dbt5XZ2K48=
+
+Name: res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: gVSy5Zj0zWgRM9t2NPiRlO9MfdbQ9I60hID5MjSEhAA=
+
+Name: assets/www/img/battlebacks1/Cobblestones5.png
+SHA-256-Digest: MUty/A1LuyBZq+qkSoTWr0FU74+cgsZJ3hIEOMErRN4=
+
+Name: assets/www/img/pictures/mysti small b.png
+SHA-256-Digest: M9VPHaoNp8VNTL1qRElId4D47jBR/hK/6Fz2JcgsayE=
+
+Name: assets/www/audio/se/Jump2.m4a
+SHA-256-Digest: qPWo/13RxSBopdvfYpHAhWLdU7RIk+z5Akc9GO39ydA=
+
+Name: assets/www/audio/bgm/2000_Thief.m4a
+SHA-256-Digest: eWMh8PmzNUYd4VJsJ6Jdbf8ekjdnnRA/AMkpFW6v6bw=
+
+Name: assets/www/img/faces/jim.png
+SHA-256-Digest: nLaFj9mkRk9/OfZSSMI+6/ZWj/BkDpI2V2TRH3co+9c=
+
+Name: res/drawable-mdpi/abc_list_longpressed_holo.9.png
+SHA-256-Digest: 28CvYfRAuz9TgrjqP6V4ZZ92x6au9iCmivxDqQny4OU=
+
+Name: assets/www/img/pictures/bastet 5.png
+SHA-256-Digest: EOCV84lPEYm6nkOyXztVBMMRGFzP9tOV35AmRgXQIP8=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA-256-Digest: i4x2w/gv910m5fgjtzNLAVzdiGWcdIsEl5lK8bBhbDk=
+
+Name: assets/www/img/tilesets/Dungeon_B.png
+SHA-256-Digest: LXij397WUGzVkuNmQBDSnQzM3VIA/VMqukczAhfSPlw=
+
+Name: assets/www/audio/se/Paralyze2.m4a
+SHA-256-Digest: IWGiPRb8cnkXFSTFcfouQmrHZxrIqbK/7Pqp8vPftmk=
+
+Name: assets/www/img/pictures/harpy.png
+SHA-256-Digest: +XcPf27AqauFMjC8+xIPGk+FUdAxOL4v+ZDWWDcY/Io=
+
+Name: res/drawable-xxhdpi/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: pPQr8VgW5jlLB7tMmAXOLV5fmmPz6iOrDflADhOqOIU=
+
+Name: assets/www/img/pictures/girl pink slp.png
+SHA-256-Digest: rriy7fjhJoVfYkmP1ZPwa66e5mWQGCzpsrJ2QPWyCvE=
+
+Name: assets/www/img/pictures/deertaur mini upp.png
+SHA-256-Digest: cJvVQ2GxXjWedhW3Q9SWFpGsvSuCbD43cKSC42Jk0l8=
+
+Name: assets/www/audio/se/Scream.m4a
+SHA-256-Digest: FOJwvK14WqF6PRgTq8tkpS6QqQt+6S0DR1Tx+HyNuo8=
+
+Name: res/drawable-hdpi/abc_list_focused_holo.9.png
+SHA-256-Digest: Jg+PCjVSVlpueOYlJadL4keGwrpVMH3GMezLHtsdmXw=
+
+Name: assets/www/img/pictures/11 over.png
+SHA-256-Digest: ryoak/PTK9+xUYgHi6IWbYRlA7Be3Qt5iUVG5OA2qDs=
+
+Name: res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png
+SHA-256-Digest: aUjCJ5GYKwbR2RH9YhLuKb+KgZGW7AH2D13c+FL1OU8=
+
+Name: res/drawable-xhdpi/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: tXaQUzzs2TBHqyDNOcTnSd64KbtOYRWybYpthO3qaic=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA-256-Digest: MGtc8ydiXF1MIssyA2EWv/g9DMy2nl7Z0ogwa/zONLM=
+
+Name: assets/www/audio/bgm/Dungeon 3.m4a
+SHA-256-Digest: G7zXaFP1tUadS/rAGeesTAHwx5WlE6wbvidYC0RSC+0=
+
+Name: assets/www/img/pictures/bike up.png
+SHA-256-Digest: pYz2QR+xEpgytqkOa9QRanG5nO7+UBxFb/sM2PpNSjE=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA-256-Digest: EDW6JVK2Is0oWtspFZ5rB8JGd7UpGZHOtln3qjUw1Ko=
+
+Name: assets/www/img/characters/Nature.png
+SHA-256-Digest: tUl5YvmVNSmIT9S2XgZx72x0eCcWEDZ+EG6xLXq7eFY=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA-256-Digest: XMrj9yJMaKtpqVK1XDjeoC3ikMQOpTZnR4tHvXxh3rw=
+
+Name: assets/www/img/characters/SF_People3.png
+SHA-256-Digest: +N0bzLzpLmLjzq3AbL2zMVX0mPaG7b0v0cdpDaGzgSQ=
+
+Name: assets/www/img/pictures/mansion.psd
+SHA-256-Digest: NJelqtGyCFlzKZi2xixVoUxkDSQImNkzp+K6HJqUA6E=
+
+Name: assets/www/img/animations/Holy1.png
+SHA-256-Digest: BdZQsM0JGVRogKhMBtzWm8DJnpOL8v/g1JCUwc4EuqU=
+
+Name: assets/www/img/parallaxes/CloudySky1.png
+SHA-256-Digest: 0o29DyzMGKKJ64QxrgRwmso6hv32BuT6YEWC0/T+y2A=
+
+Name: assets/www/jim.json
+SHA-256-Digest: mxqPJqN/SJXZ+MRaLXkzvvJTsz+lFqXBRUxvWI3/EuM=
+
+Name: assets/www/movies/devis.webm
+SHA-256-Digest: niztzNqPyub8yC3ne/De68naKZ8DpILdEJVPktM/gLs=
+
+Name: assets/www/audio/bgs/140477_jymdavis_mud-squish_mix.m4a
+SHA-256-Digest: uqK2IRD5Ku530mv0nS6FoZZUdTL9/axIPwF+2C1pBL4=
+
+Name: assets/www/img/pictures/girl pink womb.png
+SHA-256-Digest: YbK45D+4n2qbKg1waQtWvzLI9gH1wpPTseHGfQdlzaQ=
+
+Name: res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: PXu/R8isK3WXelecoaosEr6ElPkWRQ6XHPFyu8ih8xE=
+
+Name: assets/www/img/pictures/oni b.png
+SHA-256-Digest: mz8Shv5rsexbcpdN3Hu8gu601tfzEHoctqFts0yxb+0=
+
+Name: assets/www/img/pictures/sali 2.png
+SHA-256-Digest: +Kavo66GFnjMeNJnMP/q2fuo/U9SIiNG8OZCuaLQme4=
+
+Name: assets/www/img/system/Weapons2.png
+SHA-256-Digest: L15VHNqG8N81aCzLizBvBa4yB89MLZyTSqnb6LHZ2TU=
+
+Name: assets/www/img/pictures/girl pink in mouth.png
+SHA-256-Digest: L9RuGCiH0e7Bd9xkzYiW4CjcofO2vJ/xC7YWbonp7JU=
+
+Name: assets/www/img/pictures/038.png
+SHA-256-Digest: QTGVKjQxcwB9TXmPQGZxs99cJwLKJwSMtur5c9t5Mrg=
+
+Name: assets/www/img/pictures/dvorah swallow.png
+SHA-256-Digest: Hog+buv1Qe6XsdJGAhE9fwmyg5D0ocnxguQICAdJQog=
+
+Name: assets/www/img/pictures/horse girl.png
+SHA-256-Digest: gFiuvdXQ6wE/uBeAVID7rCo1UOBBvPeykX4ILpJC/zg=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA-256-Digest: RPxIug1WxVppCg1IrTCdUu7Rc6b2DPF7LGVp8enwVDs=
+
+Name: assets/www/img/characters/Zero.png
+SHA-256-Digest: 8PWijv6rqFJFBuL/AAEXZP0/JYbMknekld8uJe4ADe4=
+
+Name: assets/www/img/pictures/oni 3 av2.png
+SHA-256-Digest: 32x+GtYXpshDgAmBHCcLUvd+bg/9WYsyQUYcoHmRs4w=
+
+Name: assets/www/data/Animations.json
+SHA-256-Digest: YUq8SDSPsHml27Ku1s9coJW1/mBJ4u/EMBh12p+WJ68=
+
+Name: assets/www/img/tilesets/Dungeon_C.txt
+SHA-256-Digest: lmdmNDWd9xoVaV62Q7bENuwcR5t5e0PT7MOW1nY+F7A=
+
+Name: assets/www/data/Map017.json
+SHA-256-Digest: 9a9Qg+VDJgccEikwCdY88sMa/JthkwxcUcrvRulnACM=
+
+Name: assets/www/img/pictures/f av m.png
+SHA-256-Digest: ww5MuFMPQPHZRH3cmXEqLhJl4JwAXEq34Jg8asCG2bs=
+
+Name: assets/www/img/pictures/girl pink squat av gui2.png
+SHA-256-Digest: XlTz0UOhweJoqfxuseIDjFtA41tQOMCn3tKxPQttvU8=
+
+Name: res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: NuNzfATOn/kyLqccKQijauUyQ30LiZ9w5P8z8g+BC6g=
+
+Name: res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: 8kG91/b8YCTWJf20zGoFRPIL7moF8Cn5xKHWTpYHIKQ=
+
+Name: assets/www/audio/se/Raise2.m4a
+SHA-256-Digest: JwnLaSRWWeMe4G0Bz/sG13ZUJrobo0GAbnauai/hU8w=
+
+Name: assets/www/img/pictures/lisa mk2 ov.png
+SHA-256-Digest: BZoVxZ1XGuBtoTeh3Ed3iKnDZoBNShhuau9mRDvAiZ8=
+
+Name: res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: npamQquROcyj+4Is4ZnHEUQwh7WnRj4Mf+0BLZp3MoU=
+
+Name: assets/www/img/pictures/Anna_digital-fan-art-iphone-wallpaper co
+ py.png
+SHA-256-Digest: ZlHcmP/hcaY1gTRenDABT06pr20SxjZFMq5oQQSyjO8=
+
+Name: res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: B2vkYwu09LoQV5y6GzkA4/PyKGyvy8FYktl/pLRaJ84=
+
+Name: assets/www/img/pictures/oni 3 copy.png
+SHA-256-Digest: 1byPRR+9mxj+85b3IXUYTuHmaa5Y2kZlQ3zfaP/scV4=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: ruFNPUwBEVhWLeVai3KCHYKlmjG+N7+V+evdeWOiJV4=
+
+Name: assets/www/audio/se/Earth1.m4a
+SHA-256-Digest: 17CAP8//z7sGByOirH6v9DPNhjpKiD0i6TVXHY7rCL8=
+
+Name: assets/www/img/pictures/dvorah eat.png
+SHA-256-Digest: x8+g83pZleQktvWDV+OrEsXcjE6japR0XbE6r8uxxig=
+
+Name: assets/www/img/pictures/mia 3 b.png
+SHA-256-Digest: ykx01OKP8PU5oJGNFiB1Bgci8Hnv0aTimEgGlj7xH8o=
+
+Name: assets/www/img/pictures/misti b xeno d.png
+SHA-256-Digest: HGv14hRVN03HPkOipm9a2Qd2G7mmN8LQNlLk9/D4ydg=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA-256-Digest: in9NL/y5B+cUKAjPTf8ENGoNNOr0M5LmK/iaDpOw7w0=
+
+Name: assets/www/js/plugins/SimpleMsgSideView.js
+SHA-256-Digest: 3VcklCAguZ8t03Y/4HALiwtlEeMX6Pa5LTIpOJhikBQ=
+
+Name: res/drawable/abc_vector_test.xml
+SHA-256-Digest: mGcrgYkbC0HfAbaaVB+yHISXEBM6S9eHxXCqkcdghhA=
+
+Name: res/color/abc_tint_edittext.xml
+SHA-256-Digest: gudmeY4tXIzIAHDUqf+V6Mx94ZcHFoQJVHom6zLIRJ8=
+
+Name: res/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: Bbdvv0ZZMSJZe4tOL9I1j6BzSp+8LST1GY7ipy53qek=
+
+Name: assets/www/data/Map024.json
+SHA-256-Digest: YHOCkw4QWKnaqZZkF7kV+BV6GAzsa8tGvJY1jIrSB9U=
+
+Name: assets/www/img/pictures/oni b bg.png
+SHA-256-Digest: mIiGolG334LHi42WxpMpoZ0NqqJ4EUrIB0If+a2ptEE=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA-256-Digest: CN0qIZs/8ZuHosAV3nP5MkOo9jTgooJg/ziIIgC60xI=
+
+Name: assets/www/data/Map065.json
+SHA-256-Digest: uo3iq69grIpr9Vcr/PW9KLum7ogNN05xf7NLhunkN8Y=
+
+Name: assets/www/img/battlebacks2/Grassland.png
+SHA-256-Digest: ZSGNtkZTuOS5bqZ+GDPhQlzcEI4zFXxDhr+X8tKGuEE=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA-256-Digest: NALg/Vuaa7Qf/1mlDCXU9nuiILjYb5mHdGUyccDamR0=
+
+Name: assets/www/img/pictures/tinkerbell_by_sorah_suhng-dajxhsk 2.png
+SHA-256-Digest: aRiLY18sD9KNvJhAihaj/G20yCIjpTYKKzhuZBR9kag=
+
+Name: assets/www/img/faces/2000_Actor2_6_7.png
+SHA-256-Digest: U7aTg6HPz4U0zkck+PZDB8C7GO7OWaNGidNnr9NMtdY=
+
+Name: assets/www/img/pictures/devi b2.png
+SHA-256-Digest: wwiW+GtllkhLCvRimQu3zITZ1ijT3QwMhGDqz2xEiLo=
+
+Name: res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: kVz+LiofnyrUmGabCxxuxKJnNbfmkMT9a4M5qhdH5dc=
+
+Name: assets/www/audio/se/Buzzer2.m4a
+SHA-256-Digest: rONostwg0++LOFTkTyPzUTGPUsoB8z+grYWAcfdxYCY=
+
+Name: assets/www/audio/se/0 Pleasure_short.m4a
+SHA-256-Digest: cZr5hfdhSYmXwKRTgTA8VBwCrz+CTOxWr6Kb6dhqwz0=
+
+Name: assets/www/data/Map032.json
+SHA-256-Digest: x4kEd9wBirSWudj8Jgwc4pEr1KL31lMEsq5cSEdvHDY=
+
+Name: res/drawable-mdpi/abc_ic_star_black_16dp.png
+SHA-256-Digest: wF7QfnE1Ok2PJEelGKjIUz3afqH5MLyGvPUDtDpQOyE=
+
+Name: res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: U9J2lpEIeXV2c1slDNU5rhwDksCrBp0/9dkWWbNn8m8=
+
+Name: assets/www/audio/se/Siren.m4a
+SHA-256-Digest: yFnScMBIHuDxXeA8jplzS9GtCacHci2LMzLwl35srUo=
+
+Name: assets/www/movies/samd.webm
+SHA-256-Digest: Ith6wRwj6L/VYMc1IsYKCaekZ+lF7fscl6lFoUav+eY=
+
+Name: res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: QmixXTfrJ+x6wbsiGlcADO3jif00vq914mivs4CQEVI=
+
+Name: assets/www/img/pictures/mansion av1.png
+SHA-256-Digest: Lf1Rea6MCmJpqhAc8SsD9ciC1Ehclch/1V+qmBDQUu0=
+
+Name: res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: LHcPWBospTDt6yeBL5FTyhant59SReAtaRG1NKTIDF4=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA-256-Digest: QWCD5wYWvFxBFP0skP8FRlacwQmNZMmzpfFqQS1abqE=
+
+Name: res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: jGkUo9Bu7i2VuPp5TRKWEGKXldo+h7CjUW04rOZdUDw=
+
+Name: assets/www/audio/bgm/03_Panic.m4a
+SHA-256-Digest: 9JOJodL7Ok9AByRSgRJKX6ZVj+OnvSHsGGFNUqNGXP0=
+
+Name: assets/www/img/pictures/centaur swallow.png
+SHA-256-Digest: 8UrCL96AZfcHyeHa2NcsMRc1t0irXKtSCtpWSlXo0zY=
+
+Name: assets/www/img/pictures/david ov.png
+SHA-256-Digest: xmTjRGL+liIRLPtuqmqr23zMPuFjZyf5dx22lmBPrXo=
+
+Name: assets/www/img/pictures/oni2 copy copy.png
+SHA-256-Digest: opWb2fxXP4V+qsbghU2zL5rbyQKex/V8G+AappaMtvk=
+
+Name: assets/www/js/libs/pixi-tilemap.js
+SHA-256-Digest: GOHx0ThkM5JzOZj7Qo0RNOs1pkXbV9M2uqf+XluZZAU=
+
+Name: assets/www/img/pictures/2000_Actor1_2_hap.png
+SHA-256-Digest: aiV8jdMxCjsbxCoAX3lNzqlryic4F1NaV53FqIE0t/k=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: CwoonIAgOt1CxKEPa6cf+K8I0VYUIoRwAFL7QoUfQwo=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA-256-Digest: oX37T7OBeL30J3nW8w+9Sps7woCeBVNCNu8GTnp2X0U=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA-256-Digest: bNtu8Yg/Ldm041QN+PnWhWO2DcQCNA46M5DIPmBXDdM=
+
+Name: assets/www/img/pictures/118 hold.png
+SHA-256-Digest: OrkK0vveesxpAsdRsOpRS/R+vYIja/74syLr71X9UH8=
+
+Name: assets/www/img/pictures/123_fairy nom.png
+SHA-256-Digest: 79yKOSG6pa2BdlGksvD6+5IX1fpdf2p97tglg8xTcLo=
+
+Name: assets/www/img/sv_actors/Actor3_8.png
+SHA-256-Digest: 8SPT8yc3eJ1RHkbxLbpgL+ouS1AyEI1wkT7xwogATdM=
+
+Name: assets/www/movies/aayla av2.webm
+SHA-256-Digest: dNCTHWF65MO2dkP6F66MYr6+XvW9QX+ng0J+g2vPL7c=
+
+Name: assets/www/package.json
+SHA-256-Digest: 4Gt8GiKvXnLOV02aC00Rx6APKTWubDl24au5hPzig9k=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: +O9ZDvaNXQ0NapVqd90tYswLk/izxYvFNE2ScHBhIRU=
+
+Name: assets/www/img/pictures/mio cv 2.png
+SHA-256-Digest: 5qi4Bn3gI1GgWmtZEhcnItnVFdDsrnSIXMBtg2JLS+0=
+
+Name: assets/www/audio/se/Jump1.m4a
+SHA-256-Digest: udBUWoiQkXXbJbC3rK6Vbv22iIjO3qoSzbYT5EpyV8I=
+
+Name: assets/www/img/battlebacks2/GrassMaze.png
+SHA-256-Digest: jaxPzh9LIChnrQ/d0D4mYrZB/0ECZFRf457o8MkDw/I=
+
+Name: assets/www/data/Enemies.json
+SHA-256-Digest: wYKREO0Hya3RzB7PAabq5+Rjkdbf4cLoXejGCz1EsaI=
+
+Name: assets/www/img/pictures/girl pink smirk.png
+SHA-256-Digest: OdQD5BoKvzb5xApm5PWXG80RizBNrMhRVLUXQ23SUrM=
+
+Name: res/drawable-hdpi/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: 6lDYUgnZCezQcBO5kpKURLf1H9Itolpr4pNmMa0dKMQ=
+
+Name: assets/www/img/pictures/grass scene.png
+SHA-256-Digest: 8g1GWXtw28M1Pv6NHDdrg+Sh+rCT/Qs/P2X3+P1NcZM=
+
+Name: assets/www/img/pictures/centaur2 AV 1.png
+SHA-256-Digest: fwJoUEYFnEevP9s04YBNNKey0ys8vJNfCjVYhryhUNQ=
+
+Name: assets/www/img/pictures/oni b urp.png
+SHA-256-Digest: FAo144FBM5WoPK4Jof3lZRSyoalLYohCDXtr4NJ/XgQ=
+
+Name: assets/www/audio/se/Paralyze1.m4a
+SHA-256-Digest: Mv9wADW5suDfCe7tlY98vHUB8WWXCOc/vkxUjgUJN3Y=
+
+Name: assets/www/data/Map050.json
+SHA-256-Digest: II/WvuNjRxYBYEOsrINyCwPcarBddx823w2/2xklRlA=
+
+Name: assets/www/img/battlebacks2/Forest.png
+SHA-256-Digest: JcH3RaRqLFs/eTDH1/AYgCvTFQT9XRIB2Rg1INHTtOI=
+
+Name: assets/www/img/tilesets/Inside_A1.txt
+SHA-256-Digest: mooBt/YURiKd85Hu6RGburWywJ3zvfoLMX/cC67T+OY=
+
+Name: assets/www/img/tilesets/Inside_C.png
+SHA-256-Digest: v5Y845ZGbz45nFKsqbzckiUjIFq0Zh+xKKKmpDGEkhI=
+
+Name: assets/www/img/tilesets/Dungeon_C.png
+SHA-256-Digest: P5EmT2QeNk37sU6ISuta6adqtTptd0oLZaYTs5dJMRI=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA-256-Digest: zdqaIbZY8bnE9VRvs67RXmHMl5jNX4gQ+t3CeKDOEQM=
+
+Name: assets/www/img/pictures/01439 copy.png
+SHA-256-Digest: wwjTlCTvNm3+qc22JFk9ZkYJHomnPDvPTY5/v0rJODQ=
+
+Name: assets/www/img/pictures/Mysti cy b.png
+SHA-256-Digest: GPULhqrtf4Eiam08yCdwu6DBsDut0WdMWZT0Jdos9cQ=
+
+Name: res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png
+SHA-256-Digest: 5xUCrE01lR0OBj74t2iF4nhGotwM3GFpWdKlE/SFKi0=
+
+Name: assets/www/audio/bgm/Theme6.m4a
+SHA-256-Digest: q94Z+I6GUVS07yNVoANrJHklrDBnU/+HNzBkf+Bm2Eg=
+
+Name: assets/www/img/characters/2000_Actor1.png
+SHA-256-Digest: mdAZBo3UdPq+TmtehITBgkFJhmiAPxb4+YfVXr35ogs=
+
+Name: assets/www/img/pictures/blue_hair_ cruel.png
+SHA-256-Digest: 9V9JB3yWTKwvSQjp+nncn9MOeJgP7OsQgY5nip/xCLc=
+
+Name: res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: Obj+zqhCwXBN2F1d1uRnGlgJw1EEc1NQuERhxs9Uoo0=
+
+Name: assets/www/audio/se/0 orgasm_finish.m4a
+SHA-256-Digest: rngb1ERFvaki8G+dN2rTNYGWtcQxC5xO7g3zdWuI3GM=
+
+Name: res/drawable-hdpi/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: mspXngntbYoesnW1kkh1X4oRfAW5YXgjLTHWbqMnlxw=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: GQVvnppX2gVug0USvwhQ7jQZjIUdozonyy/ryO81028=
+
+Name: assets/www/img/tilesets/SF_Inside_A4.png
+SHA-256-Digest: YJZGd286Yjctig50oJr+7WMHvL5divS9QJKAPYHdmqs=
+
+Name: assets/www/img/characters/wo.png
+SHA-256-Digest: WWbK2+4sU4zpEzzmcp7J4aqRRS6BPkIAw2ExxVH4MRs=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: pflObj7dPaoAhXiIHJPmggWHMu0wclj5NplrvMURvBM=
+
+Name: res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+SHA-256-Digest: HW1CYGQ+tXNaDzx1/lL1dc7l9Cw6885C3FSsySnlhqg=
+
+Name: res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: z3asyb1qsJoonSNIYyCwPjIoogsw3FS1Q7u4q2Va3h8=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA-256-Digest: XlOPO1Oas27L/cHKd0myLphr/JCuZrlueiGg7K6LuRc=
+
+Name: assets/www/img/pictures/oni 3 av1.png
+SHA-256-Digest: bbpAJT7pYbpsuXlmej4OXcKXZQ+EzcU9nNtdG78Sj3c=
+
+Name: assets/www/img/pictures/Mysti cy b big.png
+SHA-256-Digest: zveSuoei470u7XXooFHSBRbNQz+x7xpoo7zXl5ZTyYE=
+
+Name: assets/www/img/system/IconSet.png
+SHA-256-Digest: ud6c41LH/6q7bTIBScR3iQQvS4/TqRVbG3rn5nV6/XM=
+
+Name: assets/www/img/pictures/tinkerbell_by_sorah_suhng-dajxhsk shrink
+ .png
+SHA-256-Digest: dOSkk7HbexMGdHYdCN41+VbHwyuqSjb5Z6BdbVBpBrw=
+
+Name: assets/www/data/Map057.json
+SHA-256-Digest: M2hVg59gWPh1cXJEEFy2gfeXamRTAVKdFxhv2Y2N3Y0=
+
+Name: assets/www/img/pictures/ali ov hld.png
+SHA-256-Digest: VmNKCeG4XZ+sytlzuoMnqC0aHT83CQ0j1/egsZp6suI=
+
+Name: assets/www/img/pictures/centaur2 copy.png
+SHA-256-Digest: +lRw64VAptt7Eum2MfXWu/IR0BTvm6hm9jqQF2sGYZY=
+
+Name: res/drawable-hdpi/abc_ic_star_black_36dp.png
+SHA-256-Digest: EIvUT/HFCdqKuWbCAcKO//WpEE29HShLPieUOJFHbtg=
+
+Name: assets/www/img/pictures/ac6f9355ebd746d9eae3745c4cd53 copy.png
+SHA-256-Digest: x6Kq0ZTpK+qa3jN0T+8syi/twx0EUpln3iluALo2bMY=
+
+Name: assets/www/img/pictures/mysti b.png
+SHA-256-Digest: Bm3jLD7ph6qpt3W4IDxraOKvCkENyLRnuJDPhH1MT+U=
+
+Name: assets/www/img/system/Weapons3.png
+SHA-256-Digest: M1YjGLgH0dxQnm7v42Yde46SruLyXx59FyjStjbwWMM=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: POmIx32HJzPeUsdKwmyisR3HqiUuambtSwAhWlxvWD8=
+
+Name: assets/www/data/Map060.json
+SHA-256-Digest: uMX9o4W8HyTZ970IcQ4GPaKZYBHE7YF7Fa0wOwPg688=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA-256-Digest: jgkwsYhvpk12SFcrtTOBTrFrCEYMVh/R8qaHHC1lf7g=
+
+Name: assets/www/img/pictures/11.png
+SHA-256-Digest: z70BySuhRLbWbV0x31GP6btXfRK3QyHCa/X9CETTeJY=
+
+Name: res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: RC0CY4uPrXhj04xDtwF5PZyxdVKA2/RL45IPwZo4kAE=
+
+Name: res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: v6OEujej4QJLc44KgqeJDwEvGjKRMHE198gZ0MnD1CU=
+
+Name: assets/www/img/pictures/cent b.png
+SHA-256-Digest: QktJlQu4m2LLdMxQuG6jr08iSSJMz+CocANmvD6Ps30=
+
+Name: assets/www/img/pictures/couch 11 foood.png
+SHA-256-Digest: 3oK5NjdB757RSf9aaGiltPGam+kJuWRc3CHR7o1uNCQ=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA-256-Digest: X1ZjKCm2QQ5HD/+zYwSY3F7PC5dSop8BipEZbt7DgsY=
+
+Name: assets/www/audio/se/Absorb1.m4a
+SHA-256-Digest: ukGpcTI5EHOlPIV4RRUq5X/4vy807iUpSNYdYSxp7Ik=
+
+Name: assets/www/data/Classes.json
+SHA-256-Digest: LLt2iVJyhsXgXYkOtmEwGk9sha1ET9lRgFqO9cOhkLk=
+
+Name: assets/www/img/pictures/118.png
+SHA-256-Digest: 06qvsUhS3tC0ELStl+0lmLKk/pWr4IXZA/vjZ7GakfM=
+
+Name: assets/www/img/pictures/mansion.png
+SHA-256-Digest: KHvZz8kzFmjmN6jRrJgLQDtXrEPwms9EQyRFPShWAzQ=
+
+Name: assets/www/data/Map009.json
+SHA-256-Digest: WhDX9hnwyR/MCkWwHhgitTFB1xACPnI5sreyxWZSqfA=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA-256-Digest: ofBnazcXLkoCybiujYjiQela9u6tjWBjgst4TGBwn7Q=
+
+Name: res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: OHwj54R0TnWjYRzhftFW8cGIUsawJalNFrE8CxCsRBA=
+
+Name: res/layout/abc_screen_simple.xml
+SHA-256-Digest: ynMJGgXucXmdWyyO3VgpjCC5hEhl5x7D4/lXXNUeBvw=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA-256-Digest: u+K+MHBW0tcgnLs8Ww2vF8ZTWmNaUYbUpLLOBsTN4No=
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA-256-Digest: 7fByqaWC6R1LlifsIYXKtA4YM6Z98f8eWmPSbvoGrZM=
+
+Name: assets/www/audio/bgs/0 Heart-Beat.m4a
+SHA-256-Digest: TjWCgAvoSAUVn+qoiD4OFc5EJSQvyTOEZW36wuZbD0A=
+
+Name: assets/www/img/pictures/Akiyama sm b.png
+SHA-256-Digest: 0S9j0FQJOf7J9ZOS4+9tlBg2LKcmRHmr2nkbgJXh11w=
+
+Name: assets/www/img/pictures/3ee033a44cd316b0dda6942c6559155e cum.png
+SHA-256-Digest: BVLUd/6K9ittOFgHiO+uJEqtQ4ZHiFD2HrXI/Q2VOP8=
+
+Name: assets/www/img/pictures/01439 copy face.png
+SHA-256-Digest: zw/nHLfTer7eZhPkgn+hjX1Yk/5n19Ldq8r+315LK3E=
+
+Name: assets/www/img/pictures/aayla2 b.png
+SHA-256-Digest: c5b5F247Xid2as6fDMkpmrEZ4EGgydJkUsRY6AjTzCg=
+
+Name: assets/www/js/libs/fpsmeter.js
+SHA-256-Digest: /sQ6E6Ui2v6cKMPTBjWida81Dt80I94DSftvucAelFA=
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA-256-Digest: nQKT9fPPYSuWdm3TG6mUrRCB+mhkvjCGTppoBnEJH0I=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA-256-Digest: zqU5kpAEOxw/Msosr1aTjJvgzWY/u7kIB6MlsNmBrMs=
+
+Name: res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: zX/8EgCetKT+7IyUJ4cAeApe2/csgPZQQRm4lmFlLlM=
+
+Name: assets/www/img/pictures/mrs_junkie___45_1776009254 copy.png
+SHA-256-Digest: CRGoojjMLw6Lp0yxBL8mnBxFR/cMNmYa9jUxXqWoHtg=
+
+Name: assets/www/img/pictures/wasp cum bones.png
+SHA-256-Digest: eZucl3hG1XnK+M0h0i0FYpGhiyi8+NC3PheNXKNcMwg=
+
+Name: assets/www/img/tilesets/Inside_A1.png
+SHA-256-Digest: Hu6nZ6Wkws2Et3zWK7X+K6BW3OzGtsfwQu6bvDDmiPk=
+
+Name: assets/www/img/pictures/in stom hnd L.png
+SHA-256-Digest: 3YeL8vnAORdpxAmvmcsk2MbH1aVST5RRp19G/yZKqsY=
+
+Name: assets/www/img/tilesets/SF_Inside_A4.txt
+SHA-256-Digest: sadK7fDgrZ+PzvDV71gPsieKpt96vdKnV2ErWty6bpM=
+
+Name: assets/www/img/battlebacks2/Clouds.png
+SHA-256-Digest: ohAr8mCMSIT+gLEpxPYUApeDe3F6T0uyI0QM+rnEFAU=
+
+Name: assets/www/img/characters/char tiny.png
+SHA-256-Digest: BojtnG5F63Gjfhafujcsa7ArK6ReT7ZhepNK+Ae8y+0=
+
+Name: assets/www/img/pictures/ali j fondle.png
+SHA-256-Digest: KB5pxjqoNs2isj3tFN6z5btazx5wOXKFpUYlqyunrzY=
+
+Name: assets/www/audio/se/0 sigh_extended.m4a
+SHA-256-Digest: g8ectpYbRaXPlB8KjgDCyVej63ohSQ1NbIbIlVTHf08=
+
+Name: res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: ZgVfS5JdrvDlZAqOMHXNexdqNNo4gIXVKFfVxvOLpjI=
+
+Name: assets/www/audio/se/0 Slurp.m4a
+SHA-256-Digest: GpY0APFhHkELQlfInKtrSaxYk3739KONJiGaFe2KXyE=
+
+Name: assets/www/img/characters/ningrn.png
+SHA-256-Digest: QOTviJfASTNztUWGxpQy4IMckaoKKaIgP15r0CA+cPY=
+
+Name: assets/www/data/Map068.json
+SHA-256-Digest: eWEdnhrmLsUb+Mu0p8nW6CxHcvdiFt5of5WT/Jq/gqY=
+
+Name: assets/www/js/plugins/Community_Basic.js
+SHA-256-Digest: k9JeixqRVNoCaFRyxZbsm6paauKrwpyhuPhcXWUfCtY=
+
+Name: assets/www/audio/bgm/Field1.m4a
+SHA-256-Digest: 00YiqJHS/S2geVlLbwigWAVzQmKXE8LLzWMDTewrnzU=
+
+Name: res/drawable-xxxhdpi/abc_ic_star_black_16dp.png
+SHA-256-Digest: rQd/RabJZslhOHIc6fgecKl7pt2ELUN2QRYhG1a76qE=
+
+Name: assets/www/audio/se/0 fart_light.m4a
+SHA-256-Digest: Z4stiYajcvYarMBIeVzzSelCXVo6iXQAhXtYLDKAmok=
+
+Name: assets/www/img/pictures/123_fairy copy.png
+SHA-256-Digest: mEnNRFp88R06zQjXSqK37MWj8Oj7EAkPIKpGDjj/RPo=
+
+Name: assets/www/data/System.json
+SHA-256-Digest: Px+M/cCOwWMNVX1PP493eZgAjS24xCwwLfSWAo6SRlo=
+
+Name: res/layout-v17/tooltip.xml
+SHA-256-Digest: w+cuMJAJT2XHkQxMRaLrZ3+XH4ibBLmOQPiXCnvfWfg=
+
+Name: assets/www/img/characters/keegan.png
+SHA-256-Digest: +979fiP7zwUom1MrpaJaTOq9OCNUiGNL28GrUM88Ogs=
+
+Name: res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA-256-Digest: lmEDwLsHIykt+8QVZTNjzUry2HS3dipcGXqaWqGZczA=
+
+Name: assets/www/data/States.json
+SHA-256-Digest: wGYfkW9D+VpKepXPCOPlnIQN5dSZujQgl3JpVxshmtE=
+
+Name: assets/www/img/pictures/slime copy 2.png
+SHA-256-Digest: YukvMr/21CN94QqYpMOyKaEC5e6sMiWgW3YCtmo3uFI=
+
+Name: assets/www/img/tilesets/World_C.png
+SHA-256-Digest: yiFzNTd2bI7tpUQvmAOir591KnqejlwpSov1wllU+M0=
+
+Name: assets/www/img/pictures/centaur2 AV bel.png
+SHA-256-Digest: ng7y0znUd/svnvVHQI7/mRwhVMahTzbOawdR6pgKfls=
+
+Name: assets/www/img/pictures/deertaur rb.png
+SHA-256-Digest: yVE8fPnLEfBQWbKZ9AFbe46lFcIrjcon/BpXBv+PXN0=
+
+Name: assets/www/audio/bgs/Drips.m4a
+SHA-256-Digest: 4jHzjifpa/OjvDLU1y7AQWSjkXrBROlXPANpF5wOtaI=
+
+Name: assets/www/img/pictures/ponk2 present.png
+SHA-256-Digest: yS87Ew7tQtRZmEQRn8Lksy1wi9td/CaedVsooCaYieQ=
+
+Name: res/drawable-xhdpi/abc_ic_star_black_36dp.png
+SHA-256-Digest: O+NcfYQ4eb11tGKPZCOO+2wfed76rBqX3OBCeEZ2apY=
+
+Name: assets/www/img/animations/Hit1.png
+SHA-256-Digest: IvggZl/bFy2EPkf1Kr3u6W/6QsMEsLGj9e6wmrGUQS8=
+
+Name: res/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: sVxWcFilbRVmHgRLtPhAhRLYennRF3nsjXGJ27MOrvs=
+
+Name: res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png
+SHA-256-Digest: VQ6PX0pgBMD/FMaBsgrmdcaUPl7imdo2k595D6iBj+A=
+
+Name: assets/www/img/tilesets/SF_Outside_A3.png
+SHA-256-Digest: xS6eB5DPbHLuHZ4ZzAcHcqt7UfV7muyl1sIKMO/+x6A=
+
+Name: assets/www/img/pictures/girl pink.png
+SHA-256-Digest: 3QmNyJrxWfpW7NLV2ygslZ77FuKvW/dgpG5+ujVlPWY=
+
+Name: assets/www/img/pictures/InBody bg.png
+SHA-256-Digest: ZPylMguGp7YC48J8PIrQ5FGIvWCbQiY3wr8f27tb9pE=
+
+Name: res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: HsMZKxCFKYRj/sGjxmnVVFg3wtL0gjlNqVqUWr7CK7E=
+
+Name: res/mipmap-mdpi/app_icon.png
+SHA-256-Digest: QLVhw5aLrZrNOOlselfOWw5EegI8I64kzr4Xo6I9Thg=
+
+Name: assets/www/img/pictures/cen cv av.png
+SHA-256-Digest: a9YzvkX7fUJXBeNnhQmD86VfLwzM1JjM8jAdf5dLejs=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: SXRqdzQlNlkyMYjOHqqoRI+ERMnR+FbX4lwCQdvNAQc=
+
+Name: assets/www/img/pictures/Cyrille inb.png
+SHA-256-Digest: HB2EwpIjajoWU2S1HTXweuPXw+iagYIdkCXM1BhssGQ=
+
+Name: assets/www/img/pictures/ali jerk bj dwn.png
+SHA-256-Digest: w2WND710ME2GD7QUpu3pdY7YEC0W1+i1ReSmgB5c28s=
+
+Name: assets/www/img/characters/aayla.png
+SHA-256-Digest: vPXM12o4whqu2XpaxwBWO1c3h/amXiMZh0+1AHgBx6Q=
+
+Name: assets/www/img/pictures/centaur2 AV belover.png
+SHA-256-Digest: 4xT2GQSj6tJgmUSS4L0M5jLxEvvFJhZfQKbbYITvY3Q=
+
+Name: assets/www/img/battlebacks1/Wasteland.png
+SHA-256-Digest: sBeNBAm13IXYCHvZ2w5QalmMl6Rl3epIgm6YzW3/2dA=
+
+Name: assets/www/img/faces/denias.png
+SHA-256-Digest: FlWZFDGPoCt4Lll1rUnAWo8dshWhP5Brfxn74ODuJTc=
+
+Name: assets/www/img/characters/!Door1.png
+SHA-256-Digest: FgjE73hnXZ7jnda25SI1rwiJMAJXGintUhJzeJWWv5Y=
+
+Name: assets/www/audio/se/Attack3.m4a
+SHA-256-Digest: llW9iYPzAJgx45q9Btt2wQSQ3SNWDD0ybBD4eIvTrig=
+
+Name: assets/www/img/battlebacks1/Snowfield.png
+SHA-256-Digest: iN3SlDubdttPyrwPNJ+G7oFWicgud0PVbvAhXG61oro=
+
+Name: assets/www/img/pictures/lisa copy.png
+SHA-256-Digest: s0cdyc1VRj/9MWXQHFN1Zqea388dvQbG4tajgJ2OENk=
+
+Name: assets/www/img/pictures/horse girl shit.png
+SHA-256-Digest: xxE2jZGfpvtoQxZ+ZmCEtfHV+bBPksLI11ZYlaoKbcI=
+
+Name: assets/www/img/pictures/Centaur grumpy b.png
+SHA-256-Digest: olNiXjlT8vZHWOAqkSJqK1STdAKmdMuNRylp89Rzx/Y=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA-256-Digest: O4Kklsl0/65UTvNHg6kKlx8737guJdhspuDvKYA2wXE=
+
+Name: assets/www/img/characters/2000_Actor2.png
+SHA-256-Digest: 7in7oAGOE/NGU/cWiIPvWTIzC1+tmtXZ79afBNHFxZ4=
+
+Name: assets/www/img/characters/rachel.png
+SHA-256-Digest: XkMUgcU8e9uK0i9NJ7JQDuBv/y9EdixE/1lvOtnO4yc=
+
+Name: assets/www/img/pictures/118 big in b.png
+SHA-256-Digest: J9rw3BnPf2oLowoZTyQ5e47rSM6Op5R7I8JqpkrEWS4=
+
+Name: assets/www/audio/se/Saint5.m4a
+SHA-256-Digest: lX91F51lzBRrIYapq/V51gJSPcuT+Rjf9lKSyX55Rsg=
+
+Name: assets/www/img/pictures/ali jerk bang flush.png
+SHA-256-Digest: JCRzj2JjYvUL8P1W2nJIfpaKRm+ZYP7ii5KvnMS1chM=
+
+Name: res/drawable-hdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: fpYbTdM55ipKUzPIeissUscPxZ1/WY9gXSpo0wIubg4=
+
+Name: assets/www/img/pictures/mysti b big.png
+SHA-256-Digest: j+Ua0Adt2cau11vDm6TIyCUf+mlK7MqPpg2C4U9TqE0=
+
+Name: assets/www/movies/zeenaav.webm
+SHA-256-Digest: do88u6dUvbFBx08AhhddS9ZGFzve7zo7FRseDIFgc54=
+
+Name: assets/www/img/pictures/123_fairy bely.png
+SHA-256-Digest: K4JX/3j3uVSQ4EMW8vFvUU3VWFMbzvjQJSdbvwvhz+8=
+
+Name: assets/www/data/Map018.json
+SHA-256-Digest: wKMveKg6GAMUksAbOn8Me4epFP93MYlenDEEOSBO9T8=
+
+Name: assets/www/img/tilesets/SF_Outside_A4.txt
+SHA-256-Digest: KzJyE7FwdueDs+cJFAuRUlGUUh1o7+CYtsMTn/qT6bM=
+
+Name: res/layout-v17/abc_select_dialog_material.xml
+SHA-256-Digest: lUC+cI8kaC9JR3SHtHF3sCBjfqPLsZXHxhEH2UEcDr4=
+
+Name: assets/www/img/characters/Package1.png
+SHA-256-Digest: EzoJT6sz4FWsG2kj451ts8XZUGkfyw9mZrSieaVm+Mk=
+
+Name: assets/www/img/enemies/Bat.png
+SHA-256-Digest: WgsKf5NldhfVraH6z32r7XrXdQ0TOoUY6lJtcwfZj/o=
+
+Name: res/layout-v17/abc_search_view.xml
+SHA-256-Digest: +LhFYEBogGz4Ur8TpcUk3Ul4zyE/awHH39hnhqGghoQ=
+
+Name: assets/www/img/pictures/bee 5.png
+SHA-256-Digest: 0lsLmYBdI1iwJQH9F+7UfclejNrF1YrtFgZ7uy1mPFs=
+
+Name: assets/www/img/pictures/in stom bg.png
+SHA-256-Digest: bvPRDmUjHrq5IHuquwvInNr/wmwFDgBSWt5IqYtZEuQ=
+
+Name: res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: PuPbU3LNNn0KehToMb9iM4r2+Evfd1e/djrdiMz6O94=
+
+Name: assets/www/img/pictures/Mysti.png
+SHA-256-Digest: SxIki+ypdMkiSiWU2lLWnX7jI9O6KRK3r74RT9C6PCg=
+
+Name: res/layout-v22/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: bcraKLTjOKoZBv734T4UtvFdx7voJapkawKSNvu9NaA=
+
+Name: assets/www/img/characters/SF_Actor1.png
+SHA-256-Digest: QJScSSPSad/tjdofOdeeifEhC4R8Um1UZfx9+ePLpyU=
+
+Name: res/drawable-mdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA-256-Digest: fCC21fUYPV4o563+gzN37gypX+a1w1u3IsLHYsE9bFo=
+
+Name: res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: FByvLVxlx9uwC98KJ3cvG11FuK/FcLCZ+gGbpMwX2nU=
+
+Name: assets/www/img/pictures/lisa mk2.png
+SHA-256-Digest: qI1wRwvBcSU7KRiL+dx061HbRgqR6/7KLXhrJRTbwrI=
+
+Name: assets/www/img/pictures/blue_hair_251 copy.png
+SHA-256-Digest: iaYqXA3C4DjN9p/qaEz8/jONQIzRzh7zyopWjyCaVIk=
+
+Name: assets/www/audio/bgm/Castle1.m4a
+SHA-256-Digest: n80w7iM5VUSpMuPsHuJ+LjE92qqzMiwC0n+/65BwRtA=
+
+Name: assets/www/img/tilesets/World_C.txt
+SHA-256-Digest: e6OoGmpmX1fvSsL+zYqPfR3adkVP2Ulw9ok/GTYoIEw=
+
+Name: assets/www/audio/se/0 stomach5.m4a
+SHA-256-Digest: NXvqT+lrIc04U9RIUQOVpo4vTHSP+HXZcRudWY3hVs0=
+
+Name: assets/www/img/animations/StateChaos.png
+SHA-256-Digest: UOowBk5yNVjtnppJMiqWFXBSZm/bc9d6ZVE02aAABXk=
+
+Name: assets/www/img/pictures/tent lift.png
+SHA-256-Digest: TDI3egWJLlfIOtDdlM07hLTRjfp5rjTQq5j/E2XKxDQ=
+
+Name: assets/www/img/characters/Actor2.png
+SHA-256-Digest: 9MNOxRR9vi9j4oRsdL5BtJefqUqVz9Gvou7JbytHWMA=
+
+Name: res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA-256-Digest: x6GZAqMMY1xHCK3C4MKRH72zD6i6+IeOlvRKjJwBL2U=
+
+Name: assets/www/img/faces/People4.png
+SHA-256-Digest: r3N0P3/zbmkfBXTMteTq6n+Lbn5bXBUMgtlJZMjgZSc=
+
+Name: assets/www/img/pictures/Package1_6.png
+SHA-256-Digest: 7yfanqxjlsfw7p0f5VPd8jjUi1SIzMxsnQOLPWm/RLc=
+
+Name: assets/www/data/Map011.json
+SHA-256-Digest: FXUMX2djR4tGn2DFBhFbrIhpIxaEVuz0KCTybWYYWlE=
+
+Name: assets/www/img/pictures/nia_teppelin_by_xeolan-d7h2rq1.png
+SHA-256-Digest: LIwDmnojRw5hnH1xMIVQLlkGmBs/CuS+saIZnFTDEyg=
+
+Name: assets/www/data/Map002.json
+SHA-256-Digest: 05mFZ6n6tiXqhNTJjn/hVkRRid8LbmCzeVFsMhlTPqE=
+
+Name: res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.p
+ ng
+SHA-256-Digest: JHFSupsJPWXWl9BxzH6YasfmTE7JXPQsQLbwVO+btmE=
+
+Name: assets/www/js/plugins/MadeWithMv.js
+SHA-256-Digest: 60+K/tjmijJraBvHCuortcWXZkzIS5m4+tSJQ+UxvoA=
+
+Name: assets/www/img/pictures/nia av.png
+SHA-256-Digest: TxXGEq9KoB80Psn6G5C7OHLiY+kM2NNLTTCShveHL4k=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA-256-Digest: On2CgDbmHA7EGi2mn/3DMLB470MENZA/2myguYHp5k8=
+
+Name: res/anim/abc_fade_out.xml
+SHA-256-Digest: fIpmTooCePX0Gc15oL4pEeS2C362pPBG0H/f67bw4m4=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA-256-Digest: HGqSSJO+yKc4M3bf7IC5JG+btvoTDJBh+kWDGtuY2Io=
+
+Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
+SHA-256-Digest: LihpMwDIzV291Jy8cZcEVOnr0qo6pi7ZepfcH2iUhDw=
+
+Name: res/drawable-hdpi/notification_bg_normal_pressed.9.png
+SHA-256-Digest: GLMo2AF+Z31arT29ZrrjVrXKyXjG8GcJOOpkjlHQ62Y=
+
+Name: assets/www/img/faces/Monster.png
+SHA-256-Digest: /MeL1tHGlMndmgphesml9FPFZ/FqQdXCsYjPmOlknSc=
+
+Name: assets/www/img/battlebacks1/PoisonSwamp.png
+SHA-256-Digest: vOuXyYiNo1ech7tkhoH/u6Izj61r9v95nQDniQZXils=
+
+Name: assets/www/img/pictures/deertaur rb oh.png
+SHA-256-Digest: Y16V6Z4BepBO7nkGsQgAyKIKO6MBopP0/RhCSdLqiGU=
+
+Name: res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: /R2P8V9EP+2Z9kuy3kyOWRSOf0XwJyyTiKYks/21v0c=
+
+Name: assets/www/img/pictures/sali mas cum.png
+SHA-256-Digest: /EPGFIdEKrXB/7MDggsZW077w3TnW529ruxae08R9Lo=
+
+Name: assets/www/img/faces/2000_Actor1_6_8.png
+SHA-256-Digest: BKrC7es8LKfKb9wV8DnP/xqFb+iiVNdie+jwuqFAzuQ=
+
+Name: assets/www/img/pictures/cent3 av.png
+SHA-256-Digest: j8JOALp/66msvZMOkfzrdUFQUjfNoLrmt9X7c+amnVc=
+
+Name: res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: g9jlqYVcR7cTstOFpUmQ8Uz3oFwwEENeHO9PA+L4wY4=
+
+Name: res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png
+SHA-256-Digest: gFg5t3UT7EG0v0suXuEu0GE40xliHu0VuwSdMRZc4Is=
+
+Name: assets/www/img/pictures/00083 copy 6.png
+SHA-256-Digest: NDjU19MmThS21t7zuzpZsLX5xyTz5LLUTXm6yJwZn1w=
+
+Name: assets/www/img/pictures/Centaur grumpy.png
+SHA-256-Digest: BzXpoxceH+5Q6pJ5uRSr9Pg4C9WijZQjo1qIgj9Aou0=
+
+Name: assets/www/img/pictures/Scouting_by_fishcapades nob.png
+SHA-256-Digest: tjJNtllxC8p6jOqLZ19nZ/6gjif2ngQfh4XPX06+P4M=
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA-256-Digest: Uh0pWIcI4/707BRrFjUiu0OUpjTjl05j4aZmxBMQdO0=
+
+Name: assets/www/img/pictures/ninja av.png
+SHA-256-Digest: T3ZxB7ceb8i+wrOQGHAjPfTyDgO0kd9NVMSIkguK644=
+
+Name: assets/www/img/faces/David.png
+SHA-256-Digest: lceVrJc6AtwwYWlq+CAvwPyHHpUuHY35T1g67YY933c=
+
+Name: assets/www/data/Map015.json
+SHA-256-Digest: kv2LGI/wxps6Pb2zeZOGqQEnY6EdGJiX5TW8N37loK8=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA-256-Digest: G697k+LUfTZUWuHXkUVmCGZqLGg6Bfqs0VGMD6AgOKQ=
+
+Name: assets/www/audio/se/Blind.m4a
+SHA-256-Digest: 4tl6NjMXV4r/Ztdn4mqTkhYiQwfHfDLSwC55uR5Bnrw=
+
+Name: assets/www/img/pictures/samb.png
+SHA-256-Digest: uP6GGy7hATPkzU15eVXI2+3obX0AXARqCmnCWAfGlOY=
+
+Name: res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: OaYJYYX7jB4vRkDj805BuftQYMeRgSE1ZunFBKBZkxQ=
+
+Name: assets/www/audio/se/0 Orgasm_whole.m4a
+SHA-256-Digest: HKCLcTdOyVMV99YniZev7A7qwHEF/NsZBJ5gfJ/qY+w=
+
+Name: assets/www/img/tilesets/SF_Outside_A4.png
+SHA-256-Digest: 1wHf+j1ZZwa6zowSL3BbvsNZ+7eNvB+za6W8gcTrEMo=
+
+Name: assets/www/audio/se/Applause1.m4a
+SHA-256-Digest: 8xclIubtMWHYfcTDqQqa35flXR+avReF+pfKJbSncA4=
+
+Name: assets/www/img/pictures/cen3 mount.png
+SHA-256-Digest: 8cwyMMq0f8MjlCrYA0PZ5waBu3QAk1Arf0untDO32To=
+
+Name: assets/www/img/pictures/centaur2 AV 3.png
+SHA-256-Digest: cG7TWxNEt4UXTerc+csne12XIS1tZk3jAKI5e7oPQUw=
+
+Name: res/drawable-hdpi/abc_ic_star_black_48dp.png
+SHA-256-Digest: O+NcfYQ4eb11tGKPZCOO+2wfed76rBqX3OBCeEZ2apY=
+
+Name: assets/www/audio/se/Darkness5.m4a
+SHA-256-Digest: ie5g1w4FATjRDOzS7cnSj/1zzy22LHCzVq3oTGqIHKY=
+
+Name: assets/www/audio/bgm/Field2.m4a
+SHA-256-Digest: PSRFedq0o853ck46UyTCNBMfc7nVEci9iD//0vayA+w=
+
+Name: assets/www/img/enemies/0blank.png
+SHA-256-Digest: Y3MnWcvC/gHWa8s662FDsnOkdjYE8Kg4UWXvO2qieio=
+
+Name: assets/www/img/pictures/slime copy 3.png
+SHA-256-Digest: 9fiZlExz3ltqPSLVBF9i49IFU8LCCjs9Q8jU0DcOTdk=
+
+Name: res/drawable-hdpi/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: PpPCL6HNiAY9cfG+jee1jYm68zRYsCAX2rbk2fNjakk=
+
+Name: assets/www/audio/se/Close2.m4a
+SHA-256-Digest: j/pEaB228xbnzyBUhXTGmY326xP5D/ZB0WA5l1GHCT4=
+
+Name: assets/www/img/pictures/2000_Actor1_4_joy.png
+SHA-256-Digest: rMVOp02dvPs7FYYbLe9ykGduPgq42OXKaef1/G9lz4w=
+
+Name: assets/www/img/pictures/naga 4.png
+SHA-256-Digest: 6PdXIVRvfvJ/HaMzlRXG0z83agnvX/OztLLLMb4uSaQ=
+
+Name: assets/www/img/pictures/in stom hnd R.png
+SHA-256-Digest: N+AOlKo93UQDwaYqDh+WZYaCtn4oMSgCD9hLDBM+jYs=
+
+Name: assets/www/img/tilesets/World_B.png
+SHA-256-Digest: 7Fi0mZvjn7KqvZ6QOuY35gzz58k+O3Mm01Eydw2jtXQ=
+
+Name: assets/www/data/Map064.json
+SHA-256-Digest: VGz/TKdkULhxkV7rV0P8QhsKC1+pEljb5TPlGAJCQgw=
+
+Name: assets/www/img/pictures/intest bg.png
+SHA-256-Digest: OkjRLn2VaEf6HvhDfl1kQUEMT9ZMbMoOPf2S2GbT7Iw=
+
+Name: assets/www/img/characters/!Other1.png
+SHA-256-Digest: 0oaf92MRl6+vJCtdB1oFSMqdcdlaQQYFug/wGceR6Bc=
+
+Name: assets/www/img/pictures/ali nuts 2.png
+SHA-256-Digest: bITWwWUwJrTbA+0NHoc6DEJP4qcUqit2gH7FJuZsYu8=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA-256-Digest: ZkS1X4KIcNdjkqmuE8iQfo9LiU5S/s08wZVO1Xr7ngA=
+
+Name: res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: A90yuy/yZlFLdztwKIbKV3UAslLYf0UDFhWd0v2uAh4=
+
+Name: assets/www/img/pictures/zebrataur smile.png
+SHA-256-Digest: Rn+MuBvrvRWF2mx0qQfrq6LQG6r3Xw6Qa2YGnfN2LLQ=
+
+Name: assets/www/img/pictures/001 av.png
+SHA-256-Digest: BdCBiQZIp2BXliftxMm5+CwJjCNHQy4TSczA57u5dLg=
+
+Name: res/drawable-hdpi/notification_bg_low_pressed.9.png
+SHA-256-Digest: Qq7gsDiD6U315UM0ijl9EwLBuCIYlYcag7gYmfWpZHs=
+
+Name: assets/www/audio/se/0 gulp.m4a
+SHA-256-Digest: tfgjSt4wwFmQCcmxHAp21QS2I1V2Afkt6wnQRCq3v34=
+
+Name: assets/www/img/pictures/mia 3 ov.png
+SHA-256-Digest: EOJLv0JtuEbAaqd94MutKzoiR4XN2r875O0Onga0DQ4=
+
+Name: assets/www/img/battlebacks2/Cliff.png
+SHA-256-Digest: vVEtQd9rOG1oBRWj4/0VCdCQFwPsET/LfzjupNT//L8=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA-256-Digest: kdkAJf7DbykM6fgsytk9Ld4i4ZfFKMfSpRBDzI+qLSk=
+
+Name: assets/www/audio/bgm/Ship2.m4a
+SHA-256-Digest: yJjcZOAlrS4kW4BzLTzpq+ZWBCGsXfzrTjNjEHPeVkU=
+
+Name: res/layout-v17/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: xAt0lI4Nkls823ogLWsSUU+wrDFNesOr7MS0NKkv7Dk=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: I+AL1eQYKa3SJQ01/+oRz2xR5V4c6lXC72ppYJII45s=
+
+Name: assets/www/img/pictures/f av base.png
+SHA-256-Digest: x0+mrx3bItNnlvGD0ZT9oxFB9cqQzfuQYlWf9aWRErg=
+
+Name: assets/www/img/pictures/princess side inb.png
+SHA-256-Digest: domMwUdjPjhR/EeDoVFdulvIai3EBNudQXz+6lHmHlA=
+
+Name: assets/www/img/pictures/skinner 5 copy.png
+SHA-256-Digest: sEIeOrZn+JMyEhdnjXxEGU9SvJ7LCI/5QYVZAP2TfYs=
+
+Name: assets/www/img/pictures/mysti kneel deviav.png
+SHA-256-Digest: nP/wFqaU8cxEBZVeBgEutZ/DErQK5B2wCkrNpVKVE1M=
+
+Name: assets/www/audio/se/Bell3.m4a
+SHA-256-Digest: qvE1LLA6JHTRicr7ksG/ALtxDms7PaQXpqJHxrWwNnA=
+
+Name: assets/www/js/libs/pixi.js
+SHA-256-Digest: 6MOroZy9tr/f5+ngZ1MykXFzHRoF1cSbdQzGZWoxREo=
+
+Name: assets/www/audio/bgm/Ship1.m4a
+SHA-256-Digest: al9gH4QU5uUujxJ/B7yxvu01yYv8xLehp7f7xFAszO8=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA-256-Digest: 3/vDBUNrm2JRwrmJM04JOKmAa7ih3SG1ATJMaW7+Mw0=
+
+Name: assets/www/audio/se/0 stomach4.m4a
+SHA-256-Digest: yAXGeShIkY2HGt9HgSlR3ZlSaI18M02SQJL5hbzlhas=
+
+Name: res/drawable-mdpi/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: NcVkccZBTzNkWjdsDRqKEm9M3HKPI0TQi8zTgo6BDi4=
+
+Name: assets/www/char 3.json
+SHA-256-Digest: Em4BaL6hZzTKsJ5Y/sR3BcMZFiFpNsOLNDydbEyjZfw=
+
+Name: assets/www/data/Map044.json
+SHA-256-Digest: WdjLUxCffUw/Gk0rzMd8+tfgeGALuX5Sw5hGKfOvlDA=
+
+Name: assets/www/img/battlebacks1/Meadow.png
+SHA-256-Digest: 7ocD6x+afcTH+4qFQZuyMtC0rX1LhmZFX8D+MgnOuEY=
+
+Name: assets/www/img/pictures/xeno belly.png
+SHA-256-Digest: rOl0Xztdg0qysoTSiJXjMrVd2vh1fB4cxImsjoiaiSU=
+
+Name: assets/www/img/pictures/lep 7.png
+SHA-256-Digest: oHXkzTNlv3BZGaK1zQsj9itQfpctDq6R5g5+M5rFqXk=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: waEG/MRu2yMy8RJE36E/M3VRhlC04YYuNrLPNpFPjS4=
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA-256-Digest: a5cKqpP/B/l6CYTslZYq7iN2OD32hIya/hLxuaDL2nU=
+
+Name: assets/www/img/pictures/01439 long b.png
+SHA-256-Digest: qBkKwIDYSAzGB12acRCAPEK0VsVdcsruYp1Sa4+8LfI=
+
+Name: assets/www/img/pictures/the_BIGGEST_sorceress_66 av.png
+SHA-256-Digest: IVC5Eev1bfIabh8pnrXAxoHZWfP2psYkd0fM7W0ICbE=
+
+Name: assets/www/img/pictures/ali inskirt.png
+SHA-256-Digest: IZvQVUYFGML8Mfv3Kcv8u3sfLtaFmWD4Z/lc0mbc0q4=
+
+Name: assets/www/img/tilesets/World_B.txt
+SHA-256-Digest: 6D5BwDLf/ch++lQlTX02lIulFcANl3TNtTEGYk2+228=
+
+Name: assets/www/img/pictures/00083 copy 5.png
+SHA-256-Digest: R0soi7SMq492z5cFWE1jWBlXJ/evD924+qyQWuLRgIs=
+
+Name: assets/www/audio/bgm/Castle2.m4a
+SHA-256-Digest: jb62gzVLyKTx/poug6SReN5saaZ3ZXJ6+tEqvZ7E1M0=
+
+Name: assets/www/img/pictures/ali nuts.png
+SHA-256-Digest: LYbEgQKptokUmCrr2bAE3gfmQStpsE+s2uD8/rbrb/U=
+
+Name: res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: f1N6YPMLPlbgwJG64HR6NAf9zZ1kjm+mHsa0QzGouw0=
+
+Name: res/drawable-mdpi/abc_text_select_handle_middle_mtrl_dark.png
+SHA-256-Digest: 8QkHKJlb6FBdFom+JQdZC2lgoESRELsAddlnUW7jwA8=
+
+Name: assets/www/img/pictures/20098_1158155552164_122_449lo ov.png
+SHA-256-Digest: +wm6cIukcDEZ95Yw7vHvzcHol4ohQ4m5a1TPPtxSG08=
+
+Name: assets/www/img/tilesets/Dungeon_B.txt
+SHA-256-Digest: yESFY9PtOiN1ebaGfKEQu1wid0cfpmbpx0Cx+GJWTfI=
+
+Name: assets/www/img/characters/SF_People2.png
+SHA-256-Digest: FYC8QUKUYzPmt++ccRhkdQ/on/ywLGPBs17x50WHAIY=
+
+Name: assets/www/data/Map035.json
+SHA-256-Digest: A7A+V3s150NZdDYCCH0GNWzsZvv7ckoTb40CN0NVAp0=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA-256-Digest: jtuF6bxICPIEi+R0tmcAd0oCOLRUUfE/r6i7ixbdTJU=
+
+Name: assets/www/audio/se/0 laugh_closed.m4a
+SHA-256-Digest: 6X0GxDOLi95rfWV9UnT4jWGjSsqCP+Rz+lu9OImYWps=
+
+Name: assets/www/img/pictures/zerowag cv3.png
+SHA-256-Digest: 3SEyXQo4/lO5F5q2yy2b/JYMJNRVhE6CiHDNRxVFp1A=
+
+Name: assets/www/img/system/Weapons1.png
+SHA-256-Digest: ab8lzb+pLpIHXMi+ZViJUHB1ME23Qedsj7NjZWHRwvA=
+
+Name: assets/www/img/faces/2000_Actor1_2_4.png
+SHA-256-Digest: ZAh773b0n368KPrH3YRIzdDlwN/jzw5TKO5XSgpEDyc=
+
+Name: assets/www/audio/se/Evasion2.m4a
+SHA-256-Digest: ggDpKGabKfM2zzzDRCp3Y+GaI+Ktb6MRxG2BsFJAb6I=
+
+Name: assets/www/img/pictures/blue_hair_001 copy.png
+SHA-256-Digest: nkQ8Qh22VVQs8IV+yAfjTTop/eAQSb3i5YbIc+g7+DE=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA-256-Digest: ae91ucUN9KiHC7q91y9qspHUqlvVoLCuM0wmabY0JVk=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA-256-Digest: 3PlI7NGUnY5oX4gV6FXHNGJtUneHPlyzHxFK8ytsE+g=
+
+Name: assets/www/img/pictures/admin desk mth.png
+SHA-256-Digest: +Isik+rn2Ve/2E591IhY4gaYYIj38KJZ+aHIHX4Fp/k=
+
+Name: assets/www/img/pictures/Centaur grumpy scat.png
+SHA-256-Digest: 6qJrRQHBJm1N/AUM3aftFWNJ611iJBYNY2Jdndl4Sjo=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA-256-Digest: 2fDy1EAAZfAFwqfgwKIWvsry6bl4i0GC5LUKR58NGbU=
+
+Name: assets/www/audio/se/0 sigh.m4a
+SHA-256-Digest: Mq/8SRpEdvIwL0U1v8prZZ+tfidwAd+c/qSXG7Ydh+0=
+
+Name: assets/www/audio/se/Sword5.m4a
+SHA-256-Digest: VwL1P3yXyVAdW24N/Smni8TGGlA1XwroZAPgNViblrE=
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA-256-Digest: VE7ksRxA5BL/oi+V8+WSdfE1DmjaUUTsNLdB33ZmvW8=
+
+Name: assets/www/data/Map041.json
+SHA-256-Digest: tvzD6eja9Td7Pf2So+1mjW2dTjBSEZ/tTbqHN3jfRDg=
+
+Name: assets/www/img/pictures/succ 2 slight bulge.png
+SHA-256-Digest: RSk25LDsJq5zyx6h1JdEXfMoGF9gCfQQ2RFTuSKbnqw=
+
+Name: assets/www/img/battlebacks2/PoisonSwamp.png
+SHA-256-Digest: 4YCt40n0xtDboOofUC8u+ZAd9pPh7JlNHIZbNY+ZCL0=
+
+Name: assets/www/img/pictures/dvorah face2.png
+SHA-256-Digest: GbkfLF4nMcApRGpdI3BD4x+bIVQn7sIQ9AtUGbV9kjU=
+
+Name: assets/www/img/pictures/mysti knee avl.png
+SHA-256-Digest: gVwHbXK2dUrczMiDgeKe6Z/YOu03jI5zZq4X9WZIBJk=
+
+Name: assets/www/img/pictures/mysti b xeno.png
+SHA-256-Digest: 5ftQHxUZu+FOFcnhTCrZcIgXnMsFsxeRRcd4vL8bZik=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: pOs+340fQ0D/BTMWCi74RrNIAoyazvxsNOW9KUdXjQ4=
+
+Name: res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.
+ png
+SHA-256-Digest: 9IEsZThjAxXQLMOhgro/z7hYaKKqmDGOxd1jZ3NR+HI=
+
+Name: assets/www/img/sv_actors/Actor1_4.png
+SHA-256-Digest: J27k/FQ3t4Tfidj8bJP8uIbrrafGuBCxLFNsScQnqLY=
+
+Name: assets/www/index.html
+SHA-256-Digest: oTdnv1luQX0HHjSN4TEPTWECl8pFrfycH5h5IvYq1+o=
+
+Name: assets/www/img/pictures/sali g av 2.png
+SHA-256-Digest: N4L4yk90N+58a475RGFi80uitcKoIpRQ2kVmt/0XfcQ=
+
+Name: res/drawable-mdpi/abc_ic_star_black_48dp.png
+SHA-256-Digest: dZ2rNWxeLpQA8K5rEOXzLFT8FlSMQFBli2L6ZR9abM8=
+
+Name: assets/www/img/pictures/naga 2 copy.png
+SHA-256-Digest: cSg+TzUjJqjPKfrATtIDOpWkW2iUx3+QxwzgnZZJQ6Q=
+
+Name: assets/www/audio/bgm/Ship3.m4a
+SHA-256-Digest: 6UuxRfWXakGCjjwOOIoBZDCZy2kf5qnAcmEj3gm5E6E=
+
+Name: res/drawable-xhdpi/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: vZsJl1zLW7ToH5lGPiV8mKc/jJW+L5D5A1e4EUCo950=
+
+Name: res/drawable-hdpi/abc_text_select_handle_middle_mtrl_light.png
+SHA-256-Digest: RhwAsabHXKwm1QOOsUBm8dwGNFkvElmg5TsphsOAybo=
+
+Name: assets/www/img/battlebacks1/DarkSpace.png
+SHA-256-Digest: 2owljbQgQV+u/T0prXdVEuBPa4fdrsBQoq6r6ZIApaI=
+
+Name: assets/www/img/faces/pink.png
+SHA-256-Digest: WJQ8skempcLPOWdliM1NiQ8Wad3MtevdX1qpv8d+ieQ=
+
+Name: assets/www/img/pictures/oni b hnd.png
+SHA-256-Digest: Z3hDZgMyhuHUIlBJQa6dQPxb10gaUmepk6WaiiIUpsA=
+
+Name: assets/www/img/pictures/oni3 avp2.png
+SHA-256-Digest: WBUZ9/cQjaHpYx5B0jejVYgJC5FdTMO33t7HxeLLR94=
+
+Name: assets/www/img/pictures/samb poop.png
+SHA-256-Digest: g/dk6QKZ3hKB5MuLjWxYyWERetQxuiwmhFfI/eShC7k=
+
+Name: assets/www/img/pictures/Package1_6 copy.png
+SHA-256-Digest: ze4bgpokfugdNfflYBuYFI90/OaQVu4EDKo1QNHcCRM=
+
+Name: res/drawable-xhdpi/abc_list_focused_holo.9.png
+SHA-256-Digest: Z6rSx5uBdlbPCY1YoHE045TTZCCG8gHsFJ3/Bv3/PF4=
+
+Name: assets/www/img/animations/Mist.png
+SHA-256-Digest: /tbwH1ifGCZ96oE/i4aNQcdQT0gk3kvdZ7D6F6st++Q=
+
+Name: assets/www/img/tilesets/SF_Outside_A5.txt
+SHA-256-Digest: Dz5zp7FUvXyS1jEYwzJgiyfPfdrE3tFL0vWIfXm/A44=
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA-256-Digest: 6rAUq4bOfrchx5qOYCyI+UirLbjIkU+sBYozkGMA7rg=
+
+Name: res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+SHA-256-Digest: t/jv1ywwJaE7cTeU7wnFjA0tzX25/z3rPqkehBaoo1s=
+
+Name: assets/www/audio/se/Gulp1.m4a
+SHA-256-Digest: nGXSr0v6DAD4DvfoUGWAZBQijSEU+ykUAQJxT79z/gQ=
+
+Name: res/layout-v17/abc_action_mode_close_item_material.xml
+SHA-256-Digest: J5xkIYEY7MFTU7Tsko4deep0z6iZ/Bd7B06HfUY3xm0=
+
+Name: res/drawable-hdpi/abc_ic_star_black_16dp.png
+SHA-256-Digest: 58nQWIrxZbeqkgmGhbhfQcaFK/8kNcnok3cEMC2o80s=
+
+Name: assets/www/img/pictures/sali g av 5.png
+SHA-256-Digest: uB7DSBHSdidnHGnP7zAw2OhwEHIcr8/CUt/7rSzjD4M=
+
+Name: assets/www/img/pictures/skinner 5 av.png
+SHA-256-Digest: CwBFBs+VOt11QKzIhdtnYOaXGTaLsoPbxoeYJIFoyfk=
+
+Name: assets/www/js/main.js
+SHA-256-Digest: 3KsUJ/lcS87fHtWVuCjQxCPUyNF2dFLJpOZRqcB6Ork=
+
+Name: assets/www/img/characters/zeena.png
+SHA-256-Digest: TFI8KFZMJvx+V4Whxza/j5ysC3SpmVYCfM3/5LE6JeI=
+
+Name: res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: GyKfAR+pQrU9lVVnCD0sPgMxFG77X3Z/Trkt3x9elTE=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA-256-Digest: N8yhpPgsrYk8mAdcsiMpux39snYPNHz4VRYpOwdAKXE=
+
+Name: assets/www/img/pictures/AkiyamaMiofull swalshk.png
+SHA-256-Digest: iOVApaMdC8bnbTf8p0pUCpGpq5O1KKA4z+vCIjwVHTc=
+
+Name: assets/www/img/pictures/11 og.png
+SHA-256-Digest: 52eCirxzsqxnVOQ/aI0b2YrQj0gaVvSX+CabTenFXC8=
+
+Name: assets/www/img/pictures/Akiyama bb.png
+SHA-256-Digest: RxhPbEJ3CwNJ4OUnG4qAt0PFyBa/6/2jnK1FJDCOr+Q=
+
+Name: assets/www/img/pictures/samb crouch.png
+SHA-256-Digest: /eSVjWzYt/aFCEEc9hmdYOu0f48sYSK+NeM7X+JH64U=
+
+Name: res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA-256-Digest: S6MTs7jJ6N2VNtwYDXumFHtpVPpppk4784/F2sXxhj8=
+
+Name: assets/www/img/pictures/dancer ub small.png
+SHA-256-Digest: jzxpULZDVjSqZqL1Sa41JNywEPskxmshSDRVVUVVGrs=
+
+Name: assets/www/img/characters/demoness.png
+SHA-256-Digest: Q+RJuIbN5KZDHtKQIVPl8Q0Bi9cQu8VhyHXA3lmL6jg=
+
+Name: assets/www/img/pictures/oni2 B ET.png
+SHA-256-Digest: LEDQxDqYTmC7onBBrrCupAWW1pBKoLUNA2K8oWieb7Q=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: 1dYy75Bj1H/Vr3Iyl27mFzLyfToTH1D/16sI3p1kOZc=
+
+Name: res/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: RQv46gIJe8J6x+IfpA/cTkrVIfry5r0XZXEc0sAsWbU=
+
+Name: assets/www/img/pictures/maid.png
+SHA-256-Digest: MYhRXxK+eZAH0UMMForwEHStbUzgfNLGZcLgWOBzHLs=
+
+Name: res/drawable-xhdpi/abc_list_longpressed_holo.9.png
+SHA-256-Digest: cn14/sP5A6JxwEdqUOjAZNKLMveCmwFq4KB9pTuDsoE=
+
+Name: res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: IxAXLPHHXKCLY7qjjSm2oUXaNem9I6wLeNJXHwDZ2Io=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: aci5rFblBA1e7Gq5zeuiM0hMiAJNjBz2s3FByJkW/do=
+
+Name: assets/www/audio/se/Item3.m4a
+SHA-256-Digest: spRTF1+JUAtz7f4W8KjdPLNklWKHsq23PDqpeh0xauE=
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA-256-Digest: jNwoOOQvM05BhOpcCbmVLLLkm7+VP3T7+dBEJTsxPRY=
+
+Name: assets/www/img/pictures/Centaur grumpy horse b.png
+SHA-256-Digest: DiPdTSxZETg8IDOOUxe1Wd5TtYSGMD51EDKY5XRocEU=
+
+Name: assets/www/audio/se/Computer.m4a
+SHA-256-Digest: 7XrECJ9X0WMKp8nfXSbOLw25VAnhtua3D4TN3FkjnoE=
+
+Name: res/anim/tooltip_enter.xml
+SHA-256-Digest: PnjvIXfwm1nbPJEezZIn1Szpnmuw8EbC/jSMHVOZjCk=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA-256-Digest: GBjqXze8SfVYR/W310s2AzKBJk3h76lu0Gd6A/chYsA=
+
+Name: assets/www/img/pictures/girl pink sex orgas.png
+SHA-256-Digest: W4ORLObbuSG18wGDfsMZJ9oT92D5wa8gPC4npv63RWQ=
+
+Name: assets/www/img/pictures/succ 2 copy.png
+SHA-256-Digest: uvoOSv/zSGM7JT801UHhhFwNSf7LxEj/Zn5sSTmJuxA=
+
+Name: res/drawable/abc_dialog_material_background.xml
+SHA-256-Digest: uPv2INLodOcevayfVDS0i64MM67vuthy3Zi7G/pj2kk=
+
+Name: assets/www/data/Map005.json
+SHA-256-Digest: urtJ7jcpuRGDQF7SlyXoELhOzDQKH93H7cL3xxg4SHA=
+
+Name: res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: n3VRmr5BYgWUdvRo/UjszkgrZp5XuU2HSb54PWOAh1Q=
+
+Name: res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: S3h0JaKx6rtyHNmb0j7yNduA9BkApmAowocvoGgBEHg=
+
+Name: assets/www/img/pictures/girl pink squat scn3.png
+SHA-256-Digest: oWZovL9uqpECXqf30MXjX3MHrz+QhZ4RtX3CfrhKSRk=
+
+Name: res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: SRTB97n3GF4DYapOprzHtuRaldU0uPgpkoK6RTcXNO0=
+
+Name: assets/www/img/pictures/pole.png
+SHA-256-Digest: hvj0h6qsOtqOSQ6hZqwm5GyP0hW6KHQEDC+TitzKoc4=
+
+Name: res/drawable-hdpi/abc_text_select_handle_left_mtrl_light.png
+SHA-256-Digest: x6no9LdGJDMhZJSVyz7G9LkmwAYt2+EvjgXW7mmk3fo=
+
+Name: assets/www/img/pictures/girl pink av gui.png
+SHA-256-Digest: ZTyUeWHqNgClzpqknrjXwtU+Den4oYaSitx+PN204hw=
+
+Name: assets/www/audio/se/Wind1.m4a
+SHA-256-Digest: TGkLZBuUBhzjxz8P6v6A7d2tfJCAqBQpBEpoUBv7KJM=
+
+Name: assets/www/img/pictures/zerowag_by_zerowag-dbbt7la 1.png
+SHA-256-Digest: 462sHUmVljT5A+Yp3TrtzblwYH3jeJJwt9X4klshK1w=
+
+Name: res/drawable-xhdpi/notification_bg_normal_pressed.9.png
+SHA-256-Digest: 0nr0NRAcpMvsDIQL0waHkYzTnrg6qxSHQghVYjpFmYs=
+
+Name: assets/www/img/pictures/girl pink scene.png
+SHA-256-Digest: c3Yo5PWLM1HINzkTK1cOLIIST8piNWmVnXeSyUOH5ZY=
+
+Name: res/mipmap-hdpi/app_icon.png
+SHA-256-Digest: MFHbzBcgdh1e1xFw3XQrdzmlE0GoTjrzI1mngLSiYbw=
+
+Name: assets/www/img/characters/MOC.png
+SHA-256-Digest: MnZ9ljHbuhgypRFfoCkSJoId3S2zE6rn0Nz8BXlON5U=
+
+Name: assets/www/data/Tilesets.json
+SHA-256-Digest: guzlwPh6wLnPYpjqrFWxUquJtfyIPeOFAlLD4sCbVho=
+
+Name: assets/www/img/battlebacks1/Lava1.png
+SHA-256-Digest: v2lOSpQeg5OCF/D9y+rdG2nbvvohLzuBJBJ6MeknrZ4=
+
+Name: assets/www/img/pictures/slime copy 1.png
+SHA-256-Digest: xn1G1kfsDMjbg+13UmehG6xb3j0LeI2SMzrlzO2pmx0=
+
+Name: assets/www/audio/se/0 gulping_x3.m4a
+SHA-256-Digest: rh1fxbmPdx86xZTEc5JysufyBlQlfAkarN9Mbveyh+Q=
+
+Name: assets/www/img/pictures/00083 copy 2.png
+SHA-256-Digest: poXj938AQTZrbClNleGdYYWlGV80nlC21sByH9ONvQ4=
+
+Name: assets/www/img/pictures/f av close.png
+SHA-256-Digest: 5OFUmcfM7WmF86/sJJewtvmnkGO1kMYmpJbaWH8zUGw=
+
+Name: assets/www/audio/se/0 pleasure_gasps.m4a
+SHA-256-Digest: F13zkqAP2wCoIFMLYdYjsfQ6Q+05NWjSv2TsUNIAXSQ=
+
+Name: assets/www/img/pictures/sali2 blush.png
+SHA-256-Digest: 4FwApFTAzKswkAv+uPiY7qasiYy8/44NE2v6R2HPlIE=
+
+Name: assets/www/audio/se/Sword4.m4a
+SHA-256-Digest: akDn2lLlg/gygEWnZ2JXh1QYcWzxdYnGk5LZYdxOXZA=
+
+Name: assets/www/img/pictures/naga 6.png
+SHA-256-Digest: WLBYwd49FwITumFHmrohNHk884N8feB5QNamyPRZffo=
+
+Name: assets/www/img/pictures/bunnythroat.png
+SHA-256-Digest: Aa3FIfJENB0z3LW7qMb0s1E57z7dPkD0qWdzjjgm5zc=
+
+Name: assets/www/img/pictures/oni3 avp1b.png
+SHA-256-Digest: 5hOohbTlkHKavuHFWh1LOXH2ptOhWJcBUuUAOVmow5E=
+
+Name: res/drawable-hdpi/notification_bg_low_normal.9.png
+SHA-256-Digest: IfC1UoC+ELGHzv+O3vSlpwR2g+bp/PR95BCqODn0EJQ=
+
+Name: assets/www/img/pictures/aayla5.png
+SHA-256-Digest: k8tl0OpvE8SAj5I7wiK6NPXWOnrFNQsgLeb7gbIF/hw=
+
+Name: assets/www/img/system/Shadow2.png
+SHA-256-Digest: 4J7++nSP3ZzPQA1H0XetiXVGc4ZkKNuSImaTE3xUsYw=
+
+Name: assets/www/img/pictures/11 base.png
+SHA-256-Digest: mIAkEhcnmCTrVSDlR7SObW/2qSxlQMB31SQymzJdGuA=
+
+Name: assets/www/img/pictures/girl pink poop.png
+SHA-256-Digest: evsur/yZk9SqMVZPLmzIFzpE7jvE1TK6fA6l2lPzQqc=
+
+Name: assets/www/audio/se/Evasion1.m4a
+SHA-256-Digest: 1DF5MxQi4N85wd9T4hQbfIaNDgn/IXtvNB1Hre9dZBI=
+
+Name: assets/www/img/pictures/princess side.png
+SHA-256-Digest: NS8n5PXuH84BfOpN6gcZZ5Cx6XFMGFIkXU1MeyTJP48=
+
+Name: assets/www/img/pictures/oni2 copy b2.png
+SHA-256-Digest: 76AbtjWRIgwseTgHwiOajQjliNRDK+M6lS++r4u+ch4=
+
+Name: res/drawable-xhdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: vUu8nC8TSP0HxyiBZ5u6RHotVuvZFcBZ5FYCdqYKqqE=
+
+Name: assets/www/img/pictures/oni3 avp3.png
+SHA-256-Digest: BaBMBoOt3cri7XU2wpY+YVLq/LG6HufebzlW+qqCmYM=
+
+Name: assets/www/img/pictures/mysti small b nev 2.png
+SHA-256-Digest: al32MAukkQDHGis9w3itJIT4i4AfihwqQ4ADVGfOSh0=
+
+Name: assets/www/img/pictures/ali jerk.png
+SHA-256-Digest: bZSq1XMkrt1jB+85ldrOr5N/u6X1eANAJTfo3RDmN8U=
+
+Name: assets/www/img/pictures/001 ub.png
+SHA-256-Digest: nLlzPL6RHzpT3/SP4sMWbJky7lwduEXX8gxPBKB3U/0=
+
+Name: res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.pn
+ g
+SHA-256-Digest: senI/xtWYrOlx7q2siP/FLaP4U4tCX/8PM3D1YWerIg=
+
+Name: assets/www/img/animations/Light1.png
+SHA-256-Digest: CswooXaA/eXaLxaBfa5B1MVV8eQn1fahyw7AFpQMxR8=
+
+Name: assets/www/data/Map061.json
+SHA-256-Digest: QCyZE2U1ChWAwIWvIgyk12pbT0mVK4blyuLumb+RRq8=
+
+Name: assets/www/img/pictures/Scouting_by_fishcapades copy.png
+SHA-256-Digest: y+Z4/7FlyqN2/gdp4bcaqZoBPtCMJ/mo+fEQkJCcH5Y=
+
+Name: assets/www/data/Map028.json
+SHA-256-Digest: 8fv59P3h3PyNDP0IofwvHay5CPhTwPoTednn/+EtEqE=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA-256-Digest: 3VwgnWKkcq6aRZEl9iLelZvuzmRnDLvlIqgo0UTOyvQ=
+
+Name: assets/www/img/pictures/girl pink squat scn.png
+SHA-256-Digest: OoLKW7RZ8+13m2y2vItSOHuHts//LjJ9on/NM2yAb3U=
+
+Name: assets/www/img/pictures/centaur2 AV bg.png
+SHA-256-Digest: DfIWbaq+2GHYHyOyk/cD1Qh2ufU0i9xRUnTy71i6JgI=
+
+Name: assets/www/js/plugins.js
+SHA-256-Digest: 3RhyBoxxfqPossNDQL81r/g37cmJEDuNPa9i7Fdgy0c=
+
+Name: assets/www/data/Map058.json
+SHA-256-Digest: GLuFguda0AuylH32HhQRcAbQ/9uOsTG1TMvEDR1ASbU=
+
+Name: assets/www/data/Map031.json
+SHA-256-Digest: YXtjNWsL6khnTuJc8Byxk+352bCHwj1HDMYehApEtHc=
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA-256-Digest: G4tBvQuWHm5N45x6IcOhH+2g89Zn3ezD4XctnBm79Xs=
+
+Name: assets/www/movies/zeenad.webm
+SHA-256-Digest: vBdrOtgy9UyI6GZBU3KprXwYj2xPLy3dW2eYP9jquds=
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA-256-Digest: AvT8qk+L0upYXadd4FMhoQxDpi/GSbQSRrPUqe85jYQ=
+
+Name: assets/www/img/pictures/sali g av brp.png
+SHA-256-Digest: IfTBPPen6kIWBha1TxQ5vovS6vhu7BLMJRgo5heqtiM=
+
+Name: assets/www/img/pictures/bee 3.png
+SHA-256-Digest: tyC8Ba9oZSNG7zm80vciP+SAeaT73PsRwUHBXyoExeA=
+
+Name: assets/www/img/system/GameOver.png
+SHA-256-Digest: 2IcFypM23sohUwj3ARmEwAIm4QojQnfK9PSZ4Torgb8=
+
+Name: res/drawable-mdpi/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: 39WuHOvCdCCryO2KeJw2RcqmZcHqKhFXfLZGjLFz+JU=
+
+Name: res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.pn
+ g
+SHA-256-Digest: tumCXcsmQtdaTsC0+77DDC/NE4wVEpDTMwaCtYizcU8=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA-256-Digest: xBcdcFEORb2VsJZuovBL/ZC5lUoKITuvDNMNwqfzdh8=
+
+Name: assets/www/audio/se/0 Burp_mid.m4a
+SHA-256-Digest: 5KdoC+fiJIldMdsxQJhQnlTQj9e4gy1DNFWno80vt9s=
+
+Name: assets/www/img/pictures/dvorah.png
+SHA-256-Digest: qhsXoF9uWD1igsLPXxr39IQbHn6ki9pnFAEMi1Uiisw=
+
+Name: assets/www/img/parallaxes/Forest_Canopy.png
+SHA-256-Digest: /5jHLQG46E3VoB3akpIa4mb4qGRsomYwBCbS0pwy3po=
+
+Name: assets/www/img/pictures/ali jerk bang ey1.png
+SHA-256-Digest: YfTgskBrjQTwtuRpBPje3wryUuPvnn0k53pLJ86CcXc=
+
+Name: assets/www/img/pictures/girl pink squat scn2.png
+SHA-256-Digest: k/LULDQwJjL2JX1a7lm7gzev+hY8eMTsPaOpTuguNRc=
+
+Name: assets/www/img/characters/delegate.png
+SHA-256-Digest: /w+L4F73U1O4OKwCjTzjrtTGT+R2UAc5QpDmsG/6YZ4=
+
+Name: res/drawable-xxxhdpi/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: Mjo+V/irkljKIcZAi7Bo7fgVjv6HXrT1cv/SHAIaJfo=
+
+Name: assets/www/img/battlebacks1/Lava2.png
+SHA-256-Digest: B9zpwnYNO9PYYVzk4HFp5ve5zVVdveipcL9ZVduyOcc=
+
+Name: assets/www/audio/bgm/2000_Ordeal.m4a
+SHA-256-Digest: w7QMITfgjhwuxHW/5SMpLQxGOBO+1Sq9TLqbZDNZKzE=
+
+Name: assets/www/img/pictures/lep 4 copy.png
+SHA-256-Digest: Dk39KoOG7eWtCESu9PfsbozzmrghWizOECwPTud3qtQ=
+
+Name: assets/www/img/pictures/bee 4.png
+SHA-256-Digest: qYPpz4/6q1gcK6vZmAwrLDyB+B/puyYDpjcFNxRsZG4=
+
+Name: res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+SHA-256-Digest: m5a2FLAMPhQAklZ8HMPK8ydnZjFN4gLZjavS1jyrnek=
+
+Name: assets/www/img/pictures/lep 7 copy.png
+SHA-256-Digest: X0daNEA4eH+C8tEU8xjjMkXYAWB94gIv5NJplOnUonU=
+
+Name: assets/www/img/pictures/samb butt.png
+SHA-256-Digest: qlXtdEOQTfeQsmsjAhBSjZPI98dOFGq7XjTfFa/oN0Y=
+
+Name: assets/www/img/tilesets/SF_Outside_A3.txt
+SHA-256-Digest: SpKABmxoFbcGyCB6so854uSsofnVfNvrdXjSjQpk6RA=
+
+Name: res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png
+SHA-256-Digest: l8rq+Bmghtp/8mkpbtqLOJnM2ihZggVTdywqntkrDB0=
+
+Name: assets/www/data/Map048.json
+SHA-256-Digest: rjI1Pq/1Hbi4B3wCYKw59YQ2R+PBrsZXHALwmc8LnTU=
+
+Name: res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: PJPcZVDgMd7FPywWRrRv5S5sV0p7Xt3TPQKRADY9+RY=
+
+Name: assets/www/img/pictures/tent p.png
+SHA-256-Digest: jsZxNvoAgnMF45poo8IlRsfEcqLemuuSZvmq7fMGp+4=
+
+Name: assets/www/img/pictures/mysti kneel o av.png
+SHA-256-Digest: EC5viav469FqH7KMwcEe/R+CkynTaeLfcfxsG42PN3Q=
+
+Name: assets/www/img/pictures/zebrataur fb.png
+SHA-256-Digest: iAp2eqLk9rX8uX2feWzHA7viL4z94gYU51A8F4DAqaI=
+
+Name: assets/www/img/pictures/122_hearts.png
+SHA-256-Digest: 8wezI5ALUDXD+e5nl4CttnTwiZqQxfs5AvpB3j7avvo=
+
+Name: assets/www/js/plugins/YEP_MessageCore.js
+SHA-256-Digest: QAP8kwCSSEXvloxOOaSMIoh5/HMLUIIQlPgdHOYg2zY=
+
+Name: assets/www/img/pictures/centaur2 cv2.png
+SHA-256-Digest: a0ZAU1Smir2anC6gHCbQl2E8CoiPrq2lA/3HjS38IgE=
+
+Name: assets/www/img/pictures/sali cb.png
+SHA-256-Digest: ce52+WeO3YdlaNR8LPY3LkLp6C/+1fHuh1c9l5qfnrE=
+
+Name: res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: iT40162zrV2OxrRDsHkawd13uOQ0luQ6Hi4fbl8K+XU=
+
+Name: res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: 3+UAh4D2QnFyzLSc0ML1zNCqo745Ibh1NiyeZaCN92w=
+
+Name: assets/www/img/pictures/girl pink hold.png
+SHA-256-Digest: bIqHf++LKw0bUJT9LY037MZkj/6ZmCVXfnz5ybDyHr0=
+
+Name: assets/www/img/system/Shadow1.png
+SHA-256-Digest: pd4+qvck6kvDUOOxymev6E0tdeAoT6d5pExi4Txq/9E=
+
+Name: assets/www/img/pictures/zerowag_by_zerowag-dbbt7la 2.png
+SHA-256-Digest: W7fpQDOyyqloI3ARLG3kGyiGLqGLNMOKw4u0jTjd25Q=
+
+Name: assets/www/img/faces/trenchy.png
+SHA-256-Digest: DMLXbDUft2UQIPwqbwwEaDz47jgbtzgQhOLV+hlVp30=
+
+Name: assets/www/img/pictures/aayla6.png
+SHA-256-Digest: EUdPNhUBszkYrF3qhsU+IHErJv66STAzBdZiyvlhW4E=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA-256-Digest: M2B4MYJZCDH18QdKF8hg4ebDSTk0XRNrrSDyiGyk5uU=
+
+Name: assets/www/audio/bgs/Wind.m4a
+SHA-256-Digest: Ef3lyzNgoIWOhZiy7j+ybJETXd2YGR78weixWc7xaQE=
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA-256-Digest: +GaraPt4rD7ddGlu7vNqYvcpO6/qsKFWwacaNfrNuhk=
+
+Name: assets/www/img/characters/del 2.png
+SHA-256-Digest: uY2hqPjwLXNZJP4gve0KrKMjAxLHvWZin0fCEeJtR50=
+
+Name: assets/www/img/characters/Actor3.png
+SHA-256-Digest: 3R2NB8sWvelobcQZ5247omjkS12QJlIGx2GIxhH3MdE=
+
+Name: assets/www/img/pictures/oni 6 belly.png
+SHA-256-Digest: pFYk5bOdGSXkaA0zJ8YDLo0EqGYsd4Hd9EG856BIXk0=
+
+Name: res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png
+SHA-256-Digest: rpZCUkBqyUZaRCrWbJ/gd+jRY5HeTs5+rWEouX+VQ2I=
+
+Name: assets/www/img/faces/char.png
+SHA-256-Digest: 16c00jM6qgCnwOHHl5tZZ/emfPS9qzgJWiPYbC2Mv1s=
+
+Name: assets/www/img/system/Window.png
+SHA-256-Digest: LdfAk79YmdV3Y0eNoXh2KcIJP3f778a+MyrN+BVGtHY=
+
+Name: res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: VNgToPPU6Z+qGwwaZ9CZaVscuagxfG6Zo8Nj+ir9X2c=
+
+Name: assets/www/audio/se/Cursor2.m4a
+SHA-256-Digest: CJxux4gZdn+Quegc+Wpb5jUZTJyX9nt0VM7MVoXkgVk=
+
+Name: assets/www/data/Map038.json
+SHA-256-Digest: Gu5C1rLNhXSpBwGbIERtqKTodi2qwaLD7alqQ4qKSL0=
+
+Name: assets/www/data/Map051.json
+SHA-256-Digest: tVMtV5YUoNcthtM3R3GPWQQLM4KZtRE3rNU1csp4vx0=
+
+Name: assets/www/img/pictures/oni 6 belly ins.png
+SHA-256-Digest: uVsNa5PQhPWIzNbUOCZQmQFSWrEh32uqw4C8XV2xIHw=
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA-256-Digest: TOIcabWa+8O/8jleX1HC8iFEXm8J1Dn9HSAVTxy9z+0=
+
+Name: assets/www/img/pictures/samb poop1.png
+SHA-256-Digest: rMYVC2l19Sg7ofeC4gxIflf+BE6oYqh3rJMxxlaj4O0=
+
+Name: res/drawable-mdpi/abc_text_select_handle_middle_mtrl_light.png
+SHA-256-Digest: x3gVCXcK+cBYkLtXfmXn64o9U8VaQXxHUQT3In4gq8g=
+
