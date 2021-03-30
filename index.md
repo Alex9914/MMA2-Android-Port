@@ -1,4 +1,4 @@
-## Welcome Player!
+## Welcome to Pages!
 
 You can use the [editor on GitHub](https://github.com/Alex9914/MMA2-Android-Port/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
