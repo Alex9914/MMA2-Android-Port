@@ -1,36 +1,18 @@
-## Welcome to Pages!
+## Welcome!
+(Note most of this page was copy and pasted from [here](https://aryion.com/forum/viewtopic.php?f=79&t=48584) the game creater)
 
-Hello Player!
-To download please press the download button here **[DOWNLOAD](https://github.com/Alex9914/MMA2-Android-Port/releases/download/v0.69420/2_app.signed.aligned.apk)**
+![Night copy.png]({{site.baseurl}}/Night copy.png)
+Latest Version is 0.69420 (Downloads are in the download page)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for s
+Linux (v0.61): https://mega.nz/#!W0wCEaga!WQnUIC0Fp6cm ... saFxf2qrp4
+Browser version (v0.60): V0.69 browser is in early access on the Patreon!
+https://www.newgrounds.com/projects/gam ... 24/preview
+Password (vore)
 
-```markdown
-Syntax highlighted code block
+This is made on RPG maker MV (which was kindly gifted to me by Crusader). So no need for RTPs etc.
 
-# Header 1
-## Header 2
-### Header 3
+Disclaimer: The main 'storyline' in this game can probably be completed in under an hour. However, judging it by that standard is rather missing the point - there are so many more fun things to do than just run through the storyline. But, this also means I'm not going to waste your time with grinding or unnecessary long exposition. Just go in and have fun!
+Game contains:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alex9914/MMA2-Android-Port/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
