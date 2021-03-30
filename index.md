@@ -1,7 +1,7 @@
 ## Welcome to Pages!
 
 Hello Player!
-To download please press the download button here # [DOWNLOAD](https://github.com/Alex9914/MMA2-Android-Port/releases/download/v0.69420/2_app.signed.aligned.apk)
+To download please press the download button here **[DOWNLOAD](https://github.com/Alex9914/MMA2-Android-Port/releases/download/v0.69420/2_app.signed.aligned.apk)**
 
 ### Markdown
 
