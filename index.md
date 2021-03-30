@@ -1,8 +1,7 @@
 ## Welcome to Pages!
 
-You can use the [editor on GitHub](https://github.com/Alex9914/MMA2-Android-Port/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello Player!
+To download please press the download button here # [DOWNLOAD](https://github.com/Alex9914/MMA2-Android-Port/releases/download/v0.69420/2_app.signed.aligned.apk)
 
 ### Markdown
 
